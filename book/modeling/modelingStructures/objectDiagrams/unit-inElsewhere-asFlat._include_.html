@@ -1,0 +1,85 @@
+<div></div><p></p>
+<p><span class="dimmed"><strong><span>Design → Modelling → Modelling Structure →
+</span></strong></span></p>
+<div id="title-and-body">
+<div><h4 id="object-diagrams"><span id="object-diagrams" class="anchor"></span><span>Object diagrams</span><a class="fa fa-anchor" href="#object-diagrams" onclick="event.stopPropagation()"></a></h4></div>
+<div id="main">
+<div>
+<panel type="seamless" src="/website/book/uml/objectDiagrams/introduction/unit-inElsewhere-asFlat._include_.html#main" fragment="main" class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-education"></span></span> UML → Object Diagrams → Introduction</p></template><template #_alt><p><span><span aria-hidden="true" class="glyphicon glyphicon-education"></span></span> Object Diagrams</p></template></panel>
+<p><strong>Object diagrams can be used to complement class diagrams.</strong> For example, you can use object diagrams to model different object structures that can result from a design represented by a given class diagram.</p>
+<panel type="seamless" src="/website/book/uml/objectDiagrams/objects/unit-inElsewhere-asFlat._include_.html#main" fragment="main" class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-education"></span></span> UML → Object Diagrams → Objects</p></template><template #_alt><p><span><span aria-hidden="true" class="glyphicon glyphicon-education"></span></span> OD/Objects</p></template></panel>
+<panel type="seamless" src="/website/book/uml/objectDiagrams/associations/unit-inElsewhere-asFlat._include_.html#main" fragment="main" class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-education"></span></span> UML → Object Diagrams → Associations</p></template><template #_alt><p><span><span aria-hidden="true" class="glyphicon glyphicon-education"></span></span> OD/Associations</p></template></panel></div>
+<div>
+  <div><panel expanded><template #header><p><span><span aria-hidden="true" class="fas fa-dumbbell"></span></span> Exercises</p></template>
+  <div><div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span> Draw an Object Diagram for Box etc.</p></template>
+<question>
+<p>This question is based on the following question from another topic:</p>
+<div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span> Draw Class Diagram for Box etc.</p></template>
+<question>
+<p>Draw a class diagram for the code below. Show the attributes, methods, associations, navigabilities, and multiplicities.</p>
+<pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Box</span> </span>{
+</span><span>    <span class="hljs-keyword">private</span> Item[] parts = <span class="hljs-keyword">new</span> Item[<span class="hljs-number">10</span>];
+</span><span>    <span class="hljs-keyword">private</span> Item spareItem;
+</span><span>    <span class="hljs-keyword">private</span> Lid lid; <span class="hljs-comment">// lid of this box</span>
+</span><span>    <span class="hljs-keyword">private</span> Box outerBox;
+</span><span>
+</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">open</span><span class="hljs-params">()</span> </span>{
+</span><span>        <span class="hljs-comment">// ...</span>
+</span><span>    }
+</span><span>}
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre><pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Item</span> </span>{
+</span><span>    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">int</span> totalItems;
+</span><span>}
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre><pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Lid</span> </span>{
+</span><span>    Box box; <span class="hljs-comment">// the box for which this is the lid</span>
+</span><span>}
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></question></panel></div>
+<p>Draw an object diagram to match the code. Include objects of all three classes in your object diagram.</p></question></panel></div></div></panel></div></div></div></div>

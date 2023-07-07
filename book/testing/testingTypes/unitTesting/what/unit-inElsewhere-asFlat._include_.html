@@ -1,0 +1,117 @@
+<div></div><p></p>
+<p><span class="dimmed"><strong><span>Quality Assurance → Testing → Unit Testing →
+</span></strong></span></p>
+<div id="title-and-body">
+<div><h4 id="what"><span id="what" class="anchor"></span><span>What</span><a class="fa fa-anchor" href="#what" onclick="event.stopPropagation()"></a></h4></div>
+<div id="main">
+<div>
+<box type="definition" seamless>
+<div><p><strong>Unit testing</strong>: testing individual units (methods, classes, subsystems, ...) to ensure each piece works correctly.</p></div></box>
+<p>In OOP code, it is common to write one or more unit tests for each public method of a class.</p>
+<box>
+<p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Here are the code skeletons for a <code class="line-numbers hljs inline no-lang" v-pre>Foo</code> class containing two methods and a <code class="line-numbers hljs inline no-lang" v-pre>FooTest</code> class that contains unit tests for those two methods.</p>
+<div class="alt-java">
+  <div><pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Foo</span> </span>{
+</span><span>    <span class="hljs-function">String <span class="hljs-title">read</span><span class="hljs-params">()</span> </span>{
+</span><span>        <span class="hljs-comment">// ...</span>
+</span><span>    }
+</span><span>    
+</span><span>    <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">write</span><span class="hljs-params">(String input)</span> </span>{
+</span><span>        <span class="hljs-comment">// ...</span>
+</span><span>    }
+</span><span>    
+</span><span>}
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre><pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">FooTest</span> </span>{
+</span><span>    
+</span><span>    <span class="hljs-meta">@Test</span>
+</span><span>    <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">read</span><span class="hljs-params">()</span> </span>{
+</span><span>        <span class="hljs-comment">// a unit test for Foo#read() method</span>
+</span><span>    }
+</span><span>    
+</span><span>    <span class="hljs-meta">@Test</span>
+</span><span>    <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">write_emptyInput_exceptionThrown</span><span class="hljs-params">()</span> </span>{
+</span><span>        <span class="hljs-comment">// a unit tests for Foo#write(String) method</span>
+</span><span>    }  
+</span><span>    
+</span><span>    <span class="hljs-meta">@Test</span>
+</span><span>    <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">write_normalInput_writtenCorrectly</span><span class="hljs-params">()</span> </span>{
+</span><span>        <span class="hljs-comment">// another unit tests for Foo#write(String) method</span>
+</span><span>    }
+</span><span>}
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div></div>
+<div class="alt-python">
+  <div><pre><code class="line-numbers hljs python" v-pre><span><span class="hljs-keyword">import</span> unittest
+</span><span>
+</span><span><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Foo</span>:</span>
+</span><span>  <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">read</span>(<span class="hljs-params">self</span>):</span>
+</span><span>      <span class="hljs-comment"># ...</span>
+</span><span>  
+</span><span>  <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">write</span>(<span class="hljs-params">self, <span class="hljs-built_in">input</span></span>):</span>
+</span><span>      <span class="hljs-comment"># ...</span>
+</span><span>
+</span><span>
+</span><span><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">FooTest</span>(<span class="hljs-params">unittest.TestCase</span>):</span>
+</span><span>  
+</span><span>  <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">test_read</span>(<span class="hljs-params">self</span>):</span>
+</span><span>      <span class="hljs-comment"># a unit test for read() method</span>
+</span><span>  
+</span><span>  <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">test_write_emptyIntput_ignored</span>(<span class="hljs-params">self</span>):</span>
+</span><span>      <span class="hljs-comment"># a unit test for write(string) method</span>
+</span><span>  
+</span><span>  <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">test_write_normalInput_writtenCorrectly</span>(<span class="hljs-params">self</span>):</span>
+</span><span>      <span class="hljs-comment"># another unit test for write(string) method</span>
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div></div></box></div>
+<div>
+  <div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="fas fa-paperclip"></span></span> Resources</p></template>
+<p><strong>Side readings:</strong></p>
+<ul>
+<li><a href="http://avandeursen.com/2014/02/22/gotofail-security/">Learning from Apple’s #gotofail Security Bug</a> -
+How unit testing (and other good coding practices) could have prevented a major security bug.</li></ul></panel></div></div></div></div>

@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="generator" content="MarkBind 4.1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CS2103/T - Object Oriented Programming: Associations</title>
+    <link rel="stylesheet" href="/website/markbind/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/website/markbind/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="/website/markbind/glyphicons/css/bootstrap-glyphicons.min.css">
+    <link rel="stylesheet" href="/website/markbind/css/octicons.css">
+    <link rel="stylesheet" href="/website/markbind/material-icons/material-icons.css">
+    <link rel="stylesheet" href="/website/markbind/css/codeblock-light.min.css"><link rel="stylesheet" href="/website/markbind/css/markbind.min.css"><script src="/website/markbind/js/polyfill.min.js"></script>
+    <script src="/website/markbind/js/vue.min.js"></script>
+    <script src="/website/markbind/js/markbind.min.js"></script>
+    <script src="index.page-vue-render.js"></script>
+    <script src="/website/markbind/js/jquery.min.js"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3.2.0/dist/style.css"><link rel="stylesheet" href="/website/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css"><link rel="stylesheet" href="/website/plugins/markbind-plugin-tree/markbind-plugin-tree.css">
+    
+<link rel="stylesheet" href="/website/css/main.css">
+<link rel="icon" href="/website/favicon.ico"></head>
+<script>
+  const baseUrl = '/website'
+</script>
+<body >
+<div id="app" data-server-rendered="true"><div class="w-100 p-1 bg-warning text-center d-print-none"><span><strong>This is a draft version of the website! The final version will be available near the start of the semester.</strong></span></div> <div class="w-100 p-1 bg-success text-white text-center d-print-none"><span>This course will be delivered in <em>blended learning</em> mode (i.e., a mix of online and F2F activities) this semester.</span></div> <header sticky=""><div placement="top" data-v-15113a2f><nav class="navbar navbar-expand-md d-print-none navbar-dark bg-dark" data-v-15113a2f><div class="container-fluid" data-v-15113a2f><div class="navbar-left" data-v-15113a2f><a href="/website/index.html" title="Home" class="navbar-brand" data-v-15113a2f><span class="badge rounded-pill bg-success" data-v-15113a2f>CS2103/T <small data-v-15113a2f>2023 Aug-Nov</small></span></a></div> <div class="navbar-default" data-v-15113a2f><ul class="navbar-nav me-auto mt-2 mt-lg-0" data-v-15113a2f> <li class="nav-link algolia-no-index dropdown" data-v-2e98b3f0><a role="button" data-bs-toggle="dropdown" class="dropdown-toggle" data-v-2e98b3f0><strong data-v-2e98b3f0>Schedule</strong></a> <ul class="dropdown-menu" data-v-2e98b3f0> <li data-v-2e98b3f0><a href="/website/schedule/timeline.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><strong data-v-2e98b3f0>Full Timeline</strong></span></a></li> <li data-v-2e98b3f0><a href="/website/schedule/week1/index.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><strong data-v-2e98b3f0>Week 1</strong> [Mon, Aug 14th] </span></a></li> <li data-v-2e98b3f0><a href="/website/schedule/week2/index.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><strong data-v-2e98b3f0>Week 2</strong> [Fri, Aug 18th] </span></a></li> <li data-v-2e98b3f0><a href="/website/schedule/week3/index.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><strong data-v-2e98b3f0>Week 3</strong> [Fri, Aug 25th] </span></a></li> <li data-v-2e98b3f0><a href="/website/schedule/week4/index.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><strong data-v-2e98b3f0>Week 4</strong> [Fri, Sep 1st] </span></a></li> <li data-v-2e98b3f0><a href="/website/schedule/week5/index.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><strong data-v-2e98b3f0>Week 5</strong> [Fri, Sep 8th] </span></a></li> <li data-v-2e98b3f0><a href="/website/schedule/week6/index.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><strong data-v-2e98b3f0>Week 6</strong> [Fri, Sep 15th] </span></a></li> <li data-v-2e98b3f0><a href="/website/schedule/week7/index.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><strong data-v-2e98b3f0>Week 7</strong> [Fri, Sep 22nd] </span></a></li> <li data-v-2e98b3f0><a href="/website/schedule/week8/index.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><strong data-v-2e98b3f0>Week 8</strong> [Fri, Oct 6th] </span></a></li> <li data-v-2e98b3f0><a href="/website/schedule/week9/index.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><strong data-v-2e98b3f0>Week 9</strong> [Fri, Oct 13th] </span></a></li> <li data-v-2e98b3f0><a href="/website/schedule/week10/index.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><strong data-v-2e98b3f0>Week 10</strong> [Fri, Oct 20th] </span></a></li> <li data-v-2e98b3f0><a href="/website/schedule/week11/index.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><strong data-v-2e98b3f0>Week 11</strong> [Fri, Oct 27th] </span></a></li> <li data-v-2e98b3f0><a href="/website/schedule/week12/index.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><strong data-v-2e98b3f0>Week 12</strong> [Fri, Nov 3rd] </span></a></li> <li data-v-2e98b3f0><a href="/website/schedule/week13/index.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><strong data-v-2e98b3f0>Week 13</strong> [Fri, Nov 10th] </span></a></li></ul></li> <li data-v-15113a2f><a href="/website/se-book-adapted/index.html" class="nav-link" data-v-15113a2f><span data-v-15113a2f><strong data-v-15113a2f>Textbook</strong></span></a></li> <li data-v-15113a2f><a href="/website/admin/index.html" class="nav-link" data-v-15113a2f><span data-v-15113a2f><strong data-v-15113a2f>Admin Info</strong></span></a></li> <li tags="m--cs2103 m--cs2113 m--tic4001 m--tic4002" data-v-15113a2f><a href="https://nus-cs2103-ay2324s1.github.io/dashboards" target="_blank" class="nav-link" data-v-15113a2f><span data-v-15113a2f><strong data-v-15113a2f>Dashboards</strong></span></a></li> <li tags="m--cs2103 m--cs2113 m--tic4001 m--tic4002" class="nav-link algolia-no-index dropdown" data-v-2e98b3f0><a role="button" data-bs-toggle="dropdown" class="dropdown-toggle" data-v-2e98b3f0><strong data-v-2e98b3f0>Project Links</strong></a> <ul class="dropdown-menu" data-v-2e98b3f0> <span data-v-2e98b3f0><strong data-v-2e98b3f0> Individual Project (iP):</strong></span> <li data-v-2e98b3f0><a href="/website/admin/ip-overview.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-drafting-compass" data-v-2e98b3f0></span></span></span> Individual Project Info</a></li> <li data-v-2e98b3f0><a href="https://github.com/nus-cs2103-AY2324S1/ip" target="_blank" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-code-branch" data-v-2e98b3f0></span></span></span> iP Upstream Repo</a></li> <li data-v-2e98b3f0><a href="https://nus-cs2103-ay2324s1.github.io/ip-dashboard/?search=&amp;sort=groupTitle&amp;sortWithin=title&amp;timeframe=commit&amp;mergegroup=&amp;groupSelect=groupByRepos&amp;breakdown=true&amp;checkedFileTypes=java~md~fxml~sh~bat~gradle~txt" target="_blank" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-chart-area" data-v-2e98b3f0></span> iP Code Dashboard</span></a></li> <li data-v-2e98b3f0><a href="https://nus-cs2103-ay2324s1.github.io/dashboards/contents/ip-progress.html" target="_blank" class="dropdown-item text-success" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-trophy" data-v-2e98b3f0></span> iP Progress Dashboard</span></a></li> <hr data-v-2e98b3f0> <span data-v-2e98b3f0><strong data-v-2e98b3f0> Team Project (tP):</strong></span> <li data-v-2e98b3f0><a href="/website/admin/tp-expectations.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-drafting-compass" data-v-2e98b3f0></span></span></span> Team Project Info</a></li> <li tags="m--cs2103 m--cs2113 m--tic4002" data-v-2e98b3f0><a href="https://github.com/nus-cs2103-AY2324S1/tp" target="_blank" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-code-branch" data-v-2e98b3f0></span></span></span> tP Upstream Repo (AB3)</a></li> <li data-v-2e98b3f0><a href="/website/admin/teamList.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="glyphicon glyphicon-list-alt" data-v-2e98b3f0></span> Team List</span></a></li> <li data-v-2e98b3f0><a href="https://nus-cs2103-ay2324s1.github.io/tp-dashboard/?search=&amp;sort=groupTitle&amp;sortWithin=title&amp;timeframe=commit&amp;mergegroup=&amp;groupSelect=groupByRepos&amp;breakdown=true&amp;checkedFileTypes=docs~functional-code~test-code~other" target="_blank" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-chart-area" data-v-2e98b3f0></span> tP Code Dashboard</span></a></li> <li data-v-2e98b3f0><a href="https://nus-cs2103-ay2324s1.github.io/dashboards/contents/tp-progress.html" target="_blank" class="dropdown-item text-success" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-trophy" data-v-2e98b3f0></span> tP Progress Dashboard</span></a></li></ul></li> <li class="nav-link algolia-no-index dropdown" data-v-2e98b3f0><a role="button" data-bs-toggle="dropdown" class="dropdown-toggle" data-v-2e98b3f0><strong data-v-2e98b3f0>Other Links</strong></a> <ul class="dropdown-menu" data-v-2e98b3f0> <li tags="m--cs2103 m--cs2113 m--tic4001 m--tic4002" data-v-2e98b3f0><a href="https://github.com/nus-cs2103-AY2324S1/forum/issues" target="_blank" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-bug" data-v-2e98b3f0></span> Report Bugs</span></a></li> <li data-v-2e98b3f0><a href="https://github.com/nus-cs2103-AY2324S1/forum/issues" target="_blank" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-comment" data-v-2e98b3f0></span> Forum</span></a></li> <li data-v-2e98b3f0><a href="/website/admin/instructors.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-user-tie" data-v-2e98b3f0></span> Instructors</span></a></li> <li data-v-2e98b3f0><a href="https://canvas.nus.edu.sg/courses/45682/announcements" target="_blank" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="glyphicon glyphicon-bullhorn" data-v-2e98b3f0></span> Announcements</span></a></li> <li data-v-2e98b3f0><a href="https://canvas.nus.edu.sg/courses/45682/files" target="_blank" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-file-upload" data-v-2e98b3f0></span> Files (handouts, submissions etc.)</span></a></li> <li tags="m--cs2113 m--cs2103" data-v-2e98b3f0><a href="/website/admin/tutorials.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="glyphicon glyphicon-calendar" data-v-2e98b3f0></span> Tutorial Schedule</span></a></li> <li data-v-2e98b3f0><a href="https://teams.microsoft.com/l/team/19%3angqYlPu1txTaBRyEK0YuDI7BEYxVUWuhYrnZkjgQcfM1%40thread.tacv2/conversations?groupId=35dbc4ca-6b61-4acd-9465-c55d8c86272f&amp;tenantId=5ba5ef5e-3109-4e77-85bd-cfeb0d347e82" target="_blank" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-users-cog" data-v-2e98b3f0></span> MS Teams link</span></a></li> <li data-v-2e98b3f0><a href="/website/git-trail/index.html" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-route" data-v-2e98b3f0></span> Git Learning Trail</span></a></li> <li tags="m--cs2103 m--cs2113 m--tic2002 m--tic4001 m--tic4002" data-v-2e98b3f0><a href="https://se-education.org/guides/conventions/java/intermediate.html" target="_blank" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-code" data-v-2e98b3f0></span> Java Coding Standard</span></a></li> <li tags="m--cs2103 m--cs2113 m--tic4001 m--tic4002" data-v-2e98b3f0><a href="https://se-education.org/guides/conventions/git.html" target="_blank" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fab fa-git-square" data-v-2e98b3f0></span> Git Conventions</span></a></li> <li tags="m--cs2103 m--cs2113" data-v-2e98b3f0><a href="https://nus-cs2103-ay2324s1.github.io/dashboards/contents/forum-activities.html" target="_blank" class="dropdown-item" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-trophy" data-v-2e98b3f0></span> Forum Activities Dashboard</span></a></li> <li data-v-2e98b3f0><a href="https://nus-cs2103-ay2324s1.github.io/dashboards/contents/participation.html" target="_blank" class="dropdown-item text-success" data-v-2e98b3f0><span data-v-2e98b3f0><span aria-hidden="true" class="fas fa-trophy" data-v-2e98b3f0></span> Participation Dashboard</span></a></li></ul></li></ul></div> <ul class="navbar-nav navbar-right" data-v-15113a2f><li class="nav-link" data-v-15113a2f><form class="navbar-form" data-v-15113a2f><div class="dropdown" style="position:relative;" data-v-2955e59c><input data-bs-toggle="dropdown" type="text" placeholder="Search" autocomplete="off" value="" class="form-control" data-v-2955e59c> <div class="form-control placeholder-div-hidden" data-v-2955e59c>
+      Search
+    </div> <ul class="dropdown-menu search-dropdown-menu d-none dropdown-menu-end" data-v-2955e59c></ul></div></form></li></ul></div></nav> <div class="lower-navbar-container" style="display:none;" data-v-15113a2f><!----> <!----></div></div></header> <div id="flex-body"><div id="content-wrapper" class="fixed-header-padding"><div><link rel="stylesheet" href="/website/book/css/textbook.css"> <div id="all" class="website-content"><p><span class="dimmed"><strong><span>Paradigms → OOP →
+</span></strong></span></p> <div id="title"><h1 id="associations"><span id="associations" class="anchor"></span><span>Associations</span><a href="#associations" onclick="event.stopPropagation()" class="fa fa-anchor"></a></h1></div> <div id="main"><div><div><div expanded="" class="card-container" data-v-5681bde8><span id="basic" class="anchor" data-v-5681bde8></span> <div class="card expandable-card border-0" data-v-5681bde8><div class="card-header header-toggle bg-white border-0" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><span class="glyphicon glyphicon-chevron-down" data-v-5681bde8></span></div> <div class="header-wrapper card-title bg-white" data-v-5681bde8><span class="card-title" data-v-5681bde8><div data-v-5681bde8><h4 id="basic" data-v-5681bde8><span id="basic" class="anchor" data-v-5681bde8></span><span data-v-5681bde8>Basic</span><a href="#basic" onclick="event.stopPropagation()" class="fa fa-anchor" data-v-5681bde8></a></h4></div></span></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-secondary" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button> <button type="button" class="close-button btn btn-outline-secondary seamless-button" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-secondary seamless-button" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><div class="card-body" data-v-5681bde8> <div class="indented" data-v-5681bde8><p data-v-5681bde8><span class="badge bg-light text-dark" data-v-5681bde8><span data-v-5681bde8><span class="dimmed" data-v-5681bde8><span data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="fas fa-trophy" data-v-5681bde8></span></span> Can explain associations</span></span></span></span></p><p data-v-5681bde8></p><p data-v-5681bde8></p> <p data-v-5681bde8></p> <div data-v-5681bde8><p data-v-5681bde8>Objects in an OO solution need to be connected to each other to form a network so that they can interact with each other. Such <strong data-v-5681bde8>connections between objects are called <em data-v-5681bde8>associations</em>.</strong></p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> Suppose an OOP program for managing a learning management system creates an object structure to represent the related objects. In that object structure you can expect to have associations between a <code class="line-numbers hljs inline no-lang" data-v-b8113688>Course</code> object that represents a specific course and <code class="line-numbers hljs inline no-lang" data-v-b8113688>Student</code> objects that represent students taking that course.</p></div> <!----></div></div></div> <p data-v-5681bde8><strong data-v-5681bde8>Associations in an object structure can change over time</strong>.</p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> To continue the previous example, the associations between a <code class="line-numbers hljs inline no-lang" data-v-b8113688>Course</code> object and <code class="line-numbers hljs inline no-lang" data-v-b8113688>Student</code> objects can change as students enroll in the course or drop the course over time.</p></div> <!----></div></div></div> <p data-v-5681bde8><strong data-v-5681bde8>Associations among objects can be generalized as associations between the corresponding classes too.</strong></p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> In our example, as some <code class="line-numbers hljs inline no-lang" data-v-b8113688>Course</code> objects can have associations with some <code class="line-numbers hljs inline no-lang" data-v-b8113688>Student</code> objects, you can view it as an association between the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Course</code> class and the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Student</code> class.</p></div> <!----></div></div></div> <h5 id="implementing-associations" data-v-5681bde8><span id="implementing-associations" class="anchor" data-v-5681bde8></span>Implementing associations<a href="#implementing-associations" onclick="event.stopPropagation()" class="fa fa-anchor" data-v-5681bde8></a></h5> <p data-v-5681bde8><strong data-v-5681bde8>You use instance level variables to implement associations.</strong></p></div> <div data-v-5681bde8></div></div> <!----> <button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button></div> <hr style="display:;" data-v-5681bde8></div> <!----></div></div></div> <div><div expanded="" class="card-container" data-v-5681bde8><span id="navigability" class="anchor" data-v-5681bde8></span> <div class="card expandable-card border-0" data-v-5681bde8><div class="card-header header-toggle bg-white border-0" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><span class="glyphicon glyphicon-chevron-down" data-v-5681bde8></span></div> <div class="header-wrapper card-title bg-white" data-v-5681bde8><span class="card-title" data-v-5681bde8><div data-v-5681bde8><h4 id="navigability" data-v-5681bde8><span id="navigability" class="anchor" data-v-5681bde8></span><span data-v-5681bde8>Navigability</span><a href="#navigability" onclick="event.stopPropagation()" class="fa fa-anchor" data-v-5681bde8></a></h4></div></span></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-secondary" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button> <button type="button" class="close-button btn btn-outline-secondary seamless-button" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-secondary seamless-button" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><div class="card-body" data-v-5681bde8> <div class="indented" data-v-5681bde8><p data-v-5681bde8><span class="badge bg-light text-dark" data-v-5681bde8><span data-v-5681bde8><span class="dimmed" data-v-5681bde8><span data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="fas fa-trophy" data-v-5681bde8></span></span> Can explain the meaning of navigability</span></span></span></span></p><p data-v-5681bde8></p><p data-v-5681bde8></p> <p data-v-5681bde8></p> <div data-v-5681bde8><p data-v-5681bde8>When two classes are linked by an association, it does not necessarily mean the two objects taking part in an instance of the association <em data-v-5681bde8>knows about</em> (i.e., has a reference to) each other. <strong data-v-5681bde8>The concept of which object in the association knows about the other object is called <em data-v-5681bde8>navigability</em>.</strong></p> <p data-v-5681bde8><strong data-v-5681bde8>Navigability can be <em data-v-5681bde8>unidirectional</em> or <em data-v-5681bde8>bidirectional</em></strong>. Suppose there is an association between the classes <code class="line-numbers hljs inline no-lang" data-v-5681bde8>Box</code> and <code class="line-numbers hljs inline no-lang" data-v-5681bde8>Rope</code>, and the <code class="line-numbers hljs inline no-lang" data-v-5681bde8>Box</code> object <code class="line-numbers hljs inline no-lang" data-v-5681bde8>b</code> and the <code class="line-numbers hljs inline no-lang" data-v-5681bde8>Rope</code> object <code class="line-numbers hljs inline no-lang" data-v-5681bde8>r</code> is taking part in one instance of that association.</p> <ul data-v-5681bde8><li data-v-5681bde8><strong data-v-5681bde8>Unidirectional</strong>: If the navigability is from <code class="line-numbers hljs inline no-lang" data-v-5681bde8>Box</code> to <code class="line-numbers hljs inline no-lang" data-v-5681bde8>Rope</code>, <code class="line-numbers hljs inline no-lang" data-v-5681bde8>b</code> will have a reference to <code class="line-numbers hljs inline no-lang" data-v-5681bde8>r</code> but <code class="line-numbers hljs inline no-lang" data-v-5681bde8>r</code> will not have a reference to <code class="line-numbers hljs inline no-lang" data-v-5681bde8>b</code>. Similarly, if the navigability is in the other direction, <code class="line-numbers hljs inline no-lang" data-v-5681bde8>r</code> will have a reference to <code class="line-numbers hljs inline no-lang" data-v-5681bde8>b</code> but <code class="line-numbers hljs inline no-lang" data-v-5681bde8>b</code> will not have a reference to <code class="line-numbers hljs inline no-lang" data-v-5681bde8>r</code>.</li> <li data-v-5681bde8><strong data-v-5681bde8>Bidirectional</strong>: <code class="line-numbers hljs inline no-lang" data-v-5681bde8>b</code> will have a reference to <code class="line-numbers hljs inline no-lang" data-v-5681bde8>r</code> and <code class="line-numbers hljs inline no-lang" data-v-5681bde8>r</code> will have a reference to <code class="line-numbers hljs inline no-lang" data-v-5681bde8>b</code> i.e., the two objects will be pointing to each other for the same single instance of the association.</li></ul> <p data-v-5681bde8>Note that two unidirectional associations in opposite directions do not add up to a single bidirectional association.</p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> In the code below, there is a bidirectional association between the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Person</code> class and the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Cat</code> class i.e., if <code class="line-numbers hljs inline no-lang" data-v-b8113688>Person</code> <code class="line-numbers hljs inline no-lang" data-v-b8113688>p</code> is the owner of the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Cat</code> <code class="line-numbers hljs inline no-lang" data-v-b8113688>c</code>, <code class="line-numbers hljs inline no-lang" data-v-b8113688>p</code> it will result in <code class="line-numbers hljs inline no-lang" data-v-b8113688>p</code> and <code class="line-numbers hljs inline no-lang" data-v-b8113688>c</code> having references to each other.</p> <div class="alt-java" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs java" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Person</span> </span>{
+</span><span data-v-b8113688>    Cat pet;
+</span><span data-v-b8113688>    <span class="hljs-comment" data-v-b8113688>//...</span>
+</span><span data-v-b8113688>}
+</span><span data-v-b8113688>
+</span><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Cat</span></span>{
+</span><span data-v-b8113688>    Person owner;
+</span><span data-v-b8113688>    <span class="hljs-comment" data-v-b8113688>//...</span>
+</span><span data-v-b8113688>}
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div> <div class="alt-python" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs python" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Person</span>:</span>
+</span><span data-v-b8113688>
+</span><span data-v-b8113688>  <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>def</span> <span class="hljs-title" data-v-b8113688>__init__</span>(<span class="hljs-params" data-v-b8113688>self</span>):</span>
+</span><span data-v-b8113688>    self.pet = <span class="hljs-literal" data-v-b8113688>None</span>  <span class="hljs-comment" data-v-b8113688># a Cat object</span>
+</span><span data-v-b8113688>
+</span><span data-v-b8113688>
+</span><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Cat</span>:</span>
+</span><span data-v-b8113688>
+</span><span data-v-b8113688>  <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>def</span> <span class="hljs-title" data-v-b8113688>__init__</span>(<span class="hljs-params" data-v-b8113688>self</span>):</span>
+</span><span data-v-b8113688>    self.owner = <span class="hljs-literal" data-v-b8113688>None</span>  <span class="hljs-comment" data-v-b8113688># a Person object</span>
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div> <p data-v-b8113688>The code below has two unidirectional associations between the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Person</code> class and the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Cat</code> class (in opposite directions) because the breeder is not necessarily the same person keeping the cat as a pet i.e., there are two separate associations here, which rules out it being a bidirectional association.</p> <div class="alt-java" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs java" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Person</span> </span>{
+</span><span data-v-b8113688>    Cat pet;
+</span><span data-v-b8113688>    <span class="hljs-comment" data-v-b8113688>//...</span>
+</span><span data-v-b8113688>}
+</span><span data-v-b8113688>
+</span><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Cat</span></span>{
+</span><span data-v-b8113688><span data-v-b8113688>    Person <span class="highlighted" data-v-b8113688>breeder</span>;
+</span></span><span data-v-b8113688>    <span class="hljs-comment" data-v-b8113688>//...</span>
+</span><span data-v-b8113688>}
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div> <div class="alt-python" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs python" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Person</span>:</span>
+</span><span data-v-b8113688>
+</span><span data-v-b8113688>  <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>def</span> <span class="hljs-title" data-v-b8113688>__init__</span>(<span class="hljs-params" data-v-b8113688>self</span>):</span>
+</span><span data-v-b8113688>    self.pet = <span class="hljs-literal" data-v-b8113688>None</span>  <span class="hljs-comment" data-v-b8113688># a Cat object</span>
+</span><span data-v-b8113688>
+</span><span data-v-b8113688>
+</span><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Cat</span>:</span>
+</span><span data-v-b8113688>
+</span><span data-v-b8113688>  <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>def</span> <span class="hljs-title" data-v-b8113688>__init__</span>(<span class="hljs-params" data-v-b8113688>self</span>):</span>
+</span><span data-v-b8113688>    self.breeder = <span class="hljs-literal" data-v-b8113688>None</span>  <span class="hljs-comment" data-v-b8113688># a Person object</span>
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div></div> <!----></div></div></div></div> <div data-v-5681bde8></div></div> <!----> <button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button></div> <hr style="display:;" data-v-5681bde8></div> <!----></div></div></div> <div><div expanded="" class="card-container" data-v-5681bde8><span id="multiplicity" class="anchor" data-v-5681bde8></span> <div class="card expandable-card border-0" data-v-5681bde8><div class="card-header header-toggle bg-white border-0" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><span class="glyphicon glyphicon-chevron-down" data-v-5681bde8></span></div> <div class="header-wrapper card-title bg-white" data-v-5681bde8><span class="card-title" data-v-5681bde8><div data-v-5681bde8><h4 id="multiplicity" data-v-5681bde8><span id="multiplicity" class="anchor" data-v-5681bde8></span><span data-v-5681bde8>Multiplicity</span><a href="#multiplicity" onclick="event.stopPropagation()" class="fa fa-anchor" data-v-5681bde8></a></h4></div></span></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-secondary" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button> <button type="button" class="close-button btn btn-outline-secondary seamless-button" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-secondary seamless-button" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><div class="card-body" data-v-5681bde8> <div class="indented" data-v-5681bde8><p data-v-5681bde8><span class="badge bg-light text-dark" data-v-5681bde8><span data-v-5681bde8><span class="dimmed" data-v-5681bde8><span data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="fas fa-trophy" data-v-5681bde8></span></span> Can explain the meaning of multiplicity</span></span></span></span></p><p data-v-5681bde8></p><p data-v-5681bde8></p> <p data-v-5681bde8></p> <div data-v-5681bde8><p data-v-5681bde8><strong data-v-5681bde8><em data-v-5681bde8>Multiplicity</em> is the aspect of an OOP solution that dictates how many objects take part in each association.</strong></p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> The multiplicity of the association between <code class="line-numbers hljs inline no-lang" data-v-b8113688>Course</code> objects and <code class="line-numbers hljs inline no-lang" data-v-b8113688>Student</code> objects tells you how many <code class="line-numbers hljs inline no-lang" data-v-b8113688>Course</code> objects can be associated with one <code class="line-numbers hljs inline no-lang" data-v-b8113688>Student</code> object and vice versa.</p></div> <!----></div></div></div> <h5 id="implementing-multiplicity" data-v-5681bde8><span id="implementing-multiplicity" class="anchor" data-v-5681bde8></span>Implementing multiplicity<a href="#implementing-multiplicity" onclick="event.stopPropagation()" class="fa fa-anchor" data-v-5681bde8></a></h5> <p data-v-5681bde8><strong data-v-5681bde8>A normal instance-level variable gives us a <code class="line-numbers hljs inline no-lang" data-v-5681bde8>0..1</code> multiplicity</strong> (also called <em data-v-5681bde8>optional associations</em>) because a variable can hold a reference to a single object or <code class="line-numbers hljs inline no-lang" data-v-5681bde8>null</code>.</p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> In the code below, the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Logic</code> class has a variable that can hold <code class="line-numbers hljs inline no-lang" data-v-b8113688>0..1</code> <span class="dimmed" data-v-b8113688>i.e., zero or one</span> <code class="line-numbers hljs inline no-lang" data-v-b8113688>Minefield</code> objects.</p> <div data-v-b8113688><div class="alt-java" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs java" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Logic</span> </span>{
+</span><span data-v-b8113688>    Minefield minefield;
+</span><span data-v-b8113688>    <span class="hljs-comment" data-v-b8113688>// ...</span>
+</span><span data-v-b8113688>}
+</span><span data-v-b8113688>
+</span><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Minefield</span> </span>{
+</span><span data-v-b8113688>    <span class="hljs-comment" data-v-b8113688>//...</span>
+</span><span data-v-b8113688>}
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div> <div class="alt-python" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs python" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Logic</span>:</span>
+</span><span data-v-b8113688>  
+</span><span data-v-b8113688>  <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>def</span> <span class="hljs-title" data-v-b8113688>__init__</span>(<span class="hljs-params" data-v-b8113688>self</span>):</span>
+</span><span data-v-b8113688>    self.minefield = <span class="hljs-literal" data-v-b8113688>None</span>
+</span><span data-v-b8113688>    
+</span><span data-v-b8113688>  <span class="hljs-comment" data-v-b8113688># ...</span>
+</span><span data-v-b8113688>
+</span><span data-v-b8113688>
+</span><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Minefield</span>:</span>
+</span><span data-v-b8113688>  <span class="hljs-comment" data-v-b8113688># ...</span>
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div></div></div> <!----></div></div></div> <p data-v-5681bde8><strong data-v-5681bde8>A variable can be used to implement a <code class="line-numbers hljs inline no-lang" data-v-5681bde8>1</code> multiplicity too</strong> (also called <em data-v-5681bde8>compulsory associations</em>).</p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> In the code below, the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Logic</code> class will always have a <code class="line-numbers hljs inline no-lang" data-v-b8113688>ConfigGenerator</code> object, provided the variable is not set to <code class="line-numbers hljs inline no-lang" data-v-b8113688>null</code> at some point.</p> <div class="alt-java" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs java" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Logic</span> </span>{
+</span><span data-v-b8113688>    ConfigGenerator cg = <span class="hljs-keyword" data-v-b8113688>new</span> ConfigGenerator();
+</span><span data-v-b8113688>    ...
+</span><span data-v-b8113688>}
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div> <div class="alt-python" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs python" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Logic</span>:</span>
+</span><span data-v-b8113688>
+</span><span data-v-b8113688>  <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>def</span> <span class="hljs-title" data-v-b8113688>__init__</span>(<span class="hljs-params" data-v-b8113688>self</span>):</span>
+</span><span data-v-b8113688>    self.config_gen = ConfigGenerator()
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div></div> <!----></div></div></div> <p data-v-5681bde8><strong data-v-5681bde8>Bidirectional associations require matching variables in both classes.</strong></p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> In the code below, the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Foo</code> class has a variable to hold a <code class="line-numbers hljs inline no-lang" data-v-b8113688>Bar</code> object and vice versa <span class="dimmed" data-v-b8113688>i.e., each object can have an association with an object of the other type</span>.</p> <div class="alt-java" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs java" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Foo</span> </span>{
+</span><span data-v-b8113688>    Bar bar;
+</span><span data-v-b8113688>    <span class="hljs-comment" data-v-b8113688>//...</span>
+</span><span data-v-b8113688>}
+</span><span data-v-b8113688>
+</span><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Bar</span> </span>{
+</span><span data-v-b8113688>    Foo foo;
+</span><span data-v-b8113688>    <span class="hljs-comment" data-v-b8113688>//...</span>
+</span><span data-v-b8113688>}
+</span><span data-v-b8113688>
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div> <div class="alt-python" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs python" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Foo</span>:</span>
+</span><span data-v-b8113688>  
+</span><span data-v-b8113688>  <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>def</span> <span class="hljs-title" data-v-b8113688>__init__</span>(<span class="hljs-params" data-v-b8113688>self, bar</span>):</span>
+</span><span data-v-b8113688>    self.bar = bar;
+</span><span data-v-b8113688>
+</span><span data-v-b8113688>
+</span><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Bar</span>:</span>
+</span><span data-v-b8113688>  
+</span><span data-v-b8113688>  <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>def</span> <span class="hljs-title" data-v-b8113688>__init__</span>(<span class="hljs-params" data-v-b8113688>self, foo</span>):</span>
+</span><span data-v-b8113688>    self.foo = foo;
+</span><span data-v-b8113688>    
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div></div> <!----></div></div></div> <p data-v-5681bde8><strong data-v-5681bde8>To implement other multiplicities, choose a suitable data structure</strong> such as Arrays, ArrayLists, HashMaps, Sets, etc.</p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><div class="alt-java" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> This code uses a two-dimensional array to implement a 1-to-many association from the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Minefield</code> to <code class="line-numbers hljs inline no-lang" data-v-b8113688>Cell</code>.</p> <pre data-v-b8113688><code class="line-numbers hljs java" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Minefield</span> </span>{
+</span><span data-v-b8113688>    Cell[][] cell;
+</span><span data-v-b8113688>    ...
+</span><span data-v-b8113688>}
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div> <div class="alt-python" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs python" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Minefield</span>:</span>
+</span><span data-v-b8113688>  
+</span><span data-v-b8113688>  <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>def</span> <span class="hljs-title" data-v-b8113688>__init__</span>(<span class="hljs-params" data-v-b8113688>self</span>):</span>
+</span><span data-v-b8113688>    self.cells = {<span class="hljs-number" data-v-b8113688>1</span>:[], <span class="hljs-number" data-v-b8113688>2</span>:[], <span class="hljs-number" data-v-b8113688>3</span>:[]}
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div></div> <!----></div></div></div></div> <div data-v-5681bde8></div></div> <!----> <button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button></div> <hr style="display:;" data-v-5681bde8></div> <!----></div></div></div> <div><div expanded="" class="card-container" data-v-5681bde8><span id="dependencies" class="anchor" data-v-5681bde8></span> <div class="card expandable-card border-0" data-v-5681bde8><div class="card-header header-toggle bg-white border-0" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><span class="glyphicon glyphicon-chevron-down" data-v-5681bde8></span></div> <div class="header-wrapper card-title bg-white" data-v-5681bde8><span class="card-title" data-v-5681bde8><div data-v-5681bde8><h4 id="dependencies" data-v-5681bde8><span id="dependencies" class="anchor" data-v-5681bde8></span><span data-v-5681bde8>Dependencies</span><a href="#dependencies" onclick="event.stopPropagation()" class="fa fa-anchor" data-v-5681bde8></a></h4></div></span></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-secondary" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button> <button type="button" class="close-button btn btn-outline-secondary seamless-button" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-secondary seamless-button" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><div class="card-body" data-v-5681bde8> <div class="indented" data-v-5681bde8><p data-v-5681bde8><span class="badge bg-light text-dark" data-v-5681bde8><span data-v-5681bde8><span class="dimmed" data-v-5681bde8><span data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="fas fa-trophy" data-v-5681bde8></span></span> Can explain dependencies among classes</span></span></span></span></p><p data-v-5681bde8></p><p data-v-5681bde8></p> <p data-v-5681bde8></p> <div data-v-5681bde8><p data-v-5681bde8>In the context of OOP associations, <strong data-v-5681bde8>a <em data-v-5681bde8>dependency</em> is a need for one class to depend on another without having a direct association in the same direction.</strong> Reason for the exclusion: If there is an association from class <code class="line-numbers hljs inline no-lang" data-v-5681bde8>Foo</code> to class <code class="line-numbers hljs inline no-lang" data-v-5681bde8>Bar</code> (i.e., navigable from <code class="line-numbers hljs inline no-lang" data-v-5681bde8>Foo</code> to <code class="line-numbers hljs inline no-lang" data-v-5681bde8>Bar</code>), that means <code class="line-numbers hljs inline no-lang" data-v-5681bde8>Foo</code> is <em data-v-5681bde8>obviously</em> dependent on <code class="line-numbers hljs inline no-lang" data-v-5681bde8>Bar</code> and hence there is no point in mentioning <em data-v-5681bde8>dependency</em> specifically. In other words, we are only concerned about <em data-v-5681bde8>non-obvious</em> dependencies here. One cause of such dependencies is interactions between objects that do not have a long-term link between them.</p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> A <code class="line-numbers hljs inline no-lang" data-v-b8113688>Course</code> class can have a dependency on a <code class="line-numbers hljs inline no-lang" data-v-b8113688>Registrar</code> class because the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Course</code> class needs to refer to the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Registrar</code> class to obtain the the maximum number of students it can support (e.g., <code class="line-numbers hljs inline no-lang" data-v-b8113688>Registrar.MAX_COURSE_CAPACITY</code>).</p></div> <!----></div></div></div> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> In the code below, <code class="line-numbers hljs inline no-lang" data-v-b8113688>Foo</code> has a dependency on <code class="line-numbers hljs inline no-lang" data-v-b8113688>Bar</code> but it is not an association because it is only a <span data-mb-component-type="tooltip" tabindex="0" class="trigger"><!----> <!----></span> interaction and there is no long term relationship between a <code class="line-numbers hljs inline no-lang" data-v-b8113688>Foo</code> object and a <code class="line-numbers hljs inline no-lang" data-v-b8113688>Bar</code> object. <span class="dimmed" data-v-b8113688>i.e. the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Foo</code> object does not keep the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Bar</code> object it receives as a parameter</span>.</p> <div class="alt-java" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs java" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Foo</span> </span>{
+</span><span data-v-b8113688>    
+</span><span data-v-b8113688>    <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>int</span> <span class="hljs-title" data-v-b8113688>calculate</span><span class="hljs-params" data-v-b8113688>(Bar bar)</span> </span>{
+</span><span data-v-b8113688>        <span class="hljs-keyword" data-v-b8113688>return</span> bar.getValue();
+</span><span data-v-b8113688>    }
+</span><span data-v-b8113688>}
+</span><span data-v-b8113688>
+</span><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Bar</span> </span>{
+</span><span data-v-b8113688>    <span class="hljs-keyword" data-v-b8113688>int</span> value;
+</span><span data-v-b8113688>    
+</span><span data-v-b8113688>    <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>int</span> <span class="hljs-title" data-v-b8113688>getValue</span><span class="hljs-params" data-v-b8113688>()</span> </span>{
+</span><span data-v-b8113688>        <span class="hljs-keyword" data-v-b8113688>return</span> value;
+</span><span data-v-b8113688>    }
+</span><span data-v-b8113688>}
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div> <div class="alt-python" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs python" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Foo</span>:</span>
+</span><span data-v-b8113688>    
+</span><span data-v-b8113688>    <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>def</span> <span class="hljs-title" data-v-b8113688>calculate</span>(<span class="hljs-params" data-v-b8113688>self, bar</span>):</span>
+</span><span data-v-b8113688>        <span class="hljs-keyword" data-v-b8113688>return</span> bar.value;
+</span><span data-v-b8113688>
+</span><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Bar</span>:</span>
+</span><span data-v-b8113688>    
+</span><span data-v-b8113688>    <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>def</span> <span class="hljs-title" data-v-b8113688>__init__</span>(<span class="hljs-params" data-v-b8113688>self, value</span>):</span>
+</span><span data-v-b8113688>      self.value = value
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div></div> <!----></div></div></div></div> <div data-v-5681bde8></div></div> <!----> <button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button></div> <hr style="display:;" data-v-5681bde8></div> <!----></div></div></div> <div><div expanded="" class="card-container" data-v-5681bde8><span id="composition" class="anchor" data-v-5681bde8></span> <div class="card expandable-card border-0" data-v-5681bde8><div class="card-header header-toggle bg-white border-0" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><span class="glyphicon glyphicon-chevron-down" data-v-5681bde8></span></div> <div class="header-wrapper card-title bg-white" data-v-5681bde8><span class="card-title" data-v-5681bde8><div data-v-5681bde8><h4 id="composition" data-v-5681bde8><span id="composition" class="anchor" data-v-5681bde8></span><span data-v-5681bde8>Composition</span><a href="#composition" onclick="event.stopPropagation()" class="fa fa-anchor" data-v-5681bde8></a></h4></div></span></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-secondary" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button> <button type="button" class="close-button btn btn-outline-secondary seamless-button" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-secondary seamless-button" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><div class="card-body" data-v-5681bde8> <div class="indented" data-v-5681bde8><p data-v-5681bde8><span class="badge bg-light text-dark" data-v-5681bde8><span data-v-5681bde8><span class="dimmed" data-v-5681bde8><span data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="fas fa-trophy" data-v-5681bde8></span></span> Can explain the meaning of composition</span></span></span></span></p><p data-v-5681bde8></p><p data-v-5681bde8></p> <p data-v-5681bde8></p> <div data-v-5681bde8><p data-v-5681bde8><strong data-v-5681bde8>A composition is an association that represents a strong <em data-v-5681bde8>whole-part</em> relationship.</strong> When the <em data-v-5681bde8>whole</em> is destroyed, <em data-v-5681bde8>parts</em> are destroyed too i.e., the <em data-v-5681bde8>part</em> should not exist without being attached to a <em data-v-5681bde8>whole</em>.</p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> A <code class="line-numbers hljs inline no-lang" data-v-b8113688>Board</code> (used for playing board games) consists of <code class="line-numbers hljs inline no-lang" data-v-b8113688>Square</code> objects.</p></div> <!----></div></div></div> <p data-v-5681bde8><strong data-v-5681bde8>Composition also implies that there cannot be cyclical links</strong>.</p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> The ‘sub-folder’ association between <code class="line-numbers hljs inline no-lang" data-v-b8113688>Folder</code> objects is a composition type association. That means if the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Folder</code> object <code class="line-numbers hljs inline no-lang" data-v-b8113688>foo</code> is a sub-folder of <code class="line-numbers hljs inline no-lang" data-v-b8113688>Folder</code> object <code class="line-numbers hljs inline no-lang" data-v-b8113688>bar</code>, <code class="line-numbers hljs inline no-lang" data-v-b8113688>bar</code> cannot be a sub-folder of <code class="line-numbers hljs inline no-lang" data-v-b8113688>foo</code>.</p></div> <!----></div></div></div> <p data-v-5681bde8><strong data-v-5681bde8>Whether a relationship is a composition can depend on the context</strong>.</p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> Is the relationship between <code class="line-numbers hljs inline no-lang" data-v-b8113688>Email</code> and <code class="line-numbers hljs inline no-lang" data-v-b8113688>EmailSubject</code> composition? That is, is the email subject <em data-v-b8113688>part</em> of an email to the extent that an email subject cannot exist without an email?</p> <ul data-v-b8113688><li data-v-b8113688>When modeling an application that sends emails, the answer is 'yes'.</li> <li data-v-b8113688>When modeling an application that gather analytics about email traffic, the answer may be 'no' <span class="dimmed" data-v-b8113688>(e.g., the application might collect just the email subjects for text analysis)</span>.</li></ul></div> <!----></div></div></div> <p data-v-5681bde8><strong data-v-5681bde8>A common use of composition is when parts of a big class are carved out as smaller classes</strong> for the ease of managing the internal design. In such cases, the classes extracted out still act as <em data-v-5681bde8>parts</em> of the bigger class and the outside world has no business knowing about them.</p> <p data-v-5681bde8><strong data-v-5681bde8>Cascading deletion alone is not sufficient for composition.</strong> Suppose there is a design in which <code class="line-numbers hljs inline no-lang" data-v-5681bde8>Person</code> objects are attached to <code class="line-numbers hljs inline no-lang" data-v-5681bde8>Task</code> objects and the former get deleted whenever the latter is deleted. This fact alone does not mean there is a composition relationship between the two classes. For it to be composition, a <code class="line-numbers hljs inline no-lang" data-v-5681bde8>Person</code> must be an integral <em data-v-5681bde8>part</em> of a <code class="line-numbers hljs inline no-lang" data-v-5681bde8>Task</code> in the context of that association, at the concept level (not simply at implementation level).</p> <p data-v-5681bde8><strong data-v-5681bde8>Identifying and keeping track of composition relationships in the design has benefits</strong> such as helping to maintain the data integrity of the system. For example, when you know that a certain relationship is a composition, you can take extra care in your implementation to ensure that when the <em data-v-5681bde8>whole</em> object is deleted, all its <em data-v-5681bde8>parts</em> are deleted too.</p> <h5 id="implementing-composition" data-v-5681bde8><span id="implementing-composition" class="anchor" data-v-5681bde8></span>Implementing composition<a href="#implementing-composition" onclick="event.stopPropagation()" class="fa fa-anchor" data-v-5681bde8></a></h5> <p data-v-5681bde8><strong data-v-5681bde8>Composition is implemented using a normal variable.</strong> If correctly implemented, the ‘part’ object will be deleted when the ‘whole’ object is deleted. Ideally, the ‘part’ object may not even be visible to clients of the ‘whole’ object.</p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><div class="alt-java float-end ms-5" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs java" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Email</span> </span>{
+</span><span data-v-b8113688>    <span class="hljs-keyword" data-v-b8113688>private</span> Subject subject;
+</span><span data-v-b8113688>  ...
+</span><span data-v-b8113688>}
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div> <div class="alt-python  float-end ms-5" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs python" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Email</span>:</span>
+</span><span data-v-b8113688>
+</span><span data-v-b8113688>  <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>def</span> <span class="hljs-title" data-v-b8113688>__init__</span>(<span class="hljs-params" data-v-b8113688>self</span>):</span>
+</span><span data-v-b8113688>    self.__subject = Subject()
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div> <p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> In this code, the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Email</code> has a composition type relationship with the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Subject</code> class, in the sense that the subject is part of the email.</p></div> <!----></div></div></div></div> <div data-v-5681bde8></div></div> <!----> <button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button></div> <hr style="display:;" data-v-5681bde8></div> <!----></div></div></div> <div><div expanded="" class="card-container" data-v-5681bde8><span id="aggregation" class="anchor" data-v-5681bde8></span> <div class="card expandable-card border-0" data-v-5681bde8><div class="card-header header-toggle bg-white border-0" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><span class="glyphicon glyphicon-chevron-down" data-v-5681bde8></span></div> <div class="header-wrapper card-title bg-white" data-v-5681bde8><span class="card-title" data-v-5681bde8><div data-v-5681bde8><h4 id="aggregation" data-v-5681bde8><span id="aggregation" class="anchor" data-v-5681bde8></span><span data-v-5681bde8>Aggregation</span><a href="#aggregation" onclick="event.stopPropagation()" class="fa fa-anchor" data-v-5681bde8></a></h4></div></span></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-secondary" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button> <button type="button" class="close-button btn btn-outline-secondary seamless-button" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-secondary seamless-button" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><div class="card-body" data-v-5681bde8> <div class="indented" data-v-5681bde8><p data-v-5681bde8><span class="badge bg-light text-dark" data-v-5681bde8><span data-v-5681bde8><span class="dimmed" data-v-5681bde8><span data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="fas fa-trophy" data-v-5681bde8></span></span> Can explain the meaning of aggregations</span></span></span></span></p><p data-v-5681bde8></p><p data-v-5681bde8></p> <p data-v-5681bde8></p> <div data-v-5681bde8><p data-v-5681bde8><strong data-v-5681bde8><em data-v-5681bde8>Aggregation</em> represents a <em data-v-5681bde8>container-contained</em> relationship.</strong> It is a weaker relationship than composition.</p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> <code class="line-numbers hljs inline no-lang" data-v-b8113688>SportsClub</code> can act as a <em data-v-b8113688>container</em> for <code class="line-numbers hljs inline no-lang" data-v-b8113688>Person</code> objects who are members of the club. <code class="line-numbers hljs inline no-lang" data-v-b8113688>Person</code> objects can survive without a <code class="line-numbers hljs inline no-lang" data-v-b8113688>SportsClub</code> object.</p></div> <!----></div></div></div> <h5 id="implementing-aggregation" data-v-5681bde8><span id="implementing-aggregation" class="anchor" data-v-5681bde8></span>Implementing aggregation<a href="#implementing-aggregation" onclick="event.stopPropagation()" class="fa fa-anchor" data-v-5681bde8></a></h5> <p data-v-5681bde8>Implementation is similar to that of composition except the <em data-v-5681bde8>containee</em> object can exist even after the <em data-v-5681bde8>container</em> object is deleted.</p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> In the code below, there is an aggregation association between the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Team</code> class and the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Person</code> class in that a <code class="line-numbers hljs inline no-lang" data-v-b8113688>Team</code> contains a <code class="line-numbers hljs inline no-lang" data-v-b8113688>Person</code> object who is the leader of the team.</p> <div class="alt-java" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs java" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Team</span> </span>{
+</span><span data-v-b8113688>    Person leader;
+</span><span data-v-b8113688>    ...
+</span><span data-v-b8113688>    <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>void</span> <span class="hljs-title" data-v-b8113688>setLeader</span><span class="hljs-params" data-v-b8113688>(Person p)</span> </span>{
+</span><span data-v-b8113688>        leader = p;
+</span><span data-v-b8113688>    }
+</span><span data-v-b8113688>}
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div> <div class="alt-python" data-v-b8113688><pre data-v-b8113688><code class="line-numbers hljs python" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Team</span>:</span>
+</span><span data-v-b8113688>  
+</span><span data-v-b8113688>  <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>def</span> <span class="hljs-title" data-v-b8113688>__init__</span>(<span class="hljs-params" data-v-b8113688>self</span>):</span>
+</span><span data-v-b8113688>    self.__leader = <span class="hljs-literal" data-v-b8113688>None</span>
+</span><span data-v-b8113688>    
+</span><span data-v-b8113688>  <span class="hljs-function" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>def</span> <span class="hljs-title" data-v-b8113688>set_leader</span>(<span class="hljs-params" data-v-b8113688>self, person</span>):</span>
+</span><span data-v-b8113688>    self.__leader = person
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div></div> <!----></div></div></div></div> <div data-v-5681bde8></div></div> <!----> <button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button></div> <hr style="display:;" data-v-5681bde8></div> <!----></div></div></div> <div><div expanded="" class="card-container" data-v-5681bde8><span id="association-classes" class="anchor" data-v-5681bde8></span> <div class="card expandable-card border-0" data-v-5681bde8><div class="card-header header-toggle bg-white border-0" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><span class="glyphicon glyphicon-chevron-down" data-v-5681bde8></span></div> <div class="header-wrapper card-title bg-white" data-v-5681bde8><span class="card-title" data-v-5681bde8><div data-v-5681bde8><h4 id="association-classes" data-v-5681bde8><span id="association-classes" class="anchor" data-v-5681bde8></span><span data-v-5681bde8>Association classes</span><a href="#association-classes" onclick="event.stopPropagation()" class="fa fa-anchor" data-v-5681bde8></a></h4></div></span></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-secondary" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button> <button type="button" class="close-button btn btn-outline-secondary seamless-button" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-secondary seamless-button" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><div class="card-body" data-v-5681bde8> <div class="indented" data-v-5681bde8><p data-v-5681bde8><span class="badge bg-light text-dark" data-v-5681bde8><span data-v-5681bde8><span class="dimmed" data-v-5681bde8><span data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="fas fa-trophy" data-v-5681bde8></span></span> Can explain the meaning of association classes</span></span></span></span></p><p data-v-5681bde8></p><p data-v-5681bde8></p> <p data-v-5681bde8></p> <div data-v-5681bde8><p data-v-5681bde8><strong data-v-5681bde8>An <em data-v-5681bde8>association class</em> represents additional information about an association.</strong> It is a normal class but plays a special role from a design point of view.</p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> A <code class="line-numbers hljs inline no-lang" data-v-b8113688>Man</code> class and a <code class="line-numbers hljs inline no-lang" data-v-b8113688>Woman</code> class are linked with a ‘married to’ association and there is a need to store the date of marriage. However, that data is related to the association rather than specifically owned by either the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Man</code> object or the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Woman</code> object. In such situations, an additional association class can be introduced, e.g. a <code class="line-numbers hljs inline no-lang" data-v-b8113688>Marriage</code> class, to store such information.</p></div> <!----></div></div></div> <h5 id="implementing-association-classes" data-v-5681bde8><span id="implementing-association-classes" class="anchor" data-v-5681bde8></span>Implementing association classes<a href="#implementing-association-classes" onclick="event.stopPropagation()" class="fa fa-anchor" data-v-5681bde8></a></h5> <p data-v-5681bde8>There is no special way to implement an association class. It can be implemented as a normal class that has variables to represent the endpoint of the association it represents.</p> <div class="alert box-container alert-default" data-v-b8113688><!----> <div class="header-and-body" data-v-b8113688><!----> <div class="box-body-wrapper" data-v-b8113688><!----> <!----> <div class="contents" data-v-b8113688><p data-v-b8113688><span data-v-b8113688><span aria-hidden="true" class="fas fa-cube" data-v-b8113688></span></span> In the code below, the <code class="line-numbers hljs inline no-lang" data-v-b8113688>Transaction</code> class is an association class that represents a transaction between a <code class="line-numbers hljs inline no-lang" data-v-b8113688>Person</code> who is the seller and another <code class="line-numbers hljs inline no-lang" data-v-b8113688>Person</code> who is the buyer.</p> <pre data-v-b8113688><code class="line-numbers hljs java" data-v-b8113688><span data-v-b8113688><span class="hljs-class" data-v-b8113688><span class="hljs-keyword" data-v-b8113688>class</span> <span class="hljs-title" data-v-b8113688>Transaction</span> </span>{
+</span><span data-v-b8113688>    
+</span><span data-v-b8113688>    <span class="hljs-comment" data-v-b8113688>//all fields are compulsory</span>
+</span><span data-v-b8113688>    Person seller;
+</span><span data-v-b8113688>    Person buyer;
+</span><span data-v-b8113688>    Date date;
+</span><span data-v-b8113688>    String receiptNumber;
+</span><span data-v-b8113688>    
+</span><span data-v-b8113688>    Transaction(Person seller, Person buyer, Date date, String receiptNumber) {
+</span><span data-v-b8113688>        <span class="hljs-comment" data-v-b8113688>//set fields</span>
+</span><span data-v-b8113688>    }
+</span><span data-v-b8113688>}
+</span></code><div class="function-btn-container" data-v-b8113688><button onclick="copyCodeBlock(this)" class="function-btn" data-v-b8113688>
+    <div class="function-btn-body" data-v-b8113688>
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1" data-v-b8113688>
+    <g id="surface1" data-v-b8113688>
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 " data-v-b8113688></path>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></div> <!----></div></div></div></div> <div data-v-5681bde8><div data-v-5681bde8><div expandable="" class="algolia-no-index card-container" data-v-5681bde8><!----> <div class="card expandable-card" data-v-5681bde8><div class="card-header header-toggle bg-light" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><!----></div> <div class="header-wrapper card-title bg-light" data-v-5681bde8><p data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="fas fa-dumbbell" data-v-5681bde8></span></span> Exercises</p></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down"></span></button> <button type="button" class="close-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-secondary" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><!----> <hr style="display:none;" data-v-5681bde8></div> <!----></div></div></div></div></div> <!----> <button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button></div> <hr style="display:;" data-v-5681bde8></div> <!----></div></div></div></div></div></div></div> <i id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true" class="fa fa-arrow-circle-up fa-lg d-print-none"></i></div> <nav id="page-nav" class="fixed-header-padding" data-v-e8c82f88><div class="nav-component slim-scroll" data-v-e8c82f88></div> <!----></nav></div> <footer><div class="text-center"><small>[<span><strong>Powered by</strong></span> <img src="https://markbind.org/favicon.ico" width="30"> <a href="https://markbind.org/">MarkBind 4.1.0</a>, generated on Sat, 8 Jul 2023, 0:27:36 GMT+8]</small></div></footer></div>
+</body><script src="/website/markbind/js/bootstrap-utility.min.js"></script>
+<script>
+  MarkBind.setupWithSearch()
+</script>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122519234-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-122519234-1');
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3.2.0/dist/umd/index.js"></script>
+    <script>
+    docsearch({
+      container: "#algolia-search-input",
+      appId: "3DU4XTBX4T",
+      apiKey: "3e2fd3c3b12a363309307794dce54969",
+      indexName: "nus-tic-cs",
+      searchParameters: {"facetFilters":[["site:nus-cs2103-ay2324s1.github.io"],["tags:admin","tags:se-book-adapted","tags:schedule"]]}
+    });
+  </script>
+    <script>
+    const style = document.createElement('style');
+    style.innerHTML = ".DocSearch-Container { z-index: 1002; position: fixed; }";
+    document.getElementsByTagName('head')[0].appendChild(style);
+  </script>
+  
+    <script>
+    function copyCodeBlock(element) {
+        const pre = element.parentElement.parentElement;
+        const codeElement = pre.querySelector('code');
+
+        // create dummy text element to select() the text field
+        const textElement = document.createElement('textarea');
+        textElement.value = codeElement.textContent;
+        document.body.appendChild(textElement);
+        textElement.select();
+
+        document.execCommand('copy');
+        document.body.removeChild(textElement);
+    }
+    </script>
+</html>

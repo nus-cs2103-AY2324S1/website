@@ -1,0 +1,52 @@
+{
+  "baseUrl": "/se-book",
+  "timeZone": "Asia/Singapore",
+  "style": {
+    "codeTheme": "light"
+  },
+  "pages": [
+    {
+      "glob": "**/index.md"
+    },
+    {
+      "glob": "**/acknowledgements.md"
+    },
+    {
+      "glob": "**/usage.md"
+    },
+    {
+      "glob": "**/print.md"
+    },
+    {
+      "glob": "**/definitions.md"
+    },
+    {
+      "glob": "**/outcomes.md"
+    },
+    {
+      "glob": "**/references.md"
+    },
+    {
+      "glob": "**/combined/exercises.md"
+    }
+  ],
+  "pagesExclude": ["**/*-fragment.md"],
+  "ignore": [
+    "_site/*",
+    "site.json",
+    "gitAndGithub/*/text.md",
+    ".git/*"
+  ],
+  "deploy": {
+    "message": "Site Update."
+  },
+  "intrasiteLinkValidation": {
+    "enabled": true
+  },
+  "enableSearch": true,
+  "titlePrefix": "SEforSDL",
+  "plugins": [
+  ],
+  "pluginsContext": {
+  }
+}

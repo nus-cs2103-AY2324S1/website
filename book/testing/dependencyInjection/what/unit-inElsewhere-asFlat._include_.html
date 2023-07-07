@@ -1,0 +1,209 @@
+<div></div><p></p>
+<p><span class="dimmed"><strong><span>Quality Assurance → Testing → Dependency Injection →
+</span></strong></span></p>
+<div id="title-and-body">
+<div><h4 id="what"><span id="what" class="anchor"></span><span>What</span><a class="fa fa-anchor" href="#what" onclick="event.stopPropagation()"></a></h4></div>
+<div id="main">
+<div>
+<p><strong><em>Dependency injection</em> is the process of 'injecting' objects to replace current dependencies with a different object.</strong> This is often used to inject <trigger trigger="click" for="modal:explainDi-stub">stubs</trigger> to isolate the <tooltip><template #content>Software Under Test</template>SUT</tooltip> from its <tooltip><template #content>objects it depends on</template>dependencies</tooltip> so that it can be tested in isolation.</p>
+<modal large id="modal:explainDi-stub" class="algolia-no-index"><template #header></template>
+  <div><div></div><p></p>
+<p><span class="dimmed"><strong><span>Quality Assurance → Testing → Unit Testing →
+</span></strong></span></p>
+<div id="title-and-body">
+<div><h4 id="stubs"><span id="stubs" class="anchor"></span><span>Stubs</span><a class="fa fa-anchor" href="#stubs" onclick="event.stopPropagation()"></a></h4></div>
+<div id="main">
+<div>
+<p><strong>A proper unit test requires the <em>unit</em> to be tested <mark>in isolation</mark></strong> so that bugs in the <tooltip><template #content>other code the unit depends on</template>dependencies</tooltip> cannot influence the test <span class="dimmed">i.e. bugs outside of the unit should not affect the unit tests</span>.</p>
+<box>
+<p><span><span aria-hidden="true" class="fas fa-cube"></span></span> If a <code class="line-numbers hljs inline no-lang" v-pre>Logic</code> class depends on a <code class="line-numbers hljs inline no-lang" v-pre>Storage</code> class, unit testing the <code class="line-numbers hljs inline no-lang" v-pre>Logic</code> class requires isolating the <code class="line-numbers hljs inline no-lang" v-pre>Logic</code> class from the <code class="line-numbers hljs inline no-lang" v-pre>Storage</code> class.</p></box>
+<p><strong><em>Stubs</em> can isolate the <popover><template #content>Software Under Test (in this case, the <em>unit</em> being tested)</template>SUT</popover> from its dependencies</strong>.</p>
+<box type="definition" seamless>
+<div><p><strong>Stub</strong>: A stub has the same interface as the component it replaces, but its implementation is so simple that it is unlikely to have any bugs. It mimics the responses of the component, but only for a limited set of predetermined inputs. That is, it does not know how to respond to any other inputs. Typically, these mimicked responses are hard-coded in the stub rather than computed or retrieved from elsewhere, e.g. from a database.</p></div></box>
+<box>
+<p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Consider the code below:</p>
+<pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Logic</span> </span>{
+</span><span>    Storage s;
+</span><span>
+</span><span>    Logic(Storage s) {
+</span><span>        <span class="hljs-keyword">this</span>.s = s;
+</span><span>    }
+</span><span>
+</span><span>    <span class="hljs-function">String <span class="hljs-title">getName</span><span class="hljs-params">(<span class="hljs-keyword">int</span> index)</span> </span>{
+</span><span>        <span class="hljs-keyword">return</span> <span class="hljs-string">&quot;Name: &quot;</span> + s.getName(index);
+</span><span>    }
+</span><span>}
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre><pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-class"><span class="hljs-keyword">interface</span> <span class="hljs-title">Storage</span> </span>{
+</span><span>    <span class="hljs-function">String <span class="hljs-title">getName</span><span class="hljs-params">(<span class="hljs-keyword">int</span> index)</span></span>;
+</span><span>}
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre><pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">DatabaseStorage</span> <span class="hljs-keyword">implements</span> <span class="hljs-title">Storage</span> </span>{
+</span><span>
+</span><span>    <span class="hljs-meta">@Override</span>
+</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> String <span class="hljs-title">getName</span><span class="hljs-params">(<span class="hljs-keyword">int</span> index)</span> </span>{
+</span><span>        <span class="hljs-keyword">return</span> readValueFromDatabase(index);
+</span><span>    }
+</span><span>
+</span><span>    <span class="hljs-function"><span class="hljs-keyword">private</span> String <span class="hljs-title">readValueFromDatabase</span><span class="hljs-params">(<span class="hljs-keyword">int</span> index)</span> </span>{
+</span><span>        <span class="hljs-comment">// retrieve name from the database</span>
+</span><span>    }
+</span><span>}
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre><p>Normally, you would use the <code class="line-numbers hljs inline no-lang" v-pre>Logic</code> class as follows (note how the <code class="line-numbers hljs inline no-lang" v-pre>Logic</code> object depends on a <code class="line-numbers hljs inline no-lang" v-pre>DatabaseStorage</code> object to perform the <code class="line-numbers hljs inline no-lang" v-pre>getName()</code> operation):</p>
+<pre><code class="line-numbers hljs java" v-pre><span>Logic logic = <span class="hljs-keyword">new</span> Logic(<span class="hljs-keyword">new</span> DatabaseStorage());
+</span><span>String name = logic.getName(<span class="hljs-number">23</span>);
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre><p>You can test it like this:</p>
+<pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-meta">@Test</span>
+</span><span><span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">getName</span><span class="hljs-params">()</span> </span>{
+</span><span>    Logic logic = <span class="hljs-keyword">new</span> Logic(<span class="hljs-keyword">new</span> DatabaseStorage());
+</span><span>    assertEquals(<span class="hljs-string">&quot;Name: John&quot;</span>, logic.getName(<span class="hljs-number">5</span>));
+</span><span>}
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre><p>However, this <code class="line-numbers hljs inline no-lang" v-pre>logic</code> object being tested is making use of a <code class="line-numbers hljs inline no-lang" v-pre>DataBaseStorage</code> object which means a bug in the <code class="line-numbers hljs inline no-lang" v-pre>DatabaseStorage</code> class can affect the test. Therefore, this test is not testing <code class="line-numbers hljs inline no-lang" v-pre>Logic</code> <em>in isolation from its dependencies</em> and hence it is not a pure unit test.</p>
+<p>Here is a stub class you can use in place of <code class="line-numbers hljs inline no-lang" v-pre>DatabaseStorage</code>:</p>
+<pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">StorageStub</span> <span class="hljs-keyword">implements</span> <span class="hljs-title">Storage</span> </span>{
+</span><span>
+</span><span>    <span class="hljs-meta">@Override</span>
+</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> String <span class="hljs-title">getName</span><span class="hljs-params">(<span class="hljs-keyword">int</span> index)</span> </span>{
+</span><span>        <span class="hljs-keyword">if</span> (index == <span class="hljs-number">5</span>) {
+</span><span>            <span class="hljs-keyword">return</span> <span class="hljs-string">&quot;Adam&quot;</span>;
+</span><span>        } <span class="hljs-keyword">else</span> {
+</span><span>            <span class="hljs-keyword">throw</span> <span class="hljs-keyword">new</span> UnsupportedOperationException();
+</span><span>        }
+</span><span>    }
+</span><span>}
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre><p>Note how the <code class="line-numbers hljs inline no-lang" v-pre>StorageStub</code> has the same interface as <code class="line-numbers hljs inline no-lang" v-pre>DatabaseStorage</code>, but is so simple that it is unlikely to contain bugs, and is pre-configured to respond with a hard-coded response, presumably, the correct response <code class="line-numbers hljs inline no-lang" v-pre>DatabaseStorage</code> is expected to return for the given test input.</p>
+<p>Here is how you can use the stub to write a unit test. This test is not affected by any bugs in the <code class="line-numbers hljs inline no-lang" v-pre>DatabaseStorage</code> class and hence is a pure unit test.</p>
+<pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-meta">@Test</span>
+</span><span><span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">getName</span><span class="hljs-params">()</span> </span>{
+</span><span>    Logic logic = <span class="hljs-keyword">new</span> Logic(<span class="hljs-keyword">new</span> StorageStub());
+</span><span>    assertEquals(<span class="hljs-string">&quot;Name: Adam&quot;</span>, logic.getName(<span class="hljs-number">5</span>));
+</span><span>}
+</span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
+    <div class="function-btn-body">
+    
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18" version="1.1">
+    <g id="surface1">
+      <path d="M 11.273438 0 L 2.546875 0 C 1.746094 0 1.089844 0.613281 1.089844
+      1.363281 L 1.089844 10.910156 L 2.546875 10.910156 L 2.546875 1.363281 L 11.273438
+      1.363281 Z M 13.453125 2.726562 L 5.453125 2.726562 C 4.65625 2.726562 4 3.339844 4
+      4.089844 L 4 13.636719 C 4 14.386719 4.65625 15 5.453125 15 L 13.453125 15 C 14.253906
+      15 14.910156 14.386719 14.910156 13.636719 L 14.910156 4.089844 C 14.910156 3.339844
+      14.253906 2.726562 13.453125 2.726562 Z M 13.453125 13.636719 L 5.453125 13.636719 L
+      5.453125 4.089844 L 13.453125 4.089844 Z M 13.453125 13.636719 "/>
+    </g>
+</svg>
+
+    </div>
+    </button></div></pre></box>
+<p>In addition to Stubs, there are other type of replacements you can use during testing, e.g. <em>Mocks</em>, <em>Fakes</em>, <em>Dummies</em>, <em>Spies</em>.</p></div>
+<div>
+  <div><panel expanded><template #header><p><span><span aria-hidden="true" class="fas fa-paperclip"></span></span> Resources</p></template> 
+<ul>
+<li><a href="https://martinfowler.com/articles/mocksArentStubs.html"><strong>Mocks Aren't Stubs</strong></a> by Martin Fowler -- An in-depth article about how Stubs differ from other types of test helpers.</li></ul></panel></div>
+  <div><panel expandable class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="fas fa-dumbbell"></span></span> Exercises</p></template>
+  <div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Purpose of stubs</p></template>
+<question>
+<p>Stubs help us to test a component in isolation from its dependencies.</p>
+<ul radio-group="a0303" class="radio-list">
+<li class="radio-list-item"><label><input class="radio-list-input" name="a0303" type="radio"> True</label></li>
+<li class="radio-list-item"><label><input class="radio-list-input" name="a0303" type="radio"> False</label></li></ul>
+<template #answer><div class="algolia-no-index">
+<p>True</p></div></template></question></panel></div></panel></div></div></div></div></div></modal>
+<box>
+<p><span><span aria-hidden="true" class="fas fa-cube"></span></span> A <code class="line-numbers hljs inline no-lang" v-pre>Foo</code> object normally depends on a <code class="line-numbers hljs inline no-lang" v-pre>Bar</code> object, but you can inject a <code class="line-numbers hljs inline no-lang" v-pre>BarStub</code> object so that the <code class="line-numbers hljs inline no-lang" v-pre>Foo</code> object no longer depends on a <code class="line-numbers hljs inline no-lang" v-pre>Bar</code> object. Now you can test the <code class="line-numbers hljs inline no-lang" v-pre>Foo</code> object in isolation from the <code class="line-numbers hljs inline no-lang" v-pre>Bar</code> object.</p>
+<pic src="/website/book/testing/dependencyInjection/what/images/diagram.png" height="150"></pic></box></div>
+<div></div></div></div>

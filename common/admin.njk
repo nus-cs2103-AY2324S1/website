@@ -1,0 +1,136 @@
+{% from "common/macros.njk" import show_stars with context %}
+{% from "_course-" + course + "/weeklyAdminTopics-fragment.md" import admin_topics with context %}
+
+
+{% macro show_admin_pagetop_for_topic(topics, topic) %}
+<frontmatter>
+title: "Admin: {{ topic.title }}"
+layout: "admin-layout.md"
+pageNav: 4
+</frontmatter>
+
+
+<div class="website-content">
+
+{{ show_next_previous(topics, topic.id) }}
+<br>
+{% endmacro %}
+
+
+{% macro show_admin_pagetop(topics, current_topic_id) %}
+{% for topic in topics %}
+{% if topic.id == current_topic_id %}
+  {{ show_admin_pagetop_for_topic(topics, topic) }}
+{% endif %}
+{% endfor %}
+{% endmacro %}
+
+
+{% macro show_previous(topic)-%}
+<span class="float-start algolia-no-index"><a class="badge bg-light text-dark" href="{{ baseUrl }}/admin/{{ topic.link }}"><md>:far-arrow-alt-circle-left: {{ topic.alt if topic.alt else topic.title }}</md></a></span>
+{%- endmacro %}
+
+
+{% macro show_next(topic)-%}
+<span class="float-end algolia-no-index"><a class="badge bg-light text-dark" href="{{ baseUrl }}/admin/{{ topic.link }}"><md>{{ topic.alt if topic.alt else topic.title }} :far-arrow-alt-circle-right:</md></a></span>
+{%- endmacro %}
+
+
+{# this macro has extra complications in order to avoid a line break between the two spans. Assumes at least two topics. #}
+{% macro show_next_previous(topics, current_topic_id) -%}
+
+{% set linked_topics = [] %}
+{% for topic in topics %}
+{% if topic.level in [1,2] %}
+{% set linked_topics = (linked_topics.push(topic), linked_topics) %}
+{% endif %}
+{% endfor %}
+
+{% for topic in linked_topics %}
+{% if topic.id == current_topic_id %}
+  {% if not loop.first %}
+    {% set previous_topic = linked_topics[loop.index0 - 1] %}
+  {% endif %}
+  {% if not loop.last %}
+    {% set next_topic = linked_topics[loop.index0 + 1] %}
+  {% endif %}
+{% if loop.first %}
+{{ show_next(next_topic) }}
+{% elseif loop.last %}
+{{ show_previous(previous_topic) }}
+{% else %}
+{{ show_previous(previous_topic) }}{{ show_next(next_topic) }}
+{% endif %}
+{% endif %}
+{% endfor %}
+{%- endmacro %}
+
+{% macro show_admin_pagebottom(topics, current_topic_id)%}
+<br>
+{{ show_next_previous(topics, current_topic_id) }}
+
+</div>
+{% endmacro %}
+
+{% set topics = admin_topics %}
+
+{% set faqs = [
+  {id: "admin-faq-whereIsEverything", title: "Where is everything?", priority: 1},
+  {id: "admin-faq-tVsNonT", title: "What are the differences between " + course + "T and " + course + "?", priority: 4},
+  {id: "admin-faq-highWorkload", title: "Why the workload is so high?", priority: 4},
+  {id: "admin-faq-aPlus", title: "What are the extra requirements to get an A+?", priority: 3},
+  {id: "admin-faq-beanCounting", title: "Why so much bean counting?", priority: 4},
+  {id: "admin-faq-separateWebsite", title: "Why use a separate website instead of Canvas?", priority: 4},
+  {id: "admin-faq-slideFormat", title: "Why slides are not detailed?", priority: 4},
+  {id: "admin-faq-selfStudy", title: "Why so much self-study?", priority: 4},
+  {id: "admin-faq-noLaptop", title: "What if I don’t carry around a laptop?", priority: 4},
+  {id: "admin-faq-narrowScope", title: "Why very narrow project scope?", priority: 4},
+  {id: "admin-faq-favoriteTool", title: "Why can't I use my favorite tool/framework/language etc.?", priority: 4},
+  {id: "admin-faq-manySubmissions", title: "Why so many submissions?", priority: 4},
+  {id: "admin-faq-cs2101Differences", title: "Why submission requirements differ between " + course + "T and CS2101?", priority: 4}
+]%}
+
+{% set policies = [
+  {id: "policy-followingInstructions", title: "Policy on following instructions", priority: 2},
+  {id: "policy-teamSize", title: "Policy on grading smaller/larger teams", priority: 4},
+  {id: "policy-workDistribution", title: "Policy on project work distribution", priority: 3},
+  {id: "policy-validAbsences", title: "Policy on absence due to valid reasons (e.g. MC, LOA, University events)", priority: 4},
+  {id: "policy-responseTime", title: "Policy on email response time", priority: 3},
+  {id: "policy-techHelp", title: "Policy on tech help", priority: 2},
+  {id: "policy-publishingSubmissions", title: "Policy on publishing submissions", priority: 4},
+  {id: "policy-plagiarism", title: "Policy on plagiarism", priority: 1},
+  {id: "policy-reuse", title: "Policy on reuse", priority: 1},
+  {id: "policy-outsiderHelp", title: "Policy on help from outsiders", priority: 2},
+  {id: "policy-deadlineExtensions", title: "Policy on deadline extensions", priority: 4}
+]%}
+
+
+{% macro show_title(current_topic_id, topics) -%}
+{% for topic in topics %}
+{% if topic.id == current_topic_id %}
+{% set hashes = "#" %}
+{{ hashes }} <span class="display-4">{{ topic.title }}</span> <span style="font-size:15px" class="text-muted text-light">{{ show_stars(topic.priority) if topic.priority }} {% for tag in topic.tags %}<span class="badge rounded-pill bg-light text-dark ">#{{ tag }}</span> {% endfor %}</span>
+{% endif %}
+{% endfor %}
+{%- endmacro %}
+
+{% macro show_admin_page(current_topic_id)%}
+{{ show_admin_pagetop(topics, current_topic_id) }}
+{{ show_title(current_topic_id, topics) | trim }}
+{{ caller() }}
+{{ show_admin_pagebottom(topics, current_topic_id) }}
+{% endmacro %}
+
+{% macro show_admin_summary()%}
+<div id="summary" class="lead border-bottom border-left ml-3 mb-3 pl-2" style="color: purple;">
+
+{{ caller() }}
+</div>
+{% endmacro %}
+
+{% macro show_project_summary_lead()%}
+<div id="summary" class="lead border-bottom border-left ml-3 mb-3" style="color: purple">
+
+{{ caller() }}
+</div>
+{% endmacro %}

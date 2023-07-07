@@ -1,0 +1,1042 @@
+2023-07-02T16:06:35.442Z - info: [12:06:35 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-02T16:06:35.455Z - info: Synchronizing opened pages list before reload
+2023-07-02T16:06:35.455Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T16:06:35.456Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2023-07-02T16:06:35.456Z - info: 2. git-trail/index
+2023-07-02T16:06:35.456Z - info: 3. index
+2023-07-02T16:06:36.471Z - info: Rebuilding 1 pages
+2023-07-02T16:06:37.547Z - info: Site data built
+2023-07-02T16:06:37.548Z - info: Pages rebuilt
+2023-07-02T16:06:37.548Z - info: Website regeneration complete! Total build time: 1.078s
+2023-07-02T16:08:05.090Z - info: [12:08:05 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\init\text.md
+2023-07-02T16:08:05.090Z - info: Synchronizing opened pages list before reload
+2023-07-02T16:08:05.090Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T16:08:05.090Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2023-07-02T16:08:05.090Z - info: 2. git-trail/index
+2023-07-02T16:08:06.108Z - info: Rebuilding 2 pages
+2023-07-02T16:08:07.682Z - info: Site data built
+2023-07-02T16:08:07.683Z - info: Pages rebuilt
+2023-07-02T16:08:07.683Z - info: Website regeneration complete! Total build time: 1.575s
+2023-07-02T16:51:30.187Z - info: [12:51:30 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\init\text.md
+2023-07-02T16:51:30.187Z - info: Synchronizing opened pages list before reload
+2023-07-02T16:51:30.187Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T16:51:30.187Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2023-07-02T16:51:30.188Z - info: 2. git-trail/index
+2023-07-02T16:51:31.201Z - info: Rebuilding 2 pages
+2023-07-02T16:51:32.980Z - info: Site data built
+2023-07-02T16:51:32.981Z - info: Pages rebuilt
+2023-07-02T16:51:32.981Z - info: Website regeneration complete! Total build time: 1.78s
+2023-07-02T16:54:28.917Z - info: [12:54:28 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\init\text.md
+2023-07-02T16:54:28.918Z - info: Synchronizing opened pages list before reload
+2023-07-02T16:54:28.918Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T16:54:28.918Z - info: 1. git-trail/index
+2023-07-02T16:54:29.924Z - info: Rebuilding 1 pages
+2023-07-02T16:54:30.671Z - info: Site data built
+2023-07-02T16:54:30.671Z - info: Pages rebuilt
+2023-07-02T16:54:30.671Z - info: Website regeneration complete! Total build time: 0.749s
+2023-07-02T16:54:39.423Z - info: [12:54:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\init\text.md
+2023-07-02T16:54:39.423Z - info: Synchronizing opened pages list before reload
+2023-07-02T16:54:39.423Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T16:54:39.423Z - info: 1. git-trail/index
+2023-07-02T16:54:40.441Z - info: Rebuilding 1 pages
+2023-07-02T16:54:41.105Z - info: Site data built
+2023-07-02T16:54:41.105Z - info: Pages rebuilt
+2023-07-02T16:54:41.105Z - info: Website regeneration complete! Total build time: 0.666s
+2023-07-02T16:55:26.231Z - info: [12:55:26 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\init\cli.md
+2023-07-02T16:55:26.232Z - info: Synchronizing opened pages list before reload
+2023-07-02T16:55:26.232Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T16:55:26.232Z - info: 1. git-trail/index
+2023-07-02T16:55:27.240Z - info: Rebuilding 1 pages
+2023-07-02T16:55:27.942Z - info: Site data built
+2023-07-02T16:55:27.943Z - info: Pages rebuilt
+2023-07-02T16:55:27.943Z - info: Website regeneration complete! Total build time: 0.705s
+2023-07-02T16:56:14.848Z - info: [12:56:14 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\init\text.md
+2023-07-02T16:56:14.849Z - info: Synchronizing opened pages list before reload
+2023-07-02T16:56:14.849Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T16:56:14.849Z - info: 1. git-trail/index
+2023-07-02T16:56:15.855Z - info: Rebuilding 1 pages
+2023-07-02T16:56:16.537Z - info: Site data built
+2023-07-02T16:56:16.537Z - info: Pages rebuilt
+2023-07-02T16:56:16.537Z - info: Website regeneration complete! Total build time: 0.684s
+2023-07-02T17:00:42.904Z - info: [1:00:42 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-02T17:00:42.904Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:00:42.905Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:00:42.905Z - info: 1. git-trail/index
+2023-07-02T17:00:43.908Z - info: Rebuilding 1 pages
+2023-07-02T17:00:44.744Z - info: Site data built
+2023-07-02T17:00:44.744Z - info: Pages rebuilt
+2023-07-02T17:00:44.744Z - info: Website regeneration complete! Total build time: 0.836s
+2023-07-02T17:01:41.521Z - info: [1:01:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-02T17:01:41.522Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:01:41.522Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:01:41.522Z - info: 1. git-trail/index
+2023-07-02T17:01:42.536Z - info: Rebuilding 1 pages
+2023-07-02T17:01:43.242Z - info: Site data built
+2023-07-02T17:01:43.242Z - info: Pages rebuilt
+2023-07-02T17:01:43.242Z - info: Website regeneration complete! Total build time: 0.708s
+2023-07-02T17:02:02.227Z - info: [1:02:02 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2023-07-02T17:02:02.228Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:02:02.228Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:02:02.228Z - info: 1. git-trail/index
+2023-07-02T17:02:03.238Z - info: Rebuilding 1 pages
+2023-07-02T17:02:03.924Z - info: Site data built
+2023-07-02T17:02:03.924Z - info: Pages rebuilt
+2023-07-02T17:02:03.924Z - info: Website regeneration complete! Total build time: 0.689s
+2023-07-02T17:02:28.407Z - info: [1:02:28 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2023-07-02T17:02:28.407Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:02:28.407Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:02:28.408Z - info: 1. git-trail/index
+2023-07-02T17:02:29.425Z - info: Rebuilding 1 pages
+2023-07-02T17:02:30.122Z - info: Site data built
+2023-07-02T17:02:30.122Z - info: Pages rebuilt
+2023-07-02T17:02:30.122Z - info: Website regeneration complete! Total build time: 0.699s
+2023-07-02T17:02:57.143Z - info: [1:02:57 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2023-07-02T17:02:57.143Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:02:57.143Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:02:57.143Z - info: 1. git-trail/index
+2023-07-02T17:02:58.169Z - info: Rebuilding 1 pages
+2023-07-02T17:02:58.843Z - info: Site data built
+2023-07-02T17:02:58.843Z - info: Pages rebuilt
+2023-07-02T17:02:58.843Z - info: Website regeneration complete! Total build time: 0.675s
+2023-07-02T17:04:45.296Z - info: [1:04:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2023-07-02T17:04:45.297Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:04:45.297Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:04:45.297Z - info: 1. git-trail/index
+2023-07-02T17:04:46.305Z - info: Rebuilding 1 pages
+2023-07-02T17:04:46.973Z - info: Site data built
+2023-07-02T17:04:46.973Z - info: Pages rebuilt
+2023-07-02T17:04:46.973Z - info: Website regeneration complete! Total build time: 0.669s
+2023-07-02T17:07:24.033Z - info: [1:07:24 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\cli_1.md
+2023-07-02T17:07:24.033Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:07:24.033Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:07:24.033Z - info: 1. git-trail/index
+2023-07-02T17:07:24.051Z - info: [1:07:24 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\cli_3.md
+2023-07-02T17:07:24.052Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:07:24.052Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:07:24.052Z - info: 1. git-trail/index
+2023-07-02T17:07:24.067Z - info: [1:07:24 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\cli_2.md
+2023-07-02T17:07:24.067Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:07:24.067Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:07:24.067Z - info: 1. git-trail/index
+2023-07-02T17:07:25.042Z - info: Rebuilding 1 pages
+2023-07-02T17:07:25.791Z - info: Site data built
+2023-07-02T17:07:25.792Z - info: Pages rebuilt
+2023-07-02T17:07:25.792Z - info: Website regeneration complete! Total build time: 0.753s
+2023-07-02T17:09:42.353Z - info: [1:09:42 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2023-07-02T17:09:42.353Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:09:42.353Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:09:42.354Z - info: 1. git-trail/index
+2023-07-02T17:09:43.373Z - info: Rebuilding 1 pages
+2023-07-02T17:09:44.053Z - info: Site data built
+2023-07-02T17:09:44.053Z - info: Pages rebuilt
+2023-07-02T17:09:44.053Z - info: Website regeneration complete! Total build time: 0.682s
+2023-07-02T17:10:22.269Z - info: [1:10:22 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\sourcetree_4.md
+2023-07-02T17:10:22.269Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:10:22.269Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:10:22.270Z - info: 1. git-trail/index
+2023-07-02T17:10:23.279Z - info: Rebuilding 1 pages
+2023-07-02T17:10:24.014Z - info: Site data built
+2023-07-02T17:10:24.014Z - info: Pages rebuilt
+2023-07-02T17:10:24.014Z - info: Website regeneration complete! Total build time: 0.735s
+2023-07-02T17:21:34.650Z - info: [1:21:34 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2023-07-02T17:21:34.651Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:21:34.651Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:21:34.651Z - info: 1. git-trail/index
+2023-07-02T17:21:35.663Z - info: Rebuilding 1 pages
+2023-07-02T17:21:36.613Z - info: Site data built
+2023-07-02T17:21:36.613Z - info: Pages rebuilt
+2023-07-02T17:21:36.613Z - info: Website regeneration complete! Total build time: 0.95s
+2023-07-02T17:22:19.670Z - info: [1:22:19 am] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\sourcetree_6.md
+2023-07-02T17:22:19.670Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:22:19.670Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:22:19.670Z - info: 1. git-trail/index
+2023-07-02T17:22:24.819Z - info: Assets built
+2023-07-02T17:22:31.961Z - info: [1:22:31 am] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\cli_6.md
+2023-07-02T17:22:31.961Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:22:31.961Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:22:31.961Z - info: 1. git-trail/index
+2023-07-02T17:22:36.843Z - info: Assets built
+2023-07-02T17:22:48.243Z - info: [1:22:48 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2023-07-02T17:22:48.243Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:22:48.243Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:22:48.243Z - info: 1. git-trail/index
+2023-07-02T17:22:49.261Z - info: Rebuilding 1 pages
+2023-07-02T17:22:49.986Z - info: Site data built
+2023-07-02T17:22:49.986Z - info: Pages rebuilt
+2023-07-02T17:22:49.986Z - info: Website regeneration complete! Total build time: 0.728s
+2023-07-02T17:32:01.980Z - info: [1:32:01 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\sourcetree_6.md
+2023-07-02T17:32:01.980Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:32:01.981Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:32:01.981Z - info: 1. git-trail/index
+2023-07-02T17:32:02.992Z - info: Rebuilding 1 pages
+2023-07-02T17:32:04.055Z - info: Site data built
+2023-07-02T17:32:04.056Z - info: Pages rebuilt
+2023-07-02T17:32:04.056Z - info: Website regeneration complete! Total build time: 1.065s
+2023-07-02T17:32:33.437Z - info: [1:32:33 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\sourcetree_6.md
+2023-07-02T17:32:33.438Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:32:33.438Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:32:33.438Z - info: 1. git-trail/index
+2023-07-02T17:32:34.448Z - info: Rebuilding 1 pages
+2023-07-02T17:32:35.292Z - info: Site data built
+2023-07-02T17:32:35.293Z - info: Pages rebuilt
+2023-07-02T17:32:35.293Z - info: Website regeneration complete! Total build time: 0.845s
+2023-07-02T17:35:00.899Z - info: [1:35:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\sourcetree_6.md
+2023-07-02T17:35:00.899Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:35:00.899Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:35:00.899Z - info: 1. git-trail/index
+2023-07-02T17:35:01.908Z - info: Rebuilding 1 pages
+2023-07-02T17:35:02.926Z - info: Site data built
+2023-07-02T17:35:02.927Z - info: Pages rebuilt
+2023-07-02T17:35:02.927Z - info: Website regeneration complete! Total build time: 1.02s
+2023-07-02T17:35:40.564Z - info: [1:35:40 am] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\images\sourcetree_9.png
+2023-07-02T17:35:40.564Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:35:40.564Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:35:40.564Z - info: 1. git-trail/index
+2023-07-02T17:35:44.086Z - info: [1:35:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\images\sourcetree_9.png
+2023-07-02T17:35:44.086Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:35:44.086Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:35:44.086Z - info: 1. git-trail/index
+2023-07-02T17:35:45.118Z - info: Assets built
+2023-07-02T17:35:50.037Z - info: [1:35:50 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\images\sourcetree_9.png
+2023-07-02T17:35:50.038Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:35:50.038Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:35:50.038Z - info: 1. git-trail/index
+2023-07-02T17:35:51.062Z - info: Assets built
+2023-07-02T17:36:03.326Z - info: [1:36:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\sourcetree_6.md
+2023-07-02T17:36:03.326Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:36:03.326Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:36:03.326Z - info: 1. git-trail/index
+2023-07-02T17:36:04.343Z - info: Rebuilding 1 pages
+2023-07-02T17:36:05.061Z - info: Site data built
+2023-07-02T17:36:05.062Z - info: Pages rebuilt
+2023-07-02T17:36:05.062Z - info: Website regeneration complete! Total build time: 0.72s
+2023-07-02T17:37:17.939Z - info: [1:37:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\cli_6.md
+2023-07-02T17:37:17.939Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:37:17.939Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:37:17.939Z - info: 1. git-trail/index
+2023-07-02T17:37:18.952Z - info: Rebuilding 1 pages
+2023-07-02T17:37:20.103Z - info: Site data built
+2023-07-02T17:37:20.104Z - info: Pages rebuilt
+2023-07-02T17:37:20.104Z - info: Website regeneration complete! Total build time: 1.152s
+2023-07-02T17:43:45.195Z - info: [1:43:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\cli_6.md
+2023-07-02T17:43:45.195Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:43:45.195Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:43:45.195Z - info: 1. git-trail/index
+2023-07-02T17:43:46.208Z - info: Rebuilding 1 pages
+2023-07-02T17:43:46.982Z - info: Site data built
+2023-07-02T17:43:46.983Z - info: Pages rebuilt
+2023-07-02T17:43:46.983Z - info: Website regeneration complete! Total build time: 0.775s
+2023-07-02T17:43:51.271Z - info: [1:43:51 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\cli_6.md
+2023-07-02T17:43:51.271Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:43:51.271Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:43:51.271Z - info: 1. git-trail/index
+2023-07-02T17:43:52.276Z - info: Rebuilding 1 pages
+2023-07-02T17:43:53.097Z - info: Site data built
+2023-07-02T17:43:53.097Z - info: Pages rebuilt
+2023-07-02T17:43:53.097Z - info: Website regeneration complete! Total build time: 0.822s
+2023-07-02T17:47:23.582Z - info: [1:47:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\cli_6.md
+2023-07-02T17:47:23.582Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:47:23.582Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:47:23.582Z - info: 1. git-trail/index
+2023-07-02T17:47:24.594Z - info: Rebuilding 1 pages
+2023-07-02T17:47:25.544Z - info: Site data built
+2023-07-02T17:47:25.545Z - info: Pages rebuilt
+2023-07-02T17:47:25.545Z - info: Website regeneration complete! Total build time: 0.953s
+2023-07-02T17:48:38.421Z - info: [1:48:38 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\cli_6.md
+2023-07-02T17:48:38.422Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:48:38.422Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:48:38.422Z - info: 1. git-trail/index
+2023-07-02T17:48:39.440Z - info: Rebuilding 1 pages
+2023-07-02T17:48:40.424Z - info: Site data built
+2023-07-02T17:48:40.425Z - info: Pages rebuilt
+2023-07-02T17:48:40.425Z - info: Website regeneration complete! Total build time: 0.987s
+2023-07-02T17:48:57.684Z - info: [1:48:57 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\cli_6.md
+2023-07-02T17:48:57.684Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:48:57.685Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:48:57.685Z - info: 1. git-trail/index
+2023-07-02T17:48:58.694Z - info: Rebuilding 1 pages
+2023-07-02T17:48:59.622Z - info: Site data built
+2023-07-02T17:48:59.622Z - info: Pages rebuilt
+2023-07-02T17:48:59.622Z - info: Website regeneration complete! Total build time: 0.929s
+2023-07-02T17:49:24.068Z - info: [1:49:24 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\cli_6.md
+2023-07-02T17:49:24.069Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:49:24.069Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:49:24.069Z - info: 1. git-trail/index
+2023-07-02T17:49:25.077Z - info: Rebuilding 1 pages
+2023-07-02T17:49:26.043Z - info: Site data built
+2023-07-02T17:49:26.043Z - info: Pages rebuilt
+2023-07-02T17:49:26.044Z - info: Website regeneration complete! Total build time: 0.968s
+2023-07-02T17:52:34.682Z - info: [1:52:34 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\sourcetree_6.md
+2023-07-02T17:52:34.682Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:52:34.682Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:52:34.682Z - info: 1. git-trail/index
+2023-07-02T17:52:35.695Z - info: Rebuilding 1 pages
+2023-07-02T17:52:36.726Z - info: Site data built
+2023-07-02T17:52:36.726Z - info: Pages rebuilt
+2023-07-02T17:52:36.726Z - info: Website regeneration complete! Total build time: 1.033s
+2023-07-02T17:52:57.618Z - info: [1:52:57 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\sourcetree_6.md
+2023-07-02T17:52:57.618Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:52:57.619Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:52:57.619Z - info: 1. git-trail/index
+2023-07-02T17:52:58.623Z - info: Rebuilding 1 pages
+2023-07-02T17:52:59.507Z - info: Site data built
+2023-07-02T17:52:59.507Z - info: Pages rebuilt
+2023-07-02T17:52:59.507Z - info: Website regeneration complete! Total build time: 0.886s
+2023-07-02T17:54:09.327Z - info: [1:54:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\cli_6.md
+2023-07-02T17:54:09.327Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:54:09.327Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:54:09.327Z - info: 1. git-trail/index
+2023-07-02T17:54:10.336Z - info: Rebuilding 1 pages
+2023-07-02T17:54:11.268Z - info: Site data built
+2023-07-02T17:54:11.268Z - info: Pages rebuilt
+2023-07-02T17:54:11.268Z - info: Website regeneration complete! Total build time: 0.933s
+2023-07-02T17:55:41.475Z - info: [1:55:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\cli_6.md
+2023-07-02T17:55:41.475Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:55:41.475Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:55:41.475Z - info: 1. git-trail/index
+2023-07-02T17:55:42.483Z - info: Rebuilding 1 pages
+2023-07-02T17:55:43.393Z - info: Site data built
+2023-07-02T17:55:43.394Z - info: Pages rebuilt
+2023-07-02T17:55:43.394Z - info: Website regeneration complete! Total build time: 0.912s
+2023-07-02T17:56:33.532Z - info: [1:56:33 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\sourcetree_6.md
+2023-07-02T17:56:33.532Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:56:33.532Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:56:33.532Z - info: 1. git-trail/index
+2023-07-02T17:56:34.547Z - info: Rebuilding 1 pages
+2023-07-02T17:56:35.441Z - info: Site data built
+2023-07-02T17:56:35.441Z - info: Pages rebuilt
+2023-07-02T17:56:35.441Z - info: Website regeneration complete! Total build time: 0.895s
+2023-07-02T17:56:53.484Z - info: [1:56:53 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2023-07-02T17:56:53.484Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:56:53.484Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:56:53.484Z - info: 1. git-trail/index
+2023-07-02T17:56:54.489Z - info: Rebuilding 1 pages
+2023-07-02T17:56:55.383Z - info: Site data built
+2023-07-02T17:56:55.383Z - info: Pages rebuilt
+2023-07-02T17:56:55.383Z - info: Website regeneration complete! Total build time: 0.896s
+2023-07-02T17:57:15.849Z - info: [1:57:15 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2023-07-02T17:57:15.849Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:57:15.850Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:57:15.850Z - info: 1. git-trail/index
+2023-07-02T17:57:16.857Z - info: Rebuilding 1 pages
+2023-07-02T17:57:17.778Z - info: Site data built
+2023-07-02T17:57:17.779Z - info: Pages rebuilt
+2023-07-02T17:57:17.779Z - info: Website regeneration complete! Total build time: 0.924s
+2023-07-02T17:57:27.723Z - info: [1:57:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2023-07-02T17:57:27.723Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:57:27.724Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:57:27.724Z - info: 1. git-trail/index
+2023-07-02T17:57:28.730Z - info: Rebuilding 1 pages
+2023-07-02T17:57:29.550Z - info: Site data built
+2023-07-02T17:57:29.550Z - info: Pages rebuilt
+2023-07-02T17:57:29.550Z - info: Website regeneration complete! Total build time: 0.821s
+2023-07-02T17:58:17.847Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\gitAndGithub as some of its dependencies were changed since the last visit
+2023-07-02T17:58:18.853Z - info: Site data built
+2023-07-02T17:58:18.853Z - info: Lazy website regeneration complete! Total build time: 1.007s
+2023-07-02T17:58:23.097Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\index as some of its dependencies were changed since the last visit
+2023-07-02T17:58:23.754Z - info: Site data built
+2023-07-02T17:58:23.754Z - info: Lazy website regeneration complete! Total build time: 0.657s
+2023-07-02T17:58:34.149Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\topics as some of its dependencies were changed since the last visit
+2023-07-02T17:58:36.008Z - info: Site data built
+2023-07-02T17:58:36.008Z - info: Lazy website regeneration complete! Total build time: 1.86s
+2023-07-02T17:59:55.261Z - info: [1:59:55 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-02T17:59:55.261Z - info: Synchronizing opened pages list before reload
+2023-07-02T17:59:55.261Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T17:59:55.261Z - info: 1. schedule/week2/topics
+2023-07-02T17:59:55.261Z - info: 2. git-trail/index
+2023-07-02T17:59:56.276Z - info: Rebuilding 1 pages
+2023-07-02T17:59:57.240Z - info: Site data built
+2023-07-02T17:59:57.240Z - info: Pages rebuilt
+2023-07-02T17:59:57.240Z - info: Website regeneration complete! Total build time: 0.966s
+2023-07-02T18:00:19.984Z - info: [2:00:19 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-02T18:00:19.984Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:00:19.985Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:00:19.985Z - info: 1. schedule/week2/topics
+2023-07-02T18:00:19.985Z - info: 2. git-trail/index
+2023-07-02T18:00:20.999Z - info: Rebuilding 1 pages
+2023-07-02T18:00:21.888Z - info: Site data built
+2023-07-02T18:00:21.889Z - info: Pages rebuilt
+2023-07-02T18:00:21.889Z - info: Website regeneration complete! Total build time: 0.89s
+2023-07-02T18:02:28.404Z - info: [2:02:28 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\lectures.md
+2023-07-02T18:02:28.404Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:02:28.404Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:02:28.404Z - info: 1. schedule/week2/topics
+2023-07-02T18:02:28.404Z - info: 2. git-trail/index
+2023-07-02T18:02:29.410Z - info: Rebuilding 2 pages
+2023-07-02T18:02:31.734Z - info: Site data built
+2023-07-02T18:02:31.734Z - info: Pages rebuilt
+2023-07-02T18:02:31.734Z - info: Website regeneration complete! Total build time: 2.326s
+2023-07-02T18:03:07.336Z - info: [2:03:07 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\lectures.md
+2023-07-02T18:03:07.336Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:03:07.336Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:03:07.337Z - info: 1. schedule/week2/topics
+2023-07-02T18:03:07.337Z - info: 2. git-trail/index
+2023-07-02T18:03:08.342Z - info: Rebuilding 2 pages
+2023-07-02T18:03:10.632Z - info: Site data built
+2023-07-02T18:03:10.632Z - info: Pages rebuilt
+2023-07-02T18:03:10.632Z - info: Website regeneration complete! Total build time: 2.291s
+2023-07-02T18:03:24.601Z - info: [2:03:24 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\lectures.md
+2023-07-02T18:03:24.602Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:03:24.602Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:03:24.602Z - info: 1. schedule/week2/topics
+2023-07-02T18:03:25.608Z - info: Rebuilding 1 pages
+2023-07-02T18:03:27.164Z - info: Site data built
+2023-07-02T18:03:27.165Z - info: Pages rebuilt
+2023-07-02T18:03:27.165Z - info: Website regeneration complete! Total build time: 1.559s
+2023-07-02T18:04:07.376Z - info: [2:04:07 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\lectures.md
+2023-07-02T18:04:07.377Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:04:07.377Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:04:07.377Z - info: 1. schedule/week2/topics
+2023-07-02T18:04:08.388Z - info: Rebuilding 1 pages
+2023-07-02T18:04:09.893Z - info: Site data built
+2023-07-02T18:04:09.893Z - info: Pages rebuilt
+2023-07-02T18:04:09.893Z - info: Website regeneration complete! Total build time: 1.506s
+2023-07-02T18:10:43.159Z - info: [2:10:43 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-02T18:10:43.159Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:10:43.159Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:10:43.159Z - info: 1. schedule/week2/topics
+2023-07-02T18:10:44.174Z - info: No pages needed to be rebuilt
+2023-07-02T18:11:58.512Z - info: [2:11:58 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:11:58.512Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:11:58.513Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:11:58.513Z - info: 1. schedule/week2/topics
+2023-07-02T18:11:59.530Z - info: No pages needed to be rebuilt
+2023-07-02T18:12:09.449Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\git-trail\index as some of its dependencies were changed since the last visit
+2023-07-02T18:12:11.157Z - info: Site data built
+2023-07-02T18:12:11.158Z - info: Lazy website regeneration complete! Total build time: 1.71s
+2023-07-02T18:14:30.950Z - info: [2:14:30 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:14:30.950Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:14:30.950Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:14:30.951Z - info: 1. git-trail/index
+2023-07-02T18:14:31.954Z - info: Rebuilding 1 pages
+2023-07-02T18:14:32.991Z - info: Site data built
+2023-07-02T18:14:32.991Z - info: Pages rebuilt
+2023-07-02T18:14:32.991Z - info: Website regeneration complete! Total build time: 1.038s
+2023-07-02T18:19:31.486Z - info: [2:19:31 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:19:31.487Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:19:31.487Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:19:31.487Z - info: 1. git-trail/index
+2023-07-02T18:19:32.496Z - info: Rebuilding 1 pages
+2023-07-02T18:19:33.752Z - info: Site data built
+2023-07-02T18:19:33.752Z - info: Pages rebuilt
+2023-07-02T18:19:33.752Z - info: Website regeneration complete! Total build time: 1.257s
+2023-07-02T18:23:27.547Z - info: [2:23:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:23:27.547Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:23:27.547Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:23:27.547Z - info: 1. git-trail/index
+2023-07-02T18:23:28.556Z - info: Rebuilding 1 pages
+2023-07-02T18:23:29.548Z - info: Site data built
+2023-07-02T18:23:29.548Z - info: Pages rebuilt
+2023-07-02T18:23:29.548Z - info: Website regeneration complete! Total build time: 0.993s
+2023-07-02T18:24:09.419Z - info: [2:24:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:24:09.420Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:24:09.420Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:24:09.420Z - info: 1. git-trail/index
+2023-07-02T18:24:10.432Z - info: Rebuilding 1 pages
+2023-07-02T18:24:11.650Z - info: Site data built
+2023-07-02T18:24:11.650Z - info: Pages rebuilt
+2023-07-02T18:24:11.650Z - info: Website regeneration complete! Total build time: 1.219s
+2023-07-02T18:27:47.717Z - info: [2:27:47 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:27:47.718Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:27:47.718Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:27:47.718Z - info: 1. git-trail/index
+2023-07-02T18:27:48.734Z - info: Rebuilding 1 pages
+2023-07-02T18:27:49.762Z - info: Site data built
+2023-07-02T18:27:49.762Z - info: Pages rebuilt
+2023-07-02T18:27:49.763Z - info: Website regeneration complete! Total build time: 1.029s
+2023-07-02T18:28:08.975Z - info: [2:28:08 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:28:08.975Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:28:08.975Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:28:08.975Z - info: 1. git-trail/index
+2023-07-02T18:28:09.986Z - info: Rebuilding 1 pages
+2023-07-02T18:28:11.254Z - info: Site data built
+2023-07-02T18:28:11.254Z - info: Pages rebuilt
+2023-07-02T18:28:11.254Z - info: Website regeneration complete! Total build time: 1.27s
+2023-07-02T18:28:24.253Z - info: [2:28:24 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:28:24.253Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:28:24.253Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:28:24.253Z - info: 1. git-trail/index
+2023-07-02T18:28:25.271Z - info: Rebuilding 1 pages
+2023-07-02T18:28:26.260Z - info: Site data built
+2023-07-02T18:28:26.260Z - info: Pages rebuilt
+2023-07-02T18:28:26.260Z - info: Website regeneration complete! Total build time: 0.991s
+2023-07-02T18:29:41.039Z - info: [2:29:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:29:41.040Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:29:41.040Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:29:41.040Z - info: 1. git-trail/index
+2023-07-02T18:29:42.051Z - info: Rebuilding 1 pages
+2023-07-02T18:29:43.271Z - info: Site data built
+2023-07-02T18:29:43.271Z - info: Pages rebuilt
+2023-07-02T18:29:43.271Z - info: Website regeneration complete! Total build time: 1.22s
+2023-07-02T18:30:43.951Z - info: [2:30:43 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:30:43.951Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:30:43.951Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:30:43.951Z - info: 1. git-trail/index
+2023-07-02T18:30:44.970Z - info: Rebuilding 1 pages
+2023-07-02T18:30:46.019Z - info: Site data built
+2023-07-02T18:30:46.019Z - info: Pages rebuilt
+2023-07-02T18:30:46.020Z - info: Website regeneration complete! Total build time: 1.052s
+2023-07-02T18:31:32.923Z - info: [2:31:32 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:31:32.924Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:31:32.924Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:31:32.924Z - info: 1. git-trail/index
+2023-07-02T18:31:33.934Z - info: Rebuilding 1 pages
+2023-07-02T18:31:35.146Z - info: Site data built
+2023-07-02T18:31:35.147Z - info: Pages rebuilt
+2023-07-02T18:31:35.147Z - info: Website regeneration complete! Total build time: 1.214s
+2023-07-02T18:31:51.001Z - info: [2:31:51 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:31:51.001Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:31:51.001Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:31:51.001Z - info: 1. git-trail/index
+2023-07-02T18:31:52.016Z - info: Rebuilding 1 pages
+2023-07-02T18:31:53.028Z - info: Site data built
+2023-07-02T18:31:53.028Z - info: Pages rebuilt
+2023-07-02T18:31:53.028Z - info: Website regeneration complete! Total build time: 1.013s
+2023-07-02T18:32:06.294Z - info: [2:32:06 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:32:06.295Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:32:06.295Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:32:06.295Z - info: 1. git-trail/index
+2023-07-02T18:32:07.313Z - info: Rebuilding 1 pages
+2023-07-02T18:32:08.285Z - info: Site data built
+2023-07-02T18:32:08.285Z - info: Pages rebuilt
+2023-07-02T18:32:08.286Z - info: Website regeneration complete! Total build time: 0.976s
+2023-07-02T18:32:21.276Z - info: [2:32:21 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:32:21.276Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:32:21.276Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:32:21.276Z - info: 1. git-trail/index
+2023-07-02T18:32:22.295Z - info: Rebuilding 1 pages
+2023-07-02T18:32:23.548Z - info: Site data built
+2023-07-02T18:32:23.548Z - info: Pages rebuilt
+2023-07-02T18:32:23.548Z - info: Website regeneration complete! Total build time: 1.255s
+2023-07-02T18:33:49.622Z - info: [2:33:49 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:33:49.622Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:33:49.622Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:33:49.622Z - info: 1. git-trail/index
+2023-07-02T18:33:50.630Z - info: Rebuilding 1 pages
+2023-07-02T18:33:51.691Z - info: Site data built
+2023-07-02T18:33:51.692Z - info: Pages rebuilt
+2023-07-02T18:33:51.692Z - info: Website regeneration complete! Total build time: 1.063s
+2023-07-02T18:34:33.683Z - info: [2:34:33 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:34:33.684Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:34:33.684Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:34:33.684Z - info: 1. git-trail/index
+2023-07-02T18:34:34.700Z - info: Rebuilding 1 pages
+2023-07-02T18:34:35.950Z - info: Site data built
+2023-07-02T18:34:35.951Z - info: Pages rebuilt
+2023-07-02T18:34:35.951Z - info: Website regeneration complete! Total build time: 1.252s
+2023-07-02T18:34:54.695Z - info: [2:34:54 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:34:54.695Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:34:54.695Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:34:54.695Z - info: 1. git-trail/index
+2023-07-02T18:34:55.704Z - info: Rebuilding 1 pages
+2023-07-02T18:34:56.708Z - info: Site data built
+2023-07-02T18:34:56.708Z - info: Pages rebuilt
+2023-07-02T18:34:56.708Z - info: Website regeneration complete! Total build time: 1.006s
+2023-07-02T18:36:27.423Z - info: [2:36:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:36:27.423Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:36:27.423Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:36:27.423Z - info: 1. git-trail/index
+2023-07-02T18:36:28.436Z - info: Rebuilding 1 pages
+2023-07-02T18:36:29.704Z - info: Site data built
+2023-07-02T18:36:29.704Z - info: Pages rebuilt
+2023-07-02T18:36:29.704Z - info: Website regeneration complete! Total build time: 1.27s
+2023-07-02T18:37:23.215Z - info: [2:37:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2023-07-02T18:37:23.215Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:37:23.215Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:37:23.215Z - info: 1. git-trail/index
+2023-07-02T18:37:23.234Z - info: [2:37:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:37:23.235Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:37:23.235Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:37:23.235Z - info: 1. git-trail/index
+2023-07-02T18:37:24.223Z - info: Rebuilding 1 pages
+2023-07-02T18:37:25.266Z - info: Site data built
+2023-07-02T18:37:25.267Z - info: Pages rebuilt
+2023-07-02T18:37:25.267Z - info: Website regeneration complete! Total build time: 1.045s
+2023-07-02T18:39:07.987Z - info: [2:39:07 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-02T18:39:07.987Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:39:07.987Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:39:07.987Z - info: 1. git-trail/index
+2023-07-02T18:39:08.994Z - info: Rebuilding 1 pages
+2023-07-02T18:39:10.225Z - info: Site data built
+2023-07-02T18:39:10.225Z - info: Pages rebuilt
+2023-07-02T18:39:10.225Z - info: Website regeneration complete! Total build time: 1.232s
+2023-07-02T18:41:56.470Z - info: [2:41:56 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\fork\text.md
+2023-07-02T18:41:56.471Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:41:56.471Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:41:56.471Z - info: 1. git-trail/index
+2023-07-02T18:41:57.477Z - info: Rebuilding 1 pages
+2023-07-02T18:41:58.548Z - info: Site data built
+2023-07-02T18:41:58.548Z - info: Pages rebuilt
+2023-07-02T18:41:58.548Z - info: Website regeneration complete! Total build time: 1.073s
+2023-07-02T18:43:25.893Z - info: [2:43:25 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\fork\text.md
+2023-07-02T18:43:25.893Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:43:25.894Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:43:25.894Z - info: 1. git-trail/index
+2023-07-02T18:43:26.907Z - info: Rebuilding 1 pages
+2023-07-02T18:43:28.195Z - info: Site data built
+2023-07-02T18:43:28.196Z - info: Pages rebuilt
+2023-07-02T18:43:28.196Z - info: Website regeneration complete! Total build time: 1.289s
+2023-07-02T18:45:05.028Z - info: [2:45:05 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-02T18:45:05.029Z - info: Synchronizing opened pages list before reload
+2023-07-02T18:45:05.029Z - info: Current opened pages, from most-to-least recent:
+2023-07-02T18:45:05.029Z - info: 1. git-trail/index
+2023-07-02T18:45:06.040Z - info: Rebuilding 1 pages
+2023-07-02T18:45:07.076Z - info: Site data built
+2023-07-02T18:45:07.076Z - info: Pages rebuilt
+2023-07-02T18:45:07.076Z - info: Website regeneration complete! Total build time: 1.039s
+2023-07-03T09:30:28.334Z - info: Website generation (lazy) started at 5:30:26 pm
+2023-07-03T09:30:38.042Z - info: Building assets...
+2023-07-03T09:30:47.535Z - info: Assets built
+2023-07-03T09:30:47.537Z - info: Generating landing page...
+2023-07-03T09:30:48.894Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-07-03T09:30:50.480Z - info: Site data built
+2023-07-03T09:30:50.480Z - info: Website generation (lazy) complete! Total build time: 23.632s
+2023-07-03T09:30:51.742Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-07-03T09:30:51.742Z - info: Press CTRL+C to stop ...
+2023-07-03T09:31:48.501Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w6 as some of its dependencies were changed since the last visit
+2023-07-03T09:31:57.737Z - info: Site data built
+2023-07-03T09:31:57.739Z - info: Lazy website regeneration complete! Total build time: 9.244s
+2023-07-03T09:32:49.830Z - info: [5:32:49 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-07-03T09:32:49.832Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:32:49.834Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:32:49.835Z - info: 1. admin/tp-w6
+2023-07-03T09:32:50.854Z - info: Rebuilding 1 pages
+2023-07-03T09:33:05.073Z - info: Site data built
+2023-07-03T09:33:05.076Z - info: Pages rebuilt
+2023-07-03T09:33:05.078Z - info: Website regeneration complete! Total build time: 14.229s
+2023-07-03T09:34:18.087Z - info: [5:34:18 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-07-03T09:34:18.090Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:34:18.091Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:34:18.092Z - info: 1. admin/tp-w6
+2023-07-03T09:34:19.131Z - info: Rebuilding 1 pages
+2023-07-03T09:34:30.412Z - info: Site data built
+2023-07-03T09:34:30.413Z - info: Pages rebuilt
+2023-07-03T09:34:30.414Z - info: Website regeneration complete! Total build time: 11.287s
+2023-07-03T09:34:53.454Z - info: [5:34:53 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-07-03T09:34:53.455Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:34:53.455Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:34:53.456Z - info: 1. admin/tp-w6
+2023-07-03T09:34:54.487Z - info: Rebuilding 1 pages
+2023-07-03T09:35:01.593Z - info: Site data built
+2023-07-03T09:35:01.596Z - info: Pages rebuilt
+2023-07-03T09:35:01.596Z - info: Website regeneration complete! Total build time: 7.112s
+2023-07-03T09:36:41.542Z - info: [5:36:41 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-07-03T09:36:41.544Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:36:41.546Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:36:41.547Z - info: 1. admin/tp-w6
+2023-07-03T09:36:42.582Z - info: Rebuilding 1 pages
+2023-07-03T09:36:52.907Z - info: Site data built
+2023-07-03T09:36:52.907Z - info: Pages rebuilt
+2023-07-03T09:36:52.908Z - info: Website regeneration complete! Total build time: 10.33s
+2023-07-03T09:37:10.405Z - info: [5:37:10 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-07-03T09:37:10.406Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:37:10.407Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:37:10.407Z - info: 1. admin/tp-w6
+2023-07-03T09:37:11.426Z - info: Rebuilding 1 pages
+2023-07-03T09:37:20.778Z - info: Site data built
+2023-07-03T09:37:20.779Z - info: Pages rebuilt
+2023-07-03T09:37:20.779Z - info: Website regeneration complete! Total build time: 9.357s
+2023-07-03T09:37:53.195Z - info: [5:37:53 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-07-03T09:37:53.195Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:37:53.195Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:37:53.196Z - info: 1. admin/tp-w6
+2023-07-03T09:37:54.208Z - info: Rebuilding 1 pages
+2023-07-03T09:38:00.730Z - info: Site data built
+2023-07-03T09:38:00.730Z - info: Pages rebuilt
+2023-07-03T09:38:00.730Z - info: Website regeneration complete! Total build time: 6.523s
+2023-07-03T09:41:23.693Z - info: [5:41:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md
+2023-07-03T09:41:23.693Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:41:23.694Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:41:23.694Z - info: 1. admin/tp-w6
+2023-07-03T09:41:24.868Z - info: Rebuilding 1 pages
+2023-07-03T09:41:26.039Z - info: Site data built
+2023-07-03T09:41:26.039Z - info: Pages rebuilt
+2023-07-03T09:41:26.040Z - info: Website regeneration complete! Total build time: 1.173s
+2023-07-03T09:41:35.487Z - info: [5:41:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md
+2023-07-03T09:41:35.487Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:41:35.487Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:41:35.487Z - info: 1. admin/tp-w6
+2023-07-03T09:41:36.606Z - info: Rebuilding 1 pages
+2023-07-03T09:41:37.623Z - info: Site data built
+2023-07-03T09:41:37.624Z - info: Pages rebuilt
+2023-07-03T09:41:37.624Z - info: Website regeneration complete! Total build time: 1.019s
+2023-07-03T09:42:35.052Z - info: [5:42:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md
+2023-07-03T09:42:35.052Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:42:35.053Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:42:35.053Z - info: 1. admin/tp-w6
+2023-07-03T09:42:36.224Z - info: Rebuilding 1 pages
+2023-07-03T09:42:37.401Z - info: Site data built
+2023-07-03T09:42:37.401Z - info: Pages rebuilt
+2023-07-03T09:42:37.402Z - info: Website regeneration complete! Total build time: 1.178s
+2023-07-03T09:43:14.473Z - info: [5:43:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md
+2023-07-03T09:43:14.474Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:43:14.474Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:43:14.474Z - info: 1. admin/tp-w6
+2023-07-03T09:43:15.686Z - info: Rebuilding 1 pages
+2023-07-03T09:43:16.949Z - info: Site data built
+2023-07-03T09:43:16.949Z - info: Pages rebuilt
+2023-07-03T09:43:16.949Z - info: Website regeneration complete! Total build time: 1.263s
+2023-07-03T09:43:31.285Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\git-trail\index as some of its dependencies were changed since the last visit
+2023-07-03T09:43:32.799Z - info: Site data built
+2023-07-03T09:43:32.799Z - info: Lazy website regeneration complete! Total build time: 1.514s
+2023-07-03T09:44:13.998Z - info: [5:44:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-03T09:44:13.998Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:44:13.998Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:44:13.999Z - info: 1. git-trail/index
+2023-07-03T09:44:15.004Z - info: Rebuilding 1 pages
+2023-07-03T09:44:15.811Z - info: Site data built
+2023-07-03T09:44:15.811Z - info: Pages rebuilt
+2023-07-03T09:44:15.811Z - info: Website regeneration complete! Total build time: 0.808s
+2023-07-03T09:44:59.743Z - info: [5:44:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-03T09:44:59.743Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:44:59.744Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:44:59.744Z - info: 1. git-trail/index
+2023-07-03T09:45:00.750Z - info: Rebuilding 1 pages
+2023-07-03T09:45:01.751Z - info: Site data built
+2023-07-03T09:45:01.751Z - info: Pages rebuilt
+2023-07-03T09:45:01.751Z - info: Website regeneration complete! Total build time: 1.005s
+2023-07-03T09:45:28.627Z - info: [5:45:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-03T09:45:28.627Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:45:28.627Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:45:28.628Z - info: 1. git-trail/index
+2023-07-03T09:45:29.636Z - info: Rebuilding 1 pages
+2023-07-03T09:45:30.437Z - info: Site data built
+2023-07-03T09:45:30.437Z - info: Pages rebuilt
+2023-07-03T09:45:30.437Z - info: Website regeneration complete! Total build time: 0.803s
+2023-07-03T09:46:32.856Z - info: [5:46:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-03T09:46:32.856Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:46:32.856Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:46:32.857Z - info: 1. git-trail/index
+2023-07-03T09:46:33.866Z - info: Rebuilding 1 pages
+2023-07-03T09:46:34.848Z - info: Site data built
+2023-07-03T09:46:34.848Z - info: Pages rebuilt
+2023-07-03T09:46:34.848Z - info: Website regeneration complete! Total build time: 0.983s
+2023-07-03T09:46:50.725Z - info: [5:46:50 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-03T09:46:50.725Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:46:50.725Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:46:50.725Z - info: 1. git-trail/index
+2023-07-03T09:46:51.738Z - info: Rebuilding 1 pages
+2023-07-03T09:46:52.523Z - info: Site data built
+2023-07-03T09:46:52.523Z - info: Pages rebuilt
+2023-07-03T09:46:52.523Z - info: Website regeneration complete! Total build time: 0.785s
+2023-07-03T09:47:13.252Z - info: [5:47:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-03T09:47:13.252Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:47:13.253Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:47:13.253Z - info: 1. git-trail/index
+2023-07-03T09:47:14.257Z - info: Rebuilding 1 pages
+2023-07-03T09:47:15.295Z - info: Site data built
+2023-07-03T09:47:15.296Z - info: Pages rebuilt
+2023-07-03T09:47:15.296Z - info: Website regeneration complete! Total build time: 1.041s
+2023-07-03T09:47:25.394Z - info: [5:47:25 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-03T09:47:25.395Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:47:25.395Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:47:25.395Z - info: 1. git-trail/index
+2023-07-03T09:47:26.403Z - info: Rebuilding 1 pages
+2023-07-03T09:47:27.151Z - info: Site data built
+2023-07-03T09:47:27.151Z - info: Pages rebuilt
+2023-07-03T09:47:27.151Z - info: Website regeneration complete! Total build time: 0.749s
+2023-07-03T09:48:53.808Z - info: [5:48:53 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-03T09:48:53.808Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:48:53.808Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:48:53.808Z - info: 1. git-trail/index
+2023-07-03T09:48:54.814Z - info: Rebuilding 1 pages
+2023-07-03T09:48:55.900Z - info: Site data built
+2023-07-03T09:48:55.900Z - info: Pages rebuilt
+2023-07-03T09:48:55.900Z - info: Website regeneration complete! Total build time: 1.087s
+2023-07-03T09:50:25.441Z - info: [5:50:25 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-03T09:50:25.441Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:50:25.442Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:50:25.442Z - info: 1. git-trail/index
+2023-07-03T09:50:26.448Z - info: Rebuilding 1 pages
+2023-07-03T09:50:27.583Z - info: Site data built
+2023-07-03T09:50:27.583Z - info: Pages rebuilt
+2023-07-03T09:50:27.583Z - info: Website regeneration complete! Total build time: 1.136s
+2023-07-03T09:52:02.788Z - info: [5:52:02 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-03T09:52:02.788Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:52:02.788Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:52:02.789Z - info: 1. git-trail/index
+2023-07-03T09:52:03.797Z - info: Rebuilding 1 pages
+2023-07-03T09:52:04.580Z - info: Site data built
+2023-07-03T09:52:04.580Z - info: Pages rebuilt
+2023-07-03T09:52:04.580Z - info: Website regeneration complete! Total build time: 0.785s
+2023-07-03T09:52:45.724Z - info: [5:52:45 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-03T09:52:45.725Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:52:45.725Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:52:45.725Z - info: 1. git-trail/index
+2023-07-03T09:52:46.739Z - info: Rebuilding 1 pages
+2023-07-03T09:52:47.752Z - info: Site data built
+2023-07-03T09:52:47.752Z - info: Pages rebuilt
+2023-07-03T09:52:47.752Z - info: Website regeneration complete! Total build time: 1.017s
+2023-07-03T09:52:52.729Z - info: [5:52:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-03T09:52:52.729Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:52:52.729Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:52:52.729Z - info: 1. git-trail/index
+2023-07-03T09:52:53.738Z - info: Rebuilding 1 pages
+2023-07-03T09:52:54.473Z - info: Site data built
+2023-07-03T09:52:54.473Z - info: Pages rebuilt
+2023-07-03T09:52:54.473Z - info: Website regeneration complete! Total build time: 0.737s
+2023-07-03T09:53:20.858Z - info: [5:53:20 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-03T09:53:20.859Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:53:20.859Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:53:20.860Z - info: 1. git-trail/index
+2023-07-03T09:53:21.875Z - info: Rebuilding 1 pages
+2023-07-03T09:53:22.911Z - info: Site data built
+2023-07-03T09:53:22.911Z - info: Pages rebuilt
+2023-07-03T09:53:22.911Z - info: Website regeneration complete! Total build time: 1.038s
+2023-07-03T09:54:03.775Z - info: [5:54:03 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-03T09:54:03.775Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:54:03.775Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:54:03.775Z - info: 1. git-trail/index
+2023-07-03T09:54:04.784Z - info: Rebuilding 1 pages
+2023-07-03T09:54:05.786Z - info: Site data built
+2023-07-03T09:54:05.787Z - info: Pages rebuilt
+2023-07-03T09:54:05.787Z - info: Website regeneration complete! Total build time: 1.005s
+2023-07-03T09:54:13.276Z - info: [5:54:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-03T09:54:13.276Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:54:13.276Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:54:13.277Z - info: 1. git-trail/index
+2023-07-03T09:54:14.281Z - info: Rebuilding 1 pages
+2023-07-03T09:54:14.879Z - info: Site data built
+2023-07-03T09:54:14.880Z - info: Pages rebuilt
+2023-07-03T09:54:14.880Z - info: Website regeneration complete! Total build time: 0.6s
+2023-07-03T09:56:26.399Z - info: [5:56:26 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\lectures.md
+2023-07-03T09:56:26.400Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:56:26.400Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:56:26.400Z - info: 1. git-trail/index
+2023-07-03T09:56:27.418Z - info: Rebuilding 1 pages
+2023-07-03T09:56:28.418Z - info: Site data built
+2023-07-03T09:56:28.418Z - info: Pages rebuilt
+2023-07-03T09:56:28.419Z - info: Website regeneration complete! Total build time: 1.003s
+2023-07-03T09:58:01.330Z - info: [5:58:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\ignore\cli.md
+2023-07-03T09:58:01.331Z - info: Synchronizing opened pages list before reload
+2023-07-03T09:58:01.332Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T09:58:01.332Z - info: 1. git-trail/index
+2023-07-03T09:58:02.339Z - info: Rebuilding 1 pages
+2023-07-03T09:58:03.262Z - info: Site data built
+2023-07-03T09:58:03.263Z - info: Pages rebuilt
+2023-07-03T09:58:03.263Z - info: Website regeneration complete! Total build time: 0.925s
+2023-07-03T10:00:00.036Z - info: [6:00:00 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\tag\cli.md
+2023-07-03T10:00:00.038Z - info: Synchronizing opened pages list before reload
+2023-07-03T10:00:00.039Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T10:00:00.039Z - info: 1. git-trail/index
+2023-07-03T10:00:01.057Z - info: Rebuilding 1 pages
+2023-07-03T10:00:02.211Z - info: Site data built
+2023-07-03T10:00:02.211Z - info: Pages rebuilt
+2023-07-03T10:00:02.211Z - info: Website regeneration complete! Total build time: 1.155s
+2023-07-03T10:00:26.246Z - info: [6:00:26 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\diff\cli_1.md
+2023-07-03T10:00:26.246Z - info: Synchronizing opened pages list before reload
+2023-07-03T10:00:26.247Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T10:00:26.247Z - info: 1. git-trail/index
+2023-07-03T10:00:27.266Z - info: Rebuilding 1 pages
+2023-07-03T10:00:28.270Z - info: Site data built
+2023-07-03T10:00:28.270Z - info: Pages rebuilt
+2023-07-03T10:00:28.270Z - info: Website regeneration complete! Total build time: 1.005s
+2023-07-03T10:00:58.687Z - info: [6:00:58 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\pull\cli_1.md
+2023-07-03T10:00:58.688Z - info: Synchronizing opened pages list before reload
+2023-07-03T10:00:58.688Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T10:00:58.689Z - info: 1. git-trail/index
+2023-07-03T10:00:59.704Z - info: Rebuilding 1 pages
+2023-07-03T10:01:00.703Z - info: Site data built
+2023-07-03T10:01:00.704Z - info: Pages rebuilt
+2023-07-03T10:01:00.704Z - info: Website regeneration complete! Total build time: 1.004s
+2023-07-03T10:02:40.380Z - info: [6:02:40 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-tasks-fragment.md
+2023-07-03T10:02:40.380Z - info: Synchronizing opened pages list before reload
+2023-07-03T10:02:40.381Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T10:02:40.381Z - info: 1. git-trail/index
+2023-07-03T10:02:40.398Z - info: [6:02:40 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\README.md
+2023-07-03T10:02:40.398Z - info: Synchronizing opened pages list before reload
+2023-07-03T10:02:40.398Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T10:02:40.399Z - info: 1. git-trail/index
+2023-07-03T10:02:40.418Z - info: [6:02:40 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\pull\cli_2.md
+2023-07-03T10:02:40.418Z - info: Synchronizing opened pages list before reload
+2023-07-03T10:02:40.418Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T10:02:40.418Z - info: 1. git-trail/index
+2023-07-03T10:02:41.390Z - info: Rebuilding 1 pages
+2023-07-03T10:02:42.252Z - info: Assets built
+2023-07-03T10:02:42.378Z - info: Site data built
+2023-07-03T10:02:42.378Z - info: Pages rebuilt
+2023-07-03T10:02:42.379Z - info: Website regeneration complete! Total build time: 0.989s
+2023-07-03T10:03:22.236Z - info: [6:03:22 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\push\cli_2.md
+2023-07-03T10:03:22.236Z - info: Synchronizing opened pages list before reload
+2023-07-03T10:03:22.237Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T10:03:22.237Z - info: 1. git-trail/index
+2023-07-03T10:03:23.246Z - info: Rebuilding 1 pages
+2023-07-03T10:03:24.253Z - info: Site data built
+2023-07-03T10:03:24.253Z - info: Pages rebuilt
+2023-07-03T10:03:24.254Z - info: Website regeneration complete! Total build time: 1.01s
+2023-07-03T10:04:02.015Z - info: [6:04:02 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\push\cli_1.md
+2023-07-03T10:04:02.016Z - info: Synchronizing opened pages list before reload
+2023-07-03T10:04:02.016Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T10:04:02.016Z - info: 1. git-trail/index
+2023-07-03T10:04:03.035Z - info: Rebuilding 1 pages
+2023-07-03T10:04:04.070Z - info: Site data built
+2023-07-03T10:04:04.070Z - info: Pages rebuilt
+2023-07-03T10:04:04.070Z - info: Website regeneration complete! Total build time: 1.036s
+2023-07-03T10:05:04.298Z - info: [6:05:04 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\push\cli_1.md
+2023-07-03T10:05:04.299Z - info: Synchronizing opened pages list before reload
+2023-07-03T10:05:04.299Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T10:05:04.299Z - info: 1. git-trail/index
+2023-07-03T10:05:05.320Z - info: Rebuilding 1 pages
+2023-07-03T10:05:06.676Z - info: Site data built
+2023-07-03T10:05:06.676Z - info: Pages rebuilt
+2023-07-03T10:05:06.676Z - info: Website regeneration complete! Total build time: 1.359s
+2023-07-03T10:13:40.609Z - info: [6:13:40 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\cli_4b.md
+2023-07-03T10:13:40.610Z - info: Synchronizing opened pages list before reload
+2023-07-03T10:13:40.611Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T10:13:40.611Z - info: 1. git-trail/index
+2023-07-03T10:13:41.629Z - info: Rebuilding 1 pages
+2023-07-03T10:13:42.770Z - info: Site data built
+2023-07-03T10:13:42.770Z - info: Pages rebuilt
+2023-07-03T10:13:42.770Z - info: Website regeneration complete! Total build time: 1.145s
+2023-07-03T10:13:51.978Z - info: [6:13:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\cli_4b.md
+2023-07-03T10:13:51.979Z - info: Synchronizing opened pages list before reload
+2023-07-03T10:13:51.979Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T10:13:51.979Z - info: 1. git-trail/index
+2023-07-03T10:13:52.993Z - info: Rebuilding 1 pages
+2023-07-03T10:13:53.766Z - info: Site data built
+2023-07-03T10:13:53.767Z - info: Pages rebuilt
+2023-07-03T10:13:53.767Z - info: Website regeneration complete! Total build time: 0.774s
+2023-07-03T10:14:18.483Z - info: [6:14:18 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\cli_4b.md
+2023-07-03T10:14:18.483Z - info: Synchronizing opened pages list before reload
+2023-07-03T10:14:18.484Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T10:14:18.484Z - info: 1. git-trail/index
+2023-07-03T10:14:19.489Z - info: Rebuilding 1 pages
+2023-07-03T10:14:20.469Z - info: Site data built
+2023-07-03T10:14:20.469Z - info: Pages rebuilt
+2023-07-03T10:14:20.469Z - info: Website regeneration complete! Total build time: 0.981s
+2023-07-03T10:15:48.408Z - info: [6:15:48 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\git-trail\index.md
+2023-07-03T10:15:48.409Z - info: Synchronizing opened pages list before reload
+2023-07-03T10:15:48.409Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T10:15:48.410Z - info: 1. git-trail/index
+2023-07-03T10:15:49.427Z - info: Rebuilding 1 pages
+2023-07-03T10:15:50.453Z - info: Site data built
+2023-07-03T10:15:50.453Z - info: Pages rebuilt
+2023-07-03T10:15:50.453Z - info: Website regeneration complete! Total build time: 1.028s
+2023-07-03T15:25:53.359Z - info: Website generation (lazy) started at 11:25:50 pm
+2023-07-03T15:26:03.479Z - info: Building assets...
+2023-07-03T15:26:12.009Z - info: Assets built
+2023-07-03T15:26:12.010Z - info: Generating landing page...
+2023-07-03T15:26:12.779Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-07-03T15:26:13.961Z - info: Site data built
+2023-07-03T15:26:13.961Z - info: Website generation (lazy) complete! Total build time: 22.973s
+2023-07-03T15:26:14.782Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-07-03T15:26:14.782Z - info: Press CTRL+C to stop ...
+2023-07-03T15:28:01.132Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\git-trail\index as some of its dependencies were changed since the last visit
+2023-07-03T15:28:03.707Z - info: Site data built
+2023-07-03T15:28:03.708Z - info: Lazy website regeneration complete! Total build time: 2.577s
+2023-07-03T15:32:18.801Z - info: [11:32:18 pm] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\remoteBranches\cli_1.md
+2023-07-03T15:32:18.801Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:32:18.802Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:32:18.802Z - info: 1. git-trail/index
+2023-07-03T15:32:23.167Z - info: [11:32:23 pm] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\remoteBranches\cli.md
+2023-07-03T15:32:23.167Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:32:23.167Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:32:23.167Z - info: 1. git-trail/index
+2023-07-03T15:32:26.788Z - info: Assets built
+2023-07-03T15:32:27.270Z - info: [11:32:27 pm] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\remoteBranches\sourcetree_1.md
+2023-07-03T15:32:27.270Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:32:27.270Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:32:27.270Z - info: 1. git-trail/index
+2023-07-03T15:32:31.149Z - info: [11:32:31 pm] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\remoteBranches\sourcetree.md
+2023-07-03T15:32:31.149Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:32:31.149Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:32:31.149Z - info: 1. git-trail/index
+2023-07-03T15:32:34.861Z - info: Assets built
+2023-07-03T15:32:34.861Z - debug: Assets removed
+2023-07-03T15:32:35.875Z - debug: Assets removed
+2023-07-03T15:33:56.940Z - info: [11:33:56 pm] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\remoteBranches\images\pushBranchToFork.png
+2023-07-03T15:33:56.940Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:33:56.940Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:33:56.940Z - info: 1. git-trail/index
+2023-07-03T15:34:01.225Z - info: [11:34:01 pm] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\images\pushBranchToFork.png
+2023-07-03T15:34:01.225Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:34:01.225Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:34:01.225Z - info: 1. git-trail/index
+2023-07-03T15:34:05.050Z - info: Assets built
+2023-07-03T15:34:06.040Z - debug: Assets removed
+2023-07-03T15:34:17.065Z - info: [11:34:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\remoteBranches\text.md
+2023-07-03T15:34:17.066Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:34:17.066Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:34:17.066Z - info: 1. git-trail/index
+2023-07-03T15:34:17.084Z - info: [11:34:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\createPRs\text.md
+2023-07-03T15:34:17.084Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:34:17.084Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:34:17.084Z - info: 1. git-trail/index
+2023-07-03T15:34:17.101Z - info: [11:34:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\sourcetree_4b.md
+2023-07-03T15:34:17.101Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:34:17.101Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:34:17.102Z - info: 1. git-trail/index
+2023-07-03T15:34:17.115Z - info: [11:34:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\remoteBranches\cli_1.md
+2023-07-03T15:34:17.115Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:34:17.116Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:34:17.116Z - info: 1. git-trail/index
+2023-07-03T15:34:17.127Z - info: [11:34:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\remoteBranches\sourcetree_1.md
+2023-07-03T15:34:17.127Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:34:17.128Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:34:17.128Z - info: 1. git-trail/index
+2023-07-03T15:34:17.144Z - info: [11:34:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\text.md
+2023-07-03T15:34:17.145Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:34:17.145Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:34:17.145Z - info: 1. git-trail/index
+2023-07-03T15:34:17.165Z - info: [11:34:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\cli_4b.md
+2023-07-03T15:34:17.165Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:34:17.166Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:34:17.166Z - info: 1. git-trail/index
+2023-07-03T15:34:18.079Z - info: Rebuilding 1 pages
+2023-07-03T15:34:19.140Z - info: Assets built
+2023-07-03T15:34:19.276Z - info: Site data built
+2023-07-03T15:34:19.277Z - info: Pages rebuilt
+2023-07-03T15:34:19.277Z - info: Website regeneration complete! Total build time: 1.199s
+2023-07-03T15:48:14.364Z - info: [11:48:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\remoteBranches\text.md
+2023-07-03T15:48:14.365Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:48:14.365Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:48:14.365Z - info: 1. git-trail/index
+2023-07-03T15:48:15.376Z - info: Rebuilding 1 pages
+2023-07-03T15:48:16.667Z - info: Site data built
+2023-07-03T15:48:16.668Z - info: Pages rebuilt
+2023-07-03T15:48:16.668Z - info: Website regeneration complete! Total build time: 1.293s
+2023-07-03T15:49:02.407Z - info: [11:49:02 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\remoteBranches\text.md
+2023-07-03T15:49:02.407Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:49:02.407Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:49:02.407Z - info: 1. git-trail/index
+2023-07-03T15:49:03.429Z - info: Rebuilding 1 pages
+2023-07-03T15:49:04.528Z - info: Site data built
+2023-07-03T15:49:04.529Z - info: Pages rebuilt
+2023-07-03T15:49:04.529Z - info: Website regeneration complete! Total build time: 1.102s
+2023-07-03T15:49:46.936Z - info: [11:49:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\remoteBranches\text.md
+2023-07-03T15:49:46.937Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:49:46.937Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:49:46.937Z - info: 1. git-trail/index
+2023-07-03T15:49:47.943Z - info: Rebuilding 1 pages
+2023-07-03T15:49:49.240Z - info: Site data built
+2023-07-03T15:49:49.241Z - info: Pages rebuilt
+2023-07-03T15:49:49.241Z - info: Website regeneration complete! Total build time: 1.299s
+2023-07-03T15:51:11.281Z - info: [11:51:11 pm] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\cli_4b.md
+2023-07-03T15:51:11.282Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:51:11.282Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:51:11.283Z - info: 1. git-trail/index
+2023-07-03T15:51:11.284Z - info: [11:51:11 pm] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\sourcetree_4b.md
+2023-07-03T15:51:11.284Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:51:11.285Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:51:11.285Z - info: 1. git-trail/index
+2023-07-03T15:51:18.802Z - debug: Assets removed
+2023-07-03T15:52:41.019Z - info: [11:52:41 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\remoteBranches\text.md
+2023-07-03T15:52:41.019Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:52:41.019Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:52:41.019Z - info: 1. git-trail/index
+2023-07-03T15:52:42.031Z - info: Rebuilding 1 pages
+2023-07-03T15:52:42.844Z - info: Site data built
+2023-07-03T15:52:42.845Z - info: Pages rebuilt
+2023-07-03T15:52:42.845Z - info: Website regeneration complete! Total build time: 0.814s
+2023-07-03T15:59:41.947Z - info: [11:59:41 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\remoteBranches\text.md
+2023-07-03T15:59:41.948Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:59:41.948Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:59:41.948Z - info: 1. git-trail/index
+2023-07-03T15:59:41.963Z - info: [11:59:41 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\remoteBranches\sourcetree_1.md
+2023-07-03T15:59:41.963Z - info: Synchronizing opened pages list before reload
+2023-07-03T15:59:41.963Z - info: Current opened pages, from most-to-least recent:
+2023-07-03T15:59:41.963Z - info: 1. git-trail/index
+2023-07-03T15:59:42.966Z - info: Rebuilding 1 pages
+2023-07-03T15:59:44.030Z - info: Site data built
+2023-07-03T15:59:44.031Z - info: Pages rebuilt
+2023-07-03T15:59:44.031Z - info: Website regeneration complete! Total build time: 1.066s
