@@ -1,0 +1,935 @@
+2023-07-09T17:19:59.549Z - info: Website generation (lazy) started at 1:19:57 am
+2023-07-09T17:20:10.698Z - info: Building assets...
+2023-07-09T17:20:17.616Z - info: Assets built
+2023-07-09T17:20:17.617Z - info: Generating landing page...
+2023-07-09T17:20:18.378Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-07-09T17:20:19.727Z - info: Site data built
+2023-07-09T17:20:19.727Z - info: Website generation (lazy) complete! Total build time: 22.391s
+2023-07-09T17:20:20.683Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-07-09T17:20:20.683Z - info: Press CTRL+C to stop ...
+2023-07-09T17:20:30.146Z - info: [1:20:30 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\introduction\how\text.md
+2023-07-09T17:20:30.146Z - info: Synchronizing opened pages list before reload
+2023-07-09T17:20:30.147Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T17:20:30.147Z - info: 1. index
+2023-07-09T17:20:33.094Z - info: Assets built
+2023-07-09T17:20:37.221Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\index as some of its dependencies were changed since the last visit
+2023-07-09T17:20:39.106Z - info: Site data built
+2023-07-09T17:20:39.106Z - info: Lazy website regeneration complete! Total build time: 1.885s
+2023-07-09T17:21:27.794Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\admin as some of its dependencies were changed since the last visit
+2023-07-09T17:21:28.484Z - info: Site data built
+2023-07-09T17:21:28.485Z - info: Lazy website regeneration complete! Total build time: 0.691s
+2023-07-09T17:22:37.245Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\topics as some of its dependencies were changed since the last visit
+2023-07-09T17:22:51.309Z - debug:  
+2023-07-09T17:22:51.310Z - debug:  
+2023-07-09T17:22:51.329Z - debug:  
+2023-07-09T17:22:51.334Z - debug:  
+2023-07-09T17:22:51.335Z - debug:  
+2023-07-09T17:22:51.336Z - debug:  
+2023-07-09T17:22:51.337Z - debug:  
+2023-07-09T17:22:51.435Z - debug:  
+2023-07-09T17:22:52.506Z - debug:  
+2023-07-09T17:22:52.511Z - debug:  
+2023-07-09T17:22:52.521Z - debug:  
+2023-07-09T17:22:52.793Z - info: Site data built
+2023-07-09T17:22:52.796Z - info: Lazy website regeneration complete! Total build time: 15.55s
+2023-07-09T17:29:33.014Z - info: [1:29:33 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\introduction\umlModels\text.md
+2023-07-09T17:29:33.015Z - info: Synchronizing opened pages list before reload
+2023-07-09T17:29:33.015Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T17:29:33.016Z - info: 1. schedule/week4/topics
+2023-07-09T17:29:34.030Z - info: Rebuilding 1 pages
+2023-07-09T17:29:40.948Z - info: Site data built
+2023-07-09T17:29:40.949Z - info: Pages rebuilt
+2023-07-09T17:29:40.949Z - info: Website regeneration complete! Total build time: 6.922s
+2023-07-09T17:29:41.944Z - debug:  
+2023-07-09T17:29:42.194Z - debug:  
+2023-07-09T17:29:42.428Z - debug:  
+2023-07-09T17:29:42.492Z - debug:  
+2023-07-09T17:29:42.598Z - debug:  
+2023-07-09T17:29:42.644Z - debug:  
+2023-07-09T17:29:42.663Z - debug:  
+2023-07-09T17:29:42.674Z - debug:  
+2023-07-09T17:29:42.814Z - debug:  
+2023-07-09T17:29:42.923Z - debug:  
+2023-07-09T17:29:43.038Z - debug:  
+2023-07-09T17:31:03.316Z - info: [1:31:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\commentary-cs2103-fragment.md
+2023-07-09T17:31:03.316Z - info: Synchronizing opened pages list before reload
+2023-07-09T17:31:03.317Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T17:31:03.317Z - info: 1. schedule/week4/topics
+2023-07-09T17:31:04.335Z - info: Rebuilding 1 pages
+2023-07-09T17:31:10.315Z - info: Site data built
+2023-07-09T17:31:10.315Z - info: Pages rebuilt
+2023-07-09T17:31:10.315Z - info: Website regeneration complete! Total build time: 5.981s
+2023-07-09T17:31:11.081Z - debug:  
+2023-07-09T17:31:11.241Z - debug:  
+2023-07-09T17:31:11.347Z - debug:  
+2023-07-09T17:31:11.684Z - debug:  
+2023-07-09T17:31:11.753Z - debug:  
+2023-07-09T17:31:11.782Z - debug:  
+2023-07-09T17:31:11.860Z - debug:  
+2023-07-09T17:31:11.890Z - debug:  
+2023-07-09T17:31:11.933Z - debug:  
+2023-07-09T17:31:12.055Z - debug:  
+2023-07-09T17:31:12.091Z - debug:  
+2023-07-09T17:31:50.425Z - info: [1:31:50 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\ooStructures\text.md
+2023-07-09T17:31:50.425Z - info: Synchronizing opened pages list before reload
+2023-07-09T17:31:50.425Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T17:31:50.425Z - info: 1. schedule/week4/topics
+2023-07-09T17:31:51.444Z - info: Rebuilding 1 pages
+2023-07-09T17:31:57.178Z - info: Site data built
+2023-07-09T17:31:57.178Z - info: Pages rebuilt
+2023-07-09T17:31:57.179Z - info: Website regeneration complete! Total build time: 5.736s
+2023-07-09T17:31:58.633Z - debug:  
+2023-07-09T17:31:58.664Z - debug:  
+2023-07-09T17:31:58.916Z - debug:  
+2023-07-09T17:31:59.152Z - debug:  
+2023-07-09T17:31:59.237Z - debug:  
+2023-07-09T17:31:59.258Z - debug:  
+2023-07-09T17:31:59.359Z - debug:  
+2023-07-09T17:31:59.375Z - debug:  
+2023-07-09T17:31:59.392Z - debug:  
+2023-07-09T17:31:59.475Z - debug:  
+2023-07-09T17:31:59.486Z - debug:  
+2023-07-09T17:33:19.359Z - info: [1:33:19 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\ooStructures\text.md
+2023-07-09T17:33:19.359Z - info: Synchronizing opened pages list before reload
+2023-07-09T17:33:19.359Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T17:33:19.360Z - info: 1. schedule/week4/topics
+2023-07-09T17:33:20.377Z - info: Rebuilding 1 pages
+2023-07-09T17:33:26.297Z - info: Site data built
+2023-07-09T17:33:26.298Z - info: Pages rebuilt
+2023-07-09T17:33:26.298Z - info: Website regeneration complete! Total build time: 5.923s
+2023-07-09T17:33:28.623Z - debug:  
+2023-07-09T17:33:29.074Z - debug:  
+2023-07-09T17:33:29.182Z - debug:  
+2023-07-09T17:33:29.299Z - debug:  
+2023-07-09T17:33:29.472Z - debug:  
+2023-07-09T17:33:29.604Z - debug:  
+2023-07-09T17:33:29.621Z - debug:  
+2023-07-09T17:33:29.630Z - debug:  
+2023-07-09T17:33:29.689Z - debug:  
+2023-07-09T17:33:29.702Z - debug:  
+2023-07-09T17:33:29.715Z - debug:  
+2023-07-09T17:34:59.392Z - info: [1:34:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\ooStructures\text.md
+2023-07-09T17:34:59.392Z - info: Synchronizing opened pages list before reload
+2023-07-09T17:34:59.392Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T17:34:59.392Z - info: 1. schedule/week4/topics
+2023-07-09T17:35:00.402Z - info: Rebuilding 1 pages
+2023-07-09T17:35:06.008Z - info: Site data built
+2023-07-09T17:35:06.008Z - info: Pages rebuilt
+2023-07-09T17:35:06.008Z - info: Website regeneration complete! Total build time: 5.608s
+2023-07-09T17:35:08.095Z - debug:  
+2023-07-09T17:35:08.292Z - debug:  
+2023-07-09T17:35:08.671Z - debug:  
+2023-07-09T17:35:08.722Z - debug:  
+2023-07-09T17:35:08.730Z - debug:  
+2023-07-09T17:35:08.760Z - debug:  
+2023-07-09T17:35:08.856Z - debug:  
+2023-07-09T17:35:08.966Z - debug:  
+2023-07-09T17:35:08.989Z - debug:  
+2023-07-09T17:35:09.039Z - debug:  
+2023-07-09T17:35:09.179Z - debug:  
+2023-07-09T17:51:47.042Z - info: [1:51:47 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\classes\what\text.md
+2023-07-09T17:51:47.043Z - info: Synchronizing opened pages list before reload
+2023-07-09T17:51:47.043Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T17:51:47.043Z - info: 1. schedule/week4/topics
+2023-07-09T17:51:48.048Z - info: Rebuilding 1 pages
+2023-07-09T17:51:53.595Z - info: Site data built
+2023-07-09T17:51:53.596Z - info: Pages rebuilt
+2023-07-09T17:51:53.596Z - info: Website regeneration complete! Total build time: 5.549s
+2023-07-09T17:51:57.039Z - debug:  
+2023-07-09T17:51:57.045Z - debug:  
+2023-07-09T17:51:57.245Z - debug:  
+2023-07-09T17:51:57.348Z - debug:  
+2023-07-09T17:51:57.462Z - debug:  
+2023-07-09T17:51:57.478Z - debug:  
+2023-07-09T17:51:57.500Z - debug:  
+2023-07-09T17:51:57.558Z - debug:  
+2023-07-09T17:51:57.581Z - debug:  
+2023-07-09T17:51:57.596Z - debug:  
+2023-07-09T17:51:58.036Z - debug:  
+2023-07-09T17:52:56.396Z - info: [1:52:56 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\classDiagramsBasic\text.md
+2023-07-09T17:52:56.396Z - info: Synchronizing opened pages list before reload
+2023-07-09T17:52:56.396Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T17:52:56.397Z - info: 1. schedule/week4/topics
+2023-07-09T17:52:57.412Z - info: Rebuilding 1 pages
+2023-07-09T17:53:01.920Z - info: Site data built
+2023-07-09T17:53:01.920Z - info: Pages rebuilt
+2023-07-09T17:53:01.921Z - info: Website regeneration complete! Total build time: 4.51s
+2023-07-09T17:53:05.898Z - debug:  
+2023-07-09T17:53:06.073Z - debug:  
+2023-07-09T17:53:06.332Z - debug:  
+2023-07-09T17:53:06.360Z - debug:  
+2023-07-09T17:53:06.366Z - debug:  
+2023-07-09T17:53:06.426Z - debug:  
+2023-07-09T17:53:06.533Z - debug:  
+2023-07-09T17:53:06.635Z - debug:  
+2023-07-09T17:53:06.653Z - debug:  
+2023-07-09T17:53:06.742Z - debug:  
+2023-07-09T17:53:06.851Z - debug:  
+2023-07-09T18:10:01.364Z - info: [2:10:01 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\what\text.md
+2023-07-09T18:10:01.364Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:10:01.364Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:10:01.365Z - info: 1. schedule/week4/topics
+2023-07-09T18:10:02.385Z - info: Rebuilding 1 pages
+2023-07-09T18:10:07.387Z - info: Site data built
+2023-07-09T18:10:07.387Z - info: Pages rebuilt
+2023-07-09T18:10:07.387Z - info: Website regeneration complete! Total build time: 5.005s
+2023-07-09T18:10:11.780Z - debug:  
+2023-07-09T18:10:11.856Z - debug:  
+2023-07-09T18:10:11.959Z - debug:  
+2023-07-09T18:10:12.075Z - debug:  
+2023-07-09T18:10:12.220Z - debug:  
+2023-07-09T18:10:12.238Z - debug:  
+2023-07-09T18:10:12.283Z - debug:  
+2023-07-09T18:10:12.508Z - debug:  
+2023-07-09T18:10:12.533Z - debug:  
+2023-07-09T18:10:12.554Z - debug:  
+2023-07-09T18:10:12.609Z - debug:  
+2023-07-09T18:16:25.492Z - info: [2:16:25 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\classDiagramsBasic\text.md
+2023-07-09T18:16:25.492Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:16:25.492Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:16:25.492Z - info: 1. schedule/week4/topics
+2023-07-09T18:16:26.506Z - info: Rebuilding 1 pages
+2023-07-09T18:16:30.457Z - info: Site data built
+2023-07-09T18:16:30.458Z - info: Pages rebuilt
+2023-07-09T18:16:30.458Z - info: Website regeneration complete! Total build time: 3.955s
+2023-07-09T18:16:34.108Z - debug:  
+2023-07-09T18:16:34.469Z - debug:  
+2023-07-09T18:16:34.625Z - debug:  
+2023-07-09T18:16:34.640Z - debug:  
+2023-07-09T18:16:34.653Z - debug:  
+2023-07-09T18:16:34.753Z - debug:  
+2023-07-09T18:16:34.764Z - debug:  
+2023-07-09T18:16:34.778Z - debug:  
+2023-07-09T18:16:34.796Z - debug:  
+2023-07-09T18:16:34.842Z - debug:  
+2023-07-09T18:16:34.867Z - debug:  
+2023-07-09T18:20:00.082Z - info: [2:20:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\navigability\text.md
+2023-07-09T18:20:00.083Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:20:00.083Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:20:00.083Z - info: 1. schedule/week4/topics
+2023-07-09T18:20:01.092Z - info: Rebuilding 1 pages
+2023-07-09T18:20:04.407Z - info: Site data built
+2023-07-09T18:20:04.408Z - info: Pages rebuilt
+2023-07-09T18:20:04.408Z - info: Website regeneration complete! Total build time: 3.317s
+2023-07-09T18:20:09.518Z - debug:  
+2023-07-09T18:20:09.739Z - debug:  
+2023-07-09T18:20:09.874Z - debug:  
+2023-07-09T18:20:09.959Z - debug:  
+2023-07-09T18:20:09.976Z - debug:  
+2023-07-09T18:20:10.073Z - debug:  
+2023-07-09T18:20:10.176Z - debug:  
+2023-07-09T18:20:10.196Z - debug:  
+2023-07-09T18:20:10.218Z - debug:  
+2023-07-09T18:20:10.233Z - debug:  
+2023-07-09T18:20:10.293Z - debug:  
+2023-07-09T18:23:32.058Z - info: [2:23:32 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:23:32.059Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:23:32.059Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:23:32.059Z - info: 1. schedule/week4/topics
+2023-07-09T18:23:33.066Z - info: Rebuilding 1 pages
+2023-07-09T18:23:36.704Z - info: Site data built
+2023-07-09T18:23:36.704Z - info: Pages rebuilt
+2023-07-09T18:23:36.704Z - info: Website regeneration complete! Total build time: 3.641s
+2023-07-09T18:23:40.276Z - debug:  
+2023-07-09T18:23:40.832Z - debug:  
+2023-07-09T18:23:40.843Z - debug:  
+2023-07-09T18:23:40.937Z - debug:  
+2023-07-09T18:23:41.036Z - debug:  
+2023-07-09T18:23:41.055Z - debug:  
+2023-07-09T18:23:41.129Z - debug:  
+2023-07-09T18:23:41.151Z - debug:  
+2023-07-09T18:23:41.170Z - debug:  
+2023-07-09T18:23:41.188Z - debug:  
+2023-07-09T18:23:41.243Z - debug:  
+2023-07-09T18:24:44.800Z - info: [2:24:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:24:44.801Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:24:44.801Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:24:44.801Z - info: 1. schedule/week4/topics
+2023-07-09T18:24:45.805Z - info: Rebuilding 1 pages
+2023-07-09T18:24:49.883Z - info: Site data built
+2023-07-09T18:24:49.883Z - info: Pages rebuilt
+2023-07-09T18:24:49.883Z - info: Website regeneration complete! Total build time: 4.079s
+2023-07-09T18:24:53.559Z - debug:  
+2023-07-09T18:24:53.762Z - debug:  
+2023-07-09T18:24:53.963Z - debug:  
+2023-07-09T18:24:53.980Z - debug:  
+2023-07-09T18:24:54.074Z - debug:  
+2023-07-09T18:24:54.164Z - debug:  
+2023-07-09T18:24:54.184Z - debug:  
+2023-07-09T18:24:54.272Z - debug:  
+2023-07-09T18:24:54.295Z - debug:  
+2023-07-09T18:24:54.377Z - debug:  
+2023-07-09T18:24:54.407Z - debug:  
+2023-07-09T18:25:05.726Z - info: [2:25:05 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:25:05.726Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:25:05.726Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:25:05.726Z - info: 1. schedule/week4/topics
+2023-07-09T18:25:06.737Z - info: Rebuilding 1 pages
+2023-07-09T18:25:10.099Z - info: Site data built
+2023-07-09T18:25:10.100Z - info: Pages rebuilt
+2023-07-09T18:25:10.100Z - info: Website regeneration complete! Total build time: 3.365s
+2023-07-09T18:25:14.854Z - debug:  
+2023-07-09T18:25:15.335Z - debug:  
+2023-07-09T18:25:15.717Z - debug:  
+2023-07-09T18:25:15.919Z - debug:  
+2023-07-09T18:25:15.947Z - debug:  
+2023-07-09T18:25:15.971Z - debug:  
+2023-07-09T18:25:15.988Z - debug:  
+2023-07-09T18:25:16.136Z - debug:  
+2023-07-09T18:25:16.155Z - debug:  
+2023-07-09T18:25:16.176Z - debug:  
+2023-07-09T18:25:16.194Z - debug:  
+2023-07-09T18:26:15.206Z - info: [2:26:15 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:26:15.206Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:26:15.206Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:26:15.207Z - info: 1. schedule/week4/topics
+2023-07-09T18:26:16.224Z - info: Rebuilding 1 pages
+2023-07-09T18:26:19.533Z - info: Site data built
+2023-07-09T18:26:19.533Z - info: Pages rebuilt
+2023-07-09T18:26:19.533Z - info: Website regeneration complete! Total build time: 3.311s
+2023-07-09T18:26:24.761Z - debug:  
+2023-07-09T18:26:24.861Z - debug:  
+2023-07-09T18:26:24.966Z - debug:  
+2023-07-09T18:26:25.629Z - debug:  
+2023-07-09T18:26:25.659Z - debug:  
+2023-07-09T18:26:25.704Z - debug:  
+2023-07-09T18:26:25.805Z - debug:  
+2023-07-09T18:26:25.822Z - debug:  
+2023-07-09T18:26:25.838Z - debug:  
+2023-07-09T18:26:25.857Z - debug:  
+2023-07-09T18:26:25.915Z - debug:  
+2023-07-09T18:27:41.660Z - info: [2:27:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:27:41.660Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:27:41.660Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:27:41.660Z - info: 1. schedule/week4/topics
+2023-07-09T18:27:42.684Z - info: Rebuilding 1 pages
+2023-07-09T18:27:46.563Z - info: Site data built
+2023-07-09T18:27:46.563Z - info: Pages rebuilt
+2023-07-09T18:27:46.563Z - info: Website regeneration complete! Total build time: 3.885s
+2023-07-09T18:27:51.079Z - debug:  
+2023-07-09T18:27:51.184Z - debug:  
+2023-07-09T18:27:51.376Z - debug:  
+2023-07-09T18:27:51.482Z - debug:  
+2023-07-09T18:27:51.498Z - debug:  
+2023-07-09T18:27:51.596Z - debug:  
+2023-07-09T18:27:51.614Z - debug:  
+2023-07-09T18:27:51.655Z - debug:  
+2023-07-09T18:27:51.680Z - debug:  
+2023-07-09T18:27:51.698Z - debug:  
+2023-07-09T18:27:51.714Z - debug:  
+2023-07-09T18:29:02.407Z - info: [2:29:02 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:29:02.408Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:29:02.408Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:29:02.408Z - info: 1. schedule/week4/topics
+2023-07-09T18:29:03.412Z - info: Rebuilding 1 pages
+2023-07-09T18:29:07.654Z - info: Site data built
+2023-07-09T18:29:07.654Z - info: Pages rebuilt
+2023-07-09T18:29:07.654Z - info: Website regeneration complete! Total build time: 4.244s
+2023-07-09T18:29:11.072Z - debug:  
+2023-07-09T18:29:11.300Z - debug:  
+2023-07-09T18:29:11.517Z - debug:  
+2023-07-09T18:29:11.541Z - debug:  
+2023-07-09T18:29:11.732Z - debug:  
+2023-07-09T18:29:11.931Z - debug:  
+2023-07-09T18:29:11.952Z - debug:  
+2023-07-09T18:29:11.971Z - debug:  
+2023-07-09T18:29:11.990Z - debug:  
+2023-07-09T18:29:12.006Z - debug:  
+2023-07-09T18:29:12.033Z - debug:  
+2023-07-09T18:29:49.385Z - info: [2:29:49 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:29:49.386Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:29:49.386Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:29:49.386Z - info: 1. schedule/week4/topics
+2023-07-09T18:29:50.401Z - info: Rebuilding 1 pages
+2023-07-09T18:29:54.105Z - info: Site data built
+2023-07-09T18:29:54.106Z - info: Pages rebuilt
+2023-07-09T18:29:54.106Z - info: Website regeneration complete! Total build time: 3.706s
+2023-07-09T18:29:58.827Z - debug:  
+2023-07-09T18:29:58.844Z - debug:  
+2023-07-09T18:29:58.932Z - debug:  
+2023-07-09T18:29:59.260Z - debug:  
+2023-07-09T18:29:59.362Z - debug:  
+2023-07-09T18:29:59.389Z - debug:  
+2023-07-09T18:29:59.404Z - debug:  
+2023-07-09T18:29:59.419Z - debug:  
+2023-07-09T18:29:59.435Z - debug:  
+2023-07-09T18:29:59.464Z - debug:  
+2023-07-09T18:29:59.477Z - debug:  
+2023-07-09T18:30:36.376Z - info: [2:30:36 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:30:36.376Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:30:36.377Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:30:36.377Z - info: 1. schedule/week4/topics
+2023-07-09T18:30:37.382Z - info: Rebuilding 1 pages
+2023-07-09T18:30:42.052Z - info: Site data built
+2023-07-09T18:30:42.052Z - info: Pages rebuilt
+2023-07-09T18:30:42.052Z - info: Website regeneration complete! Total build time: 4.671s
+2023-07-09T18:30:45.837Z - debug:  
+2023-07-09T18:30:46.263Z - debug:  
+2023-07-09T18:30:46.372Z - debug:  
+2023-07-09T18:30:46.394Z - debug:  
+2023-07-09T18:30:46.463Z - debug:  
+2023-07-09T18:30:46.583Z - debug:  
+2023-07-09T18:30:46.598Z - debug:  
+2023-07-09T18:30:46.614Z - debug:  
+2023-07-09T18:30:46.660Z - debug:  
+2023-07-09T18:30:46.690Z - debug:  
+2023-07-09T18:30:46.704Z - debug:  
+2023-07-09T18:31:25.757Z - info: [2:31:25 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:31:25.757Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:31:25.758Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:31:25.758Z - info: 1. schedule/week4/topics
+2023-07-09T18:31:26.763Z - info: Rebuilding 1 pages
+2023-07-09T18:31:32.586Z - info: Site data built
+2023-07-09T18:31:32.586Z - info: Pages rebuilt
+2023-07-09T18:31:32.586Z - info: Website regeneration complete! Total build time: 5.823s
+2023-07-09T18:31:34.851Z - debug:  
+2023-07-09T18:31:35.251Z - debug:  
+2023-07-09T18:31:35.616Z - debug:  
+2023-07-09T18:31:35.649Z - debug:  
+2023-07-09T18:31:35.677Z - debug:  
+2023-07-09T18:31:35.811Z - debug:  
+2023-07-09T18:31:35.898Z - debug:  
+2023-07-09T18:31:35.924Z - debug:  
+2023-07-09T18:31:36.000Z - debug:  
+2023-07-09T18:31:36.029Z - debug:  
+2023-07-09T18:31:36.138Z - debug:  
+2023-07-09T18:31:59.063Z - info: [2:31:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:31:59.064Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:31:59.064Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:31:59.064Z - info: 1. schedule/week4/topics
+2023-07-09T18:32:00.067Z - info: Rebuilding 1 pages
+2023-07-09T18:32:03.723Z - info: Site data built
+2023-07-09T18:32:03.724Z - info: Pages rebuilt
+2023-07-09T18:32:03.724Z - info: Website regeneration complete! Total build time: 3.659s
+2023-07-09T18:32:09.801Z - debug:  
+2023-07-09T18:32:09.841Z - debug:  
+2023-07-09T18:32:10.136Z - debug:  
+2023-07-09T18:32:10.237Z - debug:  
+2023-07-09T18:32:10.346Z - debug:  
+2023-07-09T18:32:10.379Z - debug:  
+2023-07-09T18:32:10.401Z - debug:  
+2023-07-09T18:32:10.424Z - debug:  
+2023-07-09T18:32:10.454Z - debug:  
+2023-07-09T18:32:10.557Z - debug:  
+2023-07-09T18:32:10.583Z - debug:  
+2023-07-09T18:32:31.529Z - info: [2:32:31 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:32:31.530Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:32:31.530Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:32:31.530Z - info: 1. schedule/week4/topics
+2023-07-09T18:32:32.539Z - info: Rebuilding 1 pages
+2023-07-09T18:32:36.943Z - info: Site data built
+2023-07-09T18:32:36.943Z - info: Pages rebuilt
+2023-07-09T18:32:36.944Z - info: Website regeneration complete! Total build time: 4.407s
+2023-07-09T18:32:43.316Z - debug:  
+2023-07-09T18:32:43.410Z - debug:  
+2023-07-09T18:32:43.749Z - debug:  
+2023-07-09T18:32:43.848Z - debug:  
+2023-07-09T18:32:43.889Z - debug:  
+2023-07-09T18:32:43.974Z - debug:  
+2023-07-09T18:32:44.056Z - debug:  
+2023-07-09T18:32:44.163Z - debug:  
+2023-07-09T18:32:44.179Z - debug:  
+2023-07-09T18:32:44.242Z - debug:  
+2023-07-09T18:32:44.374Z - debug:  
+2023-07-09T18:32:57.853Z - info: [2:32:57 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:32:57.854Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:32:57.854Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:32:57.854Z - info: 1. schedule/week4/topics
+2023-07-09T18:32:58.860Z - info: Rebuilding 1 pages
+2023-07-09T18:33:02.493Z - info: Site data built
+2023-07-09T18:33:02.493Z - info: Pages rebuilt
+2023-07-09T18:33:02.493Z - info: Website regeneration complete! Total build time: 3.634s
+2023-07-09T18:33:09.021Z - debug:  
+2023-07-09T18:33:09.235Z - debug:  
+2023-07-09T18:33:09.434Z - debug:  
+2023-07-09T18:33:09.466Z - debug:  
+2023-07-09T18:33:09.492Z - debug:  
+2023-07-09T18:33:09.541Z - debug:  
+2023-07-09T18:33:09.563Z - debug:  
+2023-07-09T18:33:09.601Z - debug:  
+2023-07-09T18:33:09.651Z - debug:  
+2023-07-09T18:33:09.668Z - debug:  
+2023-07-09T18:33:09.873Z - debug:  
+2023-07-09T18:33:25.328Z - info: [2:33:25 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:33:25.328Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:33:25.328Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:33:25.328Z - info: 1. schedule/week4/topics
+2023-07-09T18:33:26.335Z - info: Rebuilding 1 pages
+2023-07-09T18:33:30.442Z - info: Site data built
+2023-07-09T18:33:30.443Z - info: Pages rebuilt
+2023-07-09T18:33:30.443Z - info: Website regeneration complete! Total build time: 4.11s
+2023-07-09T18:33:36.721Z - debug:  
+2023-07-09T18:33:36.805Z - debug:  
+2023-07-09T18:33:36.857Z - debug:  
+2023-07-09T18:33:36.887Z - debug:  
+2023-07-09T18:33:36.956Z - debug:  
+2023-07-09T18:33:37.049Z - debug:  
+2023-07-09T18:33:37.100Z - debug:  
+2023-07-09T18:33:37.127Z - debug:  
+2023-07-09T18:33:37.153Z - debug:  
+2023-07-09T18:33:37.226Z - debug:  
+2023-07-09T18:33:37.270Z - debug:  
+2023-07-09T18:34:00.826Z - info: [2:34:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:34:00.826Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:34:00.826Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:34:00.826Z - info: 1. schedule/week4/topics
+2023-07-09T18:34:01.841Z - info: Rebuilding 1 pages
+2023-07-09T18:34:05.751Z - info: Site data built
+2023-07-09T18:34:05.751Z - info: Pages rebuilt
+2023-07-09T18:34:05.751Z - info: Website regeneration complete! Total build time: 3.913s
+2023-07-09T18:34:12.400Z - debug:  
+2023-07-09T18:34:12.528Z - debug:  
+2023-07-09T18:34:12.870Z - debug:  
+2023-07-09T18:34:12.970Z - debug:  
+2023-07-09T18:34:13.052Z - debug:  
+2023-07-09T18:34:13.151Z - debug:  
+2023-07-09T18:34:13.184Z - debug:  
+2023-07-09T18:34:13.361Z - debug:  
+2023-07-09T18:34:13.511Z - debug:  
+2023-07-09T18:34:13.535Z - debug:  
+2023-07-09T18:34:13.570Z - debug:  
+2023-07-09T18:34:58.514Z - info: [2:34:58 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:34:58.515Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:34:58.515Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:34:58.515Z - info: 1. schedule/week4/topics
+2023-07-09T18:34:59.524Z - info: Rebuilding 1 pages
+2023-07-09T18:35:04.416Z - info: Site data built
+2023-07-09T18:35:04.416Z - info: Pages rebuilt
+2023-07-09T18:35:04.416Z - info: Website regeneration complete! Total build time: 4.895s
+2023-07-09T18:35:10.546Z - debug:  
+2023-07-09T18:35:10.870Z - debug:  
+2023-07-09T18:35:11.014Z - debug:  
+2023-07-09T18:35:11.164Z - debug:  
+2023-07-09T18:35:11.274Z - debug:  
+2023-07-09T18:35:11.305Z - debug:  
+2023-07-09T18:35:11.330Z - debug:  
+2023-07-09T18:35:11.358Z - debug:  
+2023-07-09T18:35:11.384Z - debug:  
+2023-07-09T18:35:11.412Z - debug:  
+2023-07-09T18:35:11.437Z - debug:  
+2023-07-09T18:35:51.116Z - info: [2:35:51 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:35:51.116Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:35:51.117Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:35:51.117Z - info: 1. schedule/week4/topics
+2023-07-09T18:35:52.133Z - info: Rebuilding 1 pages
+2023-07-09T18:35:57.216Z - info: Site data built
+2023-07-09T18:35:57.219Z - info: Pages rebuilt
+2023-07-09T18:35:57.219Z - info: Website regeneration complete! Total build time: 5.087s
+2023-07-09T18:36:02.619Z - debug:  
+2023-07-09T18:36:02.711Z - debug:  
+2023-07-09T18:36:02.821Z - debug:  
+2023-07-09T18:36:02.928Z - debug:  
+2023-07-09T18:36:03.247Z - debug:  
+2023-07-09T18:36:03.283Z - debug:  
+2023-07-09T18:36:03.442Z - debug:  
+2023-07-09T18:36:03.558Z - debug:  
+2023-07-09T18:36:03.637Z - debug:  
+2023-07-09T18:36:03.662Z - debug:  
+2023-07-09T18:36:03.759Z - debug:  
+2023-07-09T18:36:28.271Z - info: [2:36:28 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:36:28.271Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:36:28.272Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:36:28.272Z - info: 1. schedule/week4/topics
+2023-07-09T18:36:29.276Z - info: Rebuilding 1 pages
+2023-07-09T18:36:33.103Z - info: Site data built
+2023-07-09T18:36:33.104Z - info: Pages rebuilt
+2023-07-09T18:36:33.104Z - info: Website regeneration complete! Total build time: 3.83s
+2023-07-09T18:36:39.587Z - debug:  
+2023-07-09T18:36:39.983Z - debug:  
+2023-07-09T18:36:40.101Z - debug:  
+2023-07-09T18:36:40.141Z - debug:  
+2023-07-09T18:36:40.323Z - debug:  
+2023-07-09T18:36:40.410Z - debug:  
+2023-07-09T18:36:40.526Z - debug:  
+2023-07-09T18:36:40.556Z - debug:  
+2023-07-09T18:36:40.741Z - debug:  
+2023-07-09T18:36:40.769Z - debug:  
+2023-07-09T18:36:40.943Z - debug:  
+2023-07-09T18:37:32.994Z - info: [2:37:32 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:37:32.994Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:37:32.994Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:37:32.994Z - info: 1. schedule/week4/topics
+2023-07-09T18:37:34.008Z - info: Rebuilding 1 pages
+2023-07-09T18:37:38.763Z - info: Site data built
+2023-07-09T18:37:38.764Z - info: Pages rebuilt
+2023-07-09T18:37:38.764Z - info: Website regeneration complete! Total build time: 4.758s
+2023-07-09T18:37:44.201Z - debug:  
+2023-07-09T18:37:44.514Z - debug:  
+2023-07-09T18:37:44.824Z - debug:  
+2023-07-09T18:37:44.853Z - debug:  
+2023-07-09T18:37:44.932Z - debug:  
+2023-07-09T18:37:44.963Z - debug:  
+2023-07-09T18:37:44.991Z - debug:  
+2023-07-09T18:37:45.126Z - debug:  
+2023-07-09T18:37:45.145Z - debug:  
+2023-07-09T18:37:45.276Z - debug:  
+2023-07-09T18:37:45.290Z - debug:  
+2023-07-09T18:38:08.528Z - info: [2:38:08 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:38:08.528Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:38:08.528Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:38:08.528Z - info: 1. schedule/week4/topics
+2023-07-09T18:38:09.540Z - info: Rebuilding 1 pages
+2023-07-09T18:38:13.795Z - info: Site data built
+2023-07-09T18:38:13.795Z - info: Pages rebuilt
+2023-07-09T18:38:13.796Z - info: Website regeneration complete! Total build time: 4.257s
+2023-07-09T18:38:19.886Z - debug:  
+2023-07-09T18:38:19.914Z - debug:  
+2023-07-09T18:38:20.012Z - debug:  
+2023-07-09T18:38:20.236Z - debug:  
+2023-07-09T18:38:20.442Z - debug:  
+2023-07-09T18:38:20.473Z - debug:  
+2023-07-09T18:38:20.500Z - debug:  
+2023-07-09T18:38:20.551Z - debug:  
+2023-07-09T18:38:20.683Z - debug:  
+2023-07-09T18:38:20.767Z - debug:  
+2023-07-09T18:38:20.789Z - debug:  
+2023-07-09T18:39:04.845Z - info: [2:39:04 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:39:04.846Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:39:04.846Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:39:04.846Z - info: 1. schedule/week4/topics
+2023-07-09T18:39:05.855Z - info: Rebuilding 1 pages
+2023-07-09T18:39:10.366Z - info: Site data built
+2023-07-09T18:39:10.366Z - info: Pages rebuilt
+2023-07-09T18:39:10.367Z - info: Website regeneration complete! Total build time: 4.513s
+2023-07-09T18:39:16.344Z - debug:  
+2023-07-09T18:39:16.573Z - debug:  
+2023-07-09T18:39:16.816Z - debug:  
+2023-07-09T18:39:17.089Z - debug:  
+2023-07-09T18:39:17.119Z - debug:  
+2023-07-09T18:39:17.150Z - debug:  
+2023-07-09T18:39:17.172Z - debug:  
+2023-07-09T18:39:17.196Z - debug:  
+2023-07-09T18:39:17.217Z - debug:  
+2023-07-09T18:39:17.322Z - debug:  
+2023-07-09T18:39:17.441Z - debug:  
+2023-07-09T18:39:44.128Z - info: [2:39:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:39:44.128Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:39:44.128Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:39:44.128Z - info: 1. schedule/week4/topics
+2023-07-09T18:39:45.145Z - info: Rebuilding 1 pages
+2023-07-09T18:39:49.607Z - info: Site data built
+2023-07-09T18:39:49.607Z - info: Pages rebuilt
+2023-07-09T18:39:49.608Z - info: Website regeneration complete! Total build time: 4.463s
+2023-07-09T18:39:56.078Z - debug:  
+2023-07-09T18:39:56.187Z - debug:  
+2023-07-09T18:39:56.216Z - debug:  
+2023-07-09T18:39:56.252Z - debug:  
+2023-07-09T18:39:56.301Z - debug:  
+2023-07-09T18:39:56.336Z - debug:  
+2023-07-09T18:39:56.386Z - debug:  
+2023-07-09T18:39:56.498Z - debug:  
+2023-07-09T18:39:56.521Z - debug:  
+2023-07-09T18:39:56.677Z - debug:  
+2023-07-09T18:39:56.699Z - debug:  
+2023-07-09T18:40:08.465Z - info: [2:40:08 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:40:08.466Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:40:08.466Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:40:08.466Z - info: 1. schedule/week4/topics
+2023-07-09T18:40:09.482Z - info: Rebuilding 1 pages
+2023-07-09T18:40:12.694Z - info: Site data built
+2023-07-09T18:40:12.695Z - info: Pages rebuilt
+2023-07-09T18:40:12.695Z - info: Website regeneration complete! Total build time: 3.215s
+2023-07-09T18:40:19.732Z - debug:  
+2023-07-09T18:40:19.790Z - debug:  
+2023-07-09T18:40:19.811Z - debug:  
+2023-07-09T18:40:20.115Z - debug:  
+2023-07-09T18:40:20.147Z - debug:  
+2023-07-09T18:40:20.207Z - debug:  
+2023-07-09T18:40:20.237Z - debug:  
+2023-07-09T18:40:20.331Z - debug:  
+2023-07-09T18:40:20.351Z - debug:  
+2023-07-09T18:40:20.500Z - debug:  
+2023-07-09T18:40:20.540Z - debug:  
+2023-07-09T18:40:27.306Z - info: [2:40:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:40:27.306Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:40:27.306Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:40:27.306Z - info: 1. schedule/week4/topics
+2023-07-09T18:40:28.324Z - info: Rebuilding 1 pages
+2023-07-09T18:40:31.733Z - info: Site data built
+2023-07-09T18:40:31.733Z - info: Pages rebuilt
+2023-07-09T18:40:31.733Z - info: Website regeneration complete! Total build time: 3.41s
+2023-07-09T18:40:38.661Z - debug:  
+2023-07-09T18:40:38.716Z - debug:  
+2023-07-09T18:40:38.961Z - debug:  
+2023-07-09T18:40:38.998Z - debug:  
+2023-07-09T18:40:39.041Z - debug:  
+2023-07-09T18:40:39.150Z - debug:  
+2023-07-09T18:40:39.193Z - debug:  
+2023-07-09T18:40:39.407Z - debug:  
+2023-07-09T18:40:39.497Z - debug:  
+2023-07-09T18:40:39.626Z - debug:  
+2023-07-09T18:40:39.817Z - debug:  
+2023-07-09T18:40:55.579Z - info: [2:40:55 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:40:55.579Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:40:55.579Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:40:55.579Z - info: 1. schedule/week4/topics
+2023-07-09T18:40:56.588Z - info: Rebuilding 1 pages
+2023-07-09T18:41:00.364Z - info: Site data built
+2023-07-09T18:41:00.365Z - info: Pages rebuilt
+2023-07-09T18:41:00.368Z - info: Website regeneration complete! Total build time: 3.779s
+2023-07-09T18:41:07.178Z - debug:  
+2023-07-09T18:41:07.271Z - debug:  
+2023-07-09T18:41:07.496Z - debug:  
+2023-07-09T18:41:07.800Z - debug:  
+2023-07-09T18:41:07.834Z - debug:  
+2023-07-09T18:41:07.970Z - debug:  
+2023-07-09T18:41:08.005Z - debug:  
+2023-07-09T18:41:08.266Z - debug:  
+2023-07-09T18:41:08.367Z - debug:  
+2023-07-09T18:41:08.465Z - debug:  
+2023-07-09T18:41:08.504Z - debug:  
+2023-07-09T18:41:25.484Z - info: [2:41:25 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:41:25.485Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:41:25.485Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:41:25.485Z - info: 1. schedule/week4/topics
+2023-07-09T18:41:26.490Z - info: Rebuilding 1 pages
+2023-07-09T18:41:29.835Z - info: Site data built
+2023-07-09T18:41:29.835Z - info: Pages rebuilt
+2023-07-09T18:41:29.835Z - info: Website regeneration complete! Total build time: 3.347s
+2023-07-09T18:41:37.589Z - debug:  
+2023-07-09T18:41:37.675Z - debug:  
+2023-07-09T18:41:37.687Z - debug:  
+2023-07-09T18:41:37.942Z - debug:  
+2023-07-09T18:41:37.968Z - debug:  
+2023-07-09T18:41:38.186Z - debug:  
+2023-07-09T18:41:38.212Z - debug:  
+2023-07-09T18:41:38.237Z - debug:  
+2023-07-09T18:41:38.299Z - debug:  
+2023-07-09T18:41:38.324Z - debug:  
+2023-07-09T18:41:38.375Z - debug:  
+2023-07-09T18:42:56.614Z - info: [2:42:56 am] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\py1.md
+2023-07-09T18:42:56.614Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:42:56.614Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:42:56.614Z - info: 1. schedule/week4/topics
+2023-07-09T18:43:03.039Z - info: Assets built
+2023-07-09T18:43:23.497Z - info: [2:43:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\py1.md
+2023-07-09T18:43:23.498Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:43:23.498Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:43:23.498Z - info: 1. schedule/week4/topics
+2023-07-09T18:43:23.519Z - info: [2:43:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:43:23.520Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:43:23.520Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:43:23.520Z - info: 1. schedule/week4/topics
+2023-07-09T18:43:24.506Z - info: Assets built
+2023-07-09T18:43:24.539Z - info: Rebuilding 1 pages
+2023-07-09T18:43:26.218Z - error:  Error: No such file: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\py.md
+Missing reference in C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+    at _getFileExistsNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:34:19)
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:188:26)
+    at NodeProcessor.processNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:176:28)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:323:24)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+2023-07-09T18:43:29.133Z - info: Site data built
+2023-07-09T18:43:29.133Z - info: Pages rebuilt
+2023-07-09T18:43:29.133Z - info: Website regeneration complete! Total build time: 4.598s
+2023-07-09T18:43:34.916Z - debug:  
+2023-07-09T18:43:35.375Z - debug:  
+2023-07-09T18:43:35.476Z - debug:  
+2023-07-09T18:43:35.511Z - debug:  
+2023-07-09T18:43:35.779Z - debug:  
+2023-07-09T18:43:35.811Z - debug:  
+2023-07-09T18:43:35.872Z - debug:  
+2023-07-09T18:43:35.897Z - debug:  
+2023-07-09T18:43:35.927Z - debug:  
+2023-07-09T18:43:35.948Z - debug:  
+2023-07-09T18:43:35.991Z - debug:  
+2023-07-09T18:48:14.234Z - info: [2:48:14 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:48:14.235Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:48:14.235Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:48:14.235Z - info: 1. schedule/week4/topics
+2023-07-09T18:48:15.242Z - info: Rebuilding 1 pages
+2023-07-09T18:48:19.128Z - info: Site data built
+2023-07-09T18:48:19.129Z - info: Pages rebuilt
+2023-07-09T18:48:19.129Z - info: Website regeneration complete! Total build time: 3.888s
+2023-07-09T18:48:24.765Z - debug:  
+2023-07-09T18:48:24.861Z - debug:  
+2023-07-09T18:48:24.918Z - debug:  
+2023-07-09T18:48:25.082Z - debug:  
+2023-07-09T18:48:25.171Z - debug:  
+2023-07-09T18:48:25.189Z - debug:  
+2023-07-09T18:48:25.211Z - debug:  
+2023-07-09T18:48:25.278Z - debug:  
+2023-07-09T18:48:25.293Z - debug:  
+2023-07-09T18:48:25.357Z - debug:  
+2023-07-09T18:48:25.374Z - debug:  
+2023-07-09T18:49:01.818Z - info: [2:49:01 am] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\py1.md
+2023-07-09T18:49:01.819Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:49:01.819Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:49:01.819Z - info: 1. schedule/week4/topics
+2023-07-09T18:49:07.190Z - info: Pages or site config modified, updating pages...
+2023-07-09T18:49:12.387Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\topics as some of its dependencies were changed since the last visit
+2023-07-09T18:49:13.912Z - error:  Error: No such file: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\py1.md
+Missing reference in C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+    at _getFileExistsNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:34:19)
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:188:26)
+    at NodeProcessor.processNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:176:28)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:323:24)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+2023-07-09T18:49:16.966Z - info: Site data built
+2023-07-09T18:49:16.966Z - info: Lazy website regeneration complete! Total build time: 4.58s
+2023-07-09T18:49:20.396Z - debug:  
+2023-07-09T18:49:20.614Z - debug:  
+2023-07-09T18:49:20.648Z - debug:  
+2023-07-09T18:49:20.713Z - debug:  
+2023-07-09T18:49:20.936Z - debug:  
+2023-07-09T18:49:21.035Z - debug:  
+2023-07-09T18:49:21.127Z - debug:  
+2023-07-09T18:49:21.155Z - debug:  
+2023-07-09T18:49:21.193Z - debug:  
+2023-07-09T18:49:21.210Z - debug:  
+2023-07-09T18:49:21.345Z - debug:  
+2023-07-09T18:49:26.836Z - info: [2:49:26 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:49:26.836Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:49:26.836Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:49:26.836Z - info: 1. schedule/week4/topics
+2023-07-09T18:49:27.851Z - info: Rebuilding 1 pages
+2023-07-09T18:49:30.944Z - info: Site data built
+2023-07-09T18:49:30.944Z - info: Pages rebuilt
+2023-07-09T18:49:30.944Z - info: Website regeneration complete! Total build time: 3.094s
+2023-07-09T18:49:36.069Z - debug:  
+2023-07-09T18:49:36.266Z - debug:  
+2023-07-09T18:49:36.280Z - debug:  
+2023-07-09T18:49:36.375Z - debug:  
+2023-07-09T18:49:36.477Z - debug:  
+2023-07-09T18:49:36.479Z - debug:  
+2023-07-09T18:49:36.488Z - debug:  
+2023-07-09T18:49:36.579Z - debug:  
+2023-07-09T18:49:36.591Z - debug:  
+2023-07-09T18:49:36.609Z - debug:  
+2023-07-09T18:49:36.624Z - debug:  
+2023-07-09T18:50:29.184Z - info: [2:50:29 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:50:29.185Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:50:29.185Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:50:29.185Z - info: 1. schedule/week4/topics
+2023-07-09T18:50:30.199Z - info: Rebuilding 1 pages
+2023-07-09T18:50:35.173Z - info: Site data built
+2023-07-09T18:50:35.174Z - info: Pages rebuilt
+2023-07-09T18:50:35.174Z - info: Website regeneration complete! Total build time: 4.976s
+2023-07-09T18:50:36.868Z - debug:  
+2023-07-09T18:50:36.897Z - debug:  
+2023-07-09T18:50:37.110Z - debug:  
+2023-07-09T18:50:37.194Z - debug:  
+2023-07-09T18:50:37.224Z - debug:  
+2023-07-09T18:50:37.237Z - debug:  
+2023-07-09T18:50:37.306Z - debug:  
+2023-07-09T18:50:37.418Z - debug:  
+2023-07-09T18:50:37.515Z - debug:  
+2023-07-09T18:50:37.649Z - debug:  
+2023-07-09T18:50:37.650Z - debug:  
+2023-07-09T18:51:19.847Z - info: [2:51:19 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:51:19.847Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:51:19.847Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:51:19.848Z - info: 1. schedule/week4/topics
+2023-07-09T18:51:20.865Z - info: Rebuilding 1 pages
+2023-07-09T18:51:26.590Z - info: Site data built
+2023-07-09T18:51:26.590Z - info: Pages rebuilt
+2023-07-09T18:51:26.590Z - info: Website regeneration complete! Total build time: 5.726s
+2023-07-09T18:51:28.035Z - debug:  
+2023-07-09T18:51:28.049Z - debug:  
+2023-07-09T18:51:28.143Z - debug:  
+2023-07-09T18:51:28.144Z - debug:  
+2023-07-09T18:51:28.250Z - debug:  
+2023-07-09T18:51:28.354Z - debug:  
+2023-07-09T18:51:28.454Z - debug:  
+2023-07-09T18:51:28.474Z - debug:  
+2023-07-09T18:51:28.564Z - debug:  
+2023-07-09T18:51:28.769Z - debug:  
+2023-07-09T18:51:28.888Z - debug:  
+2023-07-09T18:51:52.973Z - info: [2:51:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:51:52.973Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:51:52.973Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:51:52.973Z - info: 1. schedule/week4/topics
+2023-07-09T18:51:53.979Z - info: Rebuilding 1 pages
+2023-07-09T18:51:59.764Z - info: Site data built
+2023-07-09T18:51:59.764Z - info: Pages rebuilt
+2023-07-09T18:51:59.765Z - info: Website regeneration complete! Total build time: 5.787s
+2023-07-09T18:52:01.530Z - debug:  
+2023-07-09T18:52:01.650Z - debug:  
+2023-07-09T18:52:01.657Z - debug:  
+2023-07-09T18:52:01.761Z - debug:  
+2023-07-09T18:52:01.973Z - debug:  
+2023-07-09T18:52:02.082Z - debug:  
+2023-07-09T18:52:02.311Z - debug:  
+2023-07-09T18:52:02.318Z - debug:  
+2023-07-09T18:52:02.399Z - debug:  
+2023-07-09T18:52:02.512Z - debug:  
+2023-07-09T18:52:02.530Z - debug:  
+2023-07-09T18:53:07.775Z - info: [2:53:07 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:53:07.775Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:53:07.775Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:53:07.775Z - info: 1. schedule/week4/topics
+2023-07-09T18:53:08.783Z - info: Rebuilding 1 pages
+2023-07-09T18:53:15.132Z - info: Site data built
+2023-07-09T18:53:15.133Z - info: Pages rebuilt
+2023-07-09T18:53:15.133Z - info: Website regeneration complete! Total build time: 6.352s
+2023-07-09T18:53:18.437Z - debug:  
+2023-07-09T18:53:18.548Z - debug:  
+2023-07-09T18:53:18.870Z - debug:  
+2023-07-09T18:53:18.923Z - debug:  
+2023-07-09T18:53:18.925Z - debug:  
+2023-07-09T18:53:18.940Z - debug:  
+2023-07-09T18:53:18.978Z - debug:  
+2023-07-09T18:53:18.996Z - debug:  
+2023-07-09T18:53:19.085Z - debug:  
+2023-07-09T18:53:19.178Z - debug:  
+2023-07-09T18:53:19.192Z - debug:  
+2023-07-09T18:54:25.814Z - info: [2:54:25 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:54:25.815Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:54:25.815Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:54:25.815Z - info: 1. schedule/week4/topics
+2023-07-09T18:54:26.825Z - info: Rebuilding 1 pages
+2023-07-09T18:54:34.336Z - info: Site data built
+2023-07-09T18:54:34.336Z - info: Pages rebuilt
+2023-07-09T18:54:34.336Z - info: Website regeneration complete! Total build time: 7.511s
+2023-07-09T18:54:36.967Z - debug:  
+2023-07-09T18:54:37.076Z - debug:  
+2023-07-09T18:54:37.181Z - debug:  
+2023-07-09T18:54:37.287Z - debug:  
+2023-07-09T18:54:37.404Z - debug:  
+2023-07-09T18:54:37.505Z - debug:  
+2023-07-09T18:54:37.621Z - debug:  
+2023-07-09T18:54:37.638Z - debug:  
+2023-07-09T18:54:37.707Z - debug:  
+2023-07-09T18:54:37.724Z - debug:  
+2023-07-09T18:54:37.926Z - debug:  
+2023-07-09T18:55:20.537Z - info: [2:55:20 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\multiplicity\text.md
+2023-07-09T18:55:20.537Z - info: Synchronizing opened pages list before reload
+2023-07-09T18:55:20.538Z - info: Current opened pages, from most-to-least recent:
+2023-07-09T18:55:20.538Z - info: 1. schedule/week4/topics
+2023-07-09T18:55:21.546Z - info: Rebuilding 1 pages
+2023-07-09T18:55:28.400Z - info: Site data built
+2023-07-09T18:55:28.400Z - info: Pages rebuilt
+2023-07-09T18:55:28.401Z - info: Website regeneration complete! Total build time: 6.856s
+2023-07-09T18:55:31.699Z - debug:  
+2023-07-09T18:55:32.055Z - debug:  
+2023-07-09T18:55:32.129Z - debug:  
+2023-07-09T18:55:32.199Z - debug:  
+2023-07-09T18:55:32.218Z - debug:  
+2023-07-09T18:55:32.277Z - debug:  
+2023-07-09T18:55:32.490Z - debug:  
+2023-07-09T18:55:32.521Z - debug:  
+2023-07-09T18:55:32.666Z - debug:  
+2023-07-09T18:55:32.710Z - debug:  
+2023-07-09T18:55:32.722Z - debug:  

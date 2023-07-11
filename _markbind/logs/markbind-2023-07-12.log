@@ -1,0 +1,561 @@
+2023-07-11T16:06:35.466Z - info: [12:06:35 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\composition\text.md
+2023-07-11T16:06:35.479Z - info: Synchronizing opened pages list before reload
+2023-07-11T16:06:35.480Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T16:06:35.480Z - info: 1. schedule/week4/topics
+2023-07-11T16:06:36.482Z - info: Rebuilding 1 pages
+2023-07-11T16:06:40.828Z - info: Site data built
+2023-07-11T16:06:40.828Z - info: Pages rebuilt
+2023-07-11T16:06:40.828Z - info: Website regeneration complete! Total build time: 4.347s
+2023-07-11T16:06:44.543Z - debug:  
+2023-07-11T16:06:44.556Z - debug:  
+2023-07-11T16:06:44.575Z - debug:  
+2023-07-11T16:06:44.589Z - debug:  
+2023-07-11T16:06:44.622Z - debug:  
+2023-07-11T16:06:44.632Z - debug:  
+2023-07-11T16:06:44.714Z - debug:  
+2023-07-11T16:06:44.733Z - debug:  
+2023-07-11T16:06:44.747Z - debug:  
+2023-07-11T16:06:44.764Z - debug:  
+2023-07-11T16:06:44.853Z - debug:  
+2023-07-11T16:07:41.781Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2023-07-11T16:07:42.081Z - info: Site data built
+2023-07-11T16:07:42.081Z - info: Lazy website regeneration complete! Total build time: 0.3s
+2023-07-11T16:07:45.164Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\oop as some of its dependencies were changed since the last visit
+2023-07-11T16:07:46.794Z - info: Site data built
+2023-07-11T16:07:46.795Z - info: Lazy website regeneration complete! Total build time: 1.631s
+2023-07-11T16:07:48.473Z - debug:  
+2023-07-11T16:20:27.114Z - info: Website generation started at 12:20:25 am
+2023-07-11T16:20:35.081Z - info: Building assets...
+2023-07-11T16:20:40.790Z - info: Assets built
+2023-07-11T16:20:40.791Z - info: Generating pages...
+2023-07-11T16:20:51.828Z - debug:  
+2023-07-11T16:20:51.828Z - debug:  
+2023-07-11T16:20:51.829Z - debug:  
+2023-07-11T16:20:51.830Z - debug:  
+2023-07-11T16:20:51.830Z - debug:  
+2023-07-11T16:20:53.954Z - debug:  
+2023-07-11T16:20:53.954Z - debug:  
+2023-07-11T16:20:53.954Z - debug:  
+2023-07-11T16:20:53.955Z - debug:  
+2023-07-11T16:20:53.955Z - debug:  
+2023-07-11T16:20:53.955Z - debug:  
+2023-07-11T16:20:53.955Z - debug:  
+2023-07-11T16:20:53.955Z - debug:  
+2023-07-11T16:20:53.955Z - debug:  
+2023-07-11T16:20:53.955Z - debug:  
+2023-07-11T16:20:53.956Z - debug:  
+2023-07-11T16:22:37.741Z - debug:  
+2023-07-11T16:22:51.034Z - debug:  
+2023-07-11T16:22:51.173Z - debug:  
+2023-07-11T16:22:57.210Z - info: Pages built
+2023-07-11T16:22:58.265Z - info: Site data built
+2023-07-11T16:22:58.266Z - info: Website generation complete! Total build time: 152.662s
+2023-07-11T16:22:59.090Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-07-11T16:22:59.090Z - info: Press CTRL+C to stop ...
+2023-07-11T16:38:30.259Z - info: Website generation (lazy) started at 12:38:25 am
+2023-07-11T16:38:39.599Z - info: Building assets...
+2023-07-11T16:38:45.329Z - info: Assets built
+2023-07-11T16:38:45.330Z - info: Generating landing page...
+2023-07-11T16:38:46.026Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-07-11T16:38:46.950Z - info: Site data built
+2023-07-11T16:38:46.951Z - info: Website generation (lazy) complete! Total build time: 21.081s
+2023-07-11T16:38:47.839Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-07-11T16:38:47.839Z - info: Press CTRL+C to stop ...
+2023-07-11T16:46:09.483Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\topics as some of its dependencies were changed since the last visit
+2023-07-11T16:46:21.098Z - info: Site data built
+2023-07-11T16:46:21.101Z - info: Lazy website regeneration complete! Total build time: 11.618s
+2023-07-11T16:46:22.070Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\topics as some of its dependencies were changed since the last visit
+2023-07-11T16:46:26.587Z - debug:  
+2023-07-11T16:46:26.588Z - debug:  
+2023-07-11T16:46:26.593Z - debug:  
+2023-07-11T16:46:26.593Z - debug:  
+2023-07-11T16:46:26.593Z - debug:  
+2023-07-11T16:46:26.594Z - debug:  
+2023-07-11T16:46:26.594Z - debug:  
+2023-07-11T16:46:26.598Z - debug:  
+2023-07-11T16:46:26.599Z - debug:  
+2023-07-11T16:46:26.600Z - debug:  
+2023-07-11T16:46:26.601Z - debug:  
+2023-07-11T16:46:32.830Z - info: Site data built
+2023-07-11T16:46:32.831Z - info: Lazy website regeneration complete! Total build time: 10.762s
+2023-07-11T16:46:37.077Z - debug:  
+2023-07-11T16:46:37.099Z - debug:  
+2023-07-11T16:46:37.196Z - debug:  
+2023-07-11T16:46:37.225Z - debug:  
+2023-07-11T16:46:37.245Z - debug:  
+2023-07-11T16:46:37.312Z - debug:  
+2023-07-11T16:46:37.345Z - debug:  
+2023-07-11T16:46:37.371Z - debug:  
+2023-07-11T16:46:37.392Z - debug:  
+2023-07-11T16:46:37.602Z - debug:  
+2023-07-11T16:46:37.631Z - debug:  
+2023-07-11T16:50:37.603Z - info: [12:50:37 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\composition\text.md
+2023-07-11T16:50:37.603Z - info: Synchronizing opened pages list before reload
+2023-07-11T16:50:37.604Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T16:50:37.604Z - info: 1. schedule/week4/topics
+2023-07-11T16:50:38.623Z - info: Rebuilding 1 pages
+2023-07-11T16:50:42.203Z - info: Site data built
+2023-07-11T16:50:42.204Z - info: Pages rebuilt
+2023-07-11T16:50:42.204Z - info: Website regeneration complete! Total build time: 3.582s
+2023-07-11T16:50:50.326Z - debug:  
+2023-07-11T16:50:50.355Z - debug:  
+2023-07-11T16:50:50.376Z - debug:  
+2023-07-11T16:50:50.395Z - debug:  
+2023-07-11T16:50:50.419Z - debug:  
+2023-07-11T16:50:50.519Z - debug:  
+2023-07-11T16:50:50.551Z - debug:  
+2023-07-11T16:50:50.568Z - debug:  
+2023-07-11T16:50:50.594Z - debug:  
+2023-07-11T16:50:50.613Z - debug:  
+2023-07-11T16:50:50.633Z - debug:  
+2023-07-11T16:51:13.142Z - info: [12:51:13 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\composition\text.md
+2023-07-11T16:51:13.143Z - info: Synchronizing opened pages list before reload
+2023-07-11T16:51:13.143Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T16:51:13.143Z - info: 1. schedule/week4/topics
+2023-07-11T16:51:14.150Z - info: Rebuilding 1 pages
+2023-07-11T16:51:18.197Z - info: Site data built
+2023-07-11T16:51:18.197Z - info: Pages rebuilt
+2023-07-11T16:51:18.198Z - info: Website regeneration complete! Total build time: 4.05s
+2023-07-11T16:51:24.233Z - debug:  
+2023-07-11T16:51:24.334Z - debug:  
+2023-07-11T16:51:24.774Z - debug:  
+2023-07-11T16:51:24.851Z - debug:  
+2023-07-11T16:51:24.875Z - debug:  
+2023-07-11T16:51:24.955Z - debug:  
+2023-07-11T16:51:25.050Z - debug:  
+2023-07-11T16:51:25.078Z - debug:  
+2023-07-11T16:51:25.142Z - debug:  
+2023-07-11T16:51:25.232Z - debug:  
+2023-07-11T16:51:25.253Z - debug:  
+2023-07-11T16:52:10.680Z - info: [12:52:10 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\composition\text.md
+2023-07-11T16:52:10.681Z - info: Synchronizing opened pages list before reload
+2023-07-11T16:52:10.681Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T16:52:10.681Z - info: 1. schedule/week4/topics
+2023-07-11T16:52:11.696Z - info: Rebuilding 1 pages
+2023-07-11T16:52:16.064Z - info: Site data built
+2023-07-11T16:52:16.064Z - info: Pages rebuilt
+2023-07-11T16:52:16.065Z - info: Website regeneration complete! Total build time: 4.371s
+2023-07-11T16:52:22.306Z - debug:  
+2023-07-11T16:52:22.548Z - debug:  
+2023-07-11T16:52:23.262Z - debug:  
+2023-07-11T16:52:23.682Z - debug:  
+2023-07-11T16:52:23.772Z - debug:  
+2023-07-11T16:52:23.822Z - debug:  
+2023-07-11T16:52:23.890Z - debug:  
+2023-07-11T16:52:23.971Z - debug:  
+2023-07-11T16:52:24.008Z - debug:  
+2023-07-11T16:52:24.038Z - debug:  
+2023-07-11T16:52:24.239Z - debug:  
+2023-07-11T16:53:21.454Z - info: [12:53:21 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\composition\text.md
+2023-07-11T16:53:21.455Z - info: Synchronizing opened pages list before reload
+2023-07-11T16:53:21.455Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T16:53:21.455Z - info: 1. schedule/week4/topics
+2023-07-11T16:53:22.464Z - info: Rebuilding 1 pages
+2023-07-11T16:53:27.396Z - info: Site data built
+2023-07-11T16:53:27.397Z - info: Pages rebuilt
+2023-07-11T16:53:27.398Z - info: Website regeneration complete! Total build time: 4.936s
+2023-07-11T16:53:33.740Z - debug:  
+2023-07-11T16:53:33.923Z - debug:  
+2023-07-11T16:53:33.970Z - debug:  
+2023-07-11T16:53:34.046Z - debug:  
+2023-07-11T16:53:34.081Z - debug:  
+2023-07-11T16:53:34.153Z - debug:  
+2023-07-11T16:53:34.481Z - debug:  
+2023-07-11T16:53:34.519Z - debug:  
+2023-07-11T16:53:34.696Z - debug:  
+2023-07-11T16:53:34.722Z - debug:  
+2023-07-11T16:53:34.768Z - debug:  
+2023-07-11T16:53:47.323Z - info: [12:53:47 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\composition\text.md
+2023-07-11T16:53:47.323Z - info: Synchronizing opened pages list before reload
+2023-07-11T16:53:47.323Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T16:53:47.323Z - info: 1. schedule/week4/topics
+2023-07-11T16:53:48.336Z - info: Rebuilding 1 pages
+2023-07-11T16:53:54.010Z - info: Site data built
+2023-07-11T16:53:54.011Z - info: Pages rebuilt
+2023-07-11T16:53:54.011Z - info: Website regeneration complete! Total build time: 5.675s
+2023-07-11T16:54:00.516Z - debug:  
+2023-07-11T16:54:00.702Z - debug:  
+2023-07-11T16:54:00.732Z - debug:  
+2023-07-11T16:54:00.756Z - debug:  
+2023-07-11T16:54:00.824Z - debug:  
+2023-07-11T16:54:00.878Z - debug:  
+2023-07-11T16:54:00.905Z - debug:  
+2023-07-11T16:54:00.928Z - debug:  
+2023-07-11T16:54:00.951Z - debug:  
+2023-07-11T16:54:01.112Z - debug:  
+2023-07-11T16:54:01.360Z - debug:  
+2023-07-11T17:03:27.609Z - info: [1:03:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\composition\what\text.md
+2023-07-11T17:03:27.610Z - info: Synchronizing opened pages list before reload
+2023-07-11T17:03:27.611Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T17:03:27.611Z - info: 1. schedule/week4/topics
+2023-07-11T17:03:28.627Z - info: Rebuilding 1 pages
+2023-07-11T17:03:32.552Z - info: Site data built
+2023-07-11T17:03:32.553Z - info: Pages rebuilt
+2023-07-11T17:03:32.554Z - info: Website regeneration complete! Total build time: 3.93s
+2023-07-11T17:03:38.749Z - debug:  
+2023-07-11T17:03:38.851Z - debug:  
+2023-07-11T17:03:39.077Z - debug:  
+2023-07-11T17:03:39.402Z - debug:  
+2023-07-11T17:03:39.503Z - debug:  
+2023-07-11T17:03:39.542Z - debug:  
+2023-07-11T17:03:39.572Z - debug:  
+2023-07-11T17:03:39.647Z - debug:  
+2023-07-11T17:03:39.840Z - debug:  
+2023-07-11T17:03:39.940Z - debug:  
+2023-07-11T17:03:40.016Z - debug:  
+2023-07-11T17:07:17.507Z - info: [1:07:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\dependencies\text.md
+2023-07-11T17:07:17.507Z - info: Synchronizing opened pages list before reload
+2023-07-11T17:07:17.508Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T17:07:17.508Z - info: 1. schedule/week4/topics
+2023-07-11T17:07:18.516Z - info: Rebuilding 1 pages
+2023-07-11T17:07:22.170Z - info: Site data built
+2023-07-11T17:07:22.171Z - info: Pages rebuilt
+2023-07-11T17:07:22.171Z - info: Website regeneration complete! Total build time: 3.658s
+2023-07-11T17:07:27.057Z - debug:  
+2023-07-11T17:07:27.282Z - debug:  
+2023-07-11T17:07:27.340Z - debug:  
+2023-07-11T17:07:27.403Z - debug:  
+2023-07-11T17:07:27.449Z - debug:  
+2023-07-11T17:07:27.490Z - debug:  
+2023-07-11T17:07:27.539Z - debug:  
+2023-07-11T17:07:27.556Z - debug:  
+2023-07-11T17:07:27.697Z - debug:  
+2023-07-11T17:07:27.792Z - debug:  
+2023-07-11T17:07:27.807Z - debug:  
+2023-07-11T17:16:26.589Z - info: [1:16:26 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\classDiagramsIntermediate\q-tick-statementMismatch.md
+2023-07-11T17:16:26.590Z - info: Synchronizing opened pages list before reload
+2023-07-11T17:16:26.591Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T17:16:26.592Z - info: 1. schedule/week4/topics
+2023-07-11T17:16:27.601Z - info: Rebuilding 1 pages
+2023-07-11T17:16:31.311Z - info: Site data built
+2023-07-11T17:16:31.312Z - info: Pages rebuilt
+2023-07-11T17:16:31.312Z - info: Website regeneration complete! Total build time: 3.714s
+2023-07-11T17:16:36.669Z - debug:  
+2023-07-11T17:16:36.750Z - debug:  
+2023-07-11T17:16:36.896Z - debug:  
+2023-07-11T17:16:37.214Z - debug:  
+2023-07-11T17:16:37.310Z - debug:  
+2023-07-11T17:16:37.356Z - debug:  
+2023-07-11T17:16:37.396Z - debug:  
+2023-07-11T17:16:37.430Z - debug:  
+2023-07-11T17:16:37.622Z - debug:  
+2023-07-11T17:16:37.661Z - debug:  
+2023-07-11T17:16:37.680Z - debug:  
+2023-07-11T17:20:26.187Z - info: [1:20:26 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\weeklyTextbookTopics-fragment.md
+2023-07-11T17:20:26.188Z - info: Synchronizing opened pages list before reload
+2023-07-11T17:20:26.188Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T17:20:26.188Z - info: 1. schedule/week4/topics
+2023-07-11T17:20:27.208Z - info: Rebuilding 1 pages
+2023-07-11T17:20:27.695Z - error:  Error: No such file: C:\repos\nus-cs2103\cs2103-website-base\book\uml\associationClasses\path.md
+Missing reference in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\topics.md
+    at _getFileExistsNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:34:19)
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:188:26)
+    at NodeProcessor.processNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:176:28)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:323:24)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+2023-07-11T17:20:27.696Z - error:  Error: No such file: C:\repos\nus-cs2103\cs2103-website-base\book\uml\associationClasses\what\text.md
+Missing reference in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\topics.md
+    at _getFileExistsNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:34:19)
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:188:26)
+    at NodeProcessor.processNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:176:28)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:323:24)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+2023-07-11T17:20:28.332Z - error:  Error: No such file: C:\repos\nus-cs2103\cs2103-website-base\book\uml\associationClasses\path.md
+Missing reference in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\topics.md
+    at _getFileExistsNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:34:19)
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:188:26)
+    at NodeProcessor.processNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:176:28)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:323:24)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+2023-07-11T17:20:28.332Z - error:  Error: No such file: C:\repos\nus-cs2103\cs2103-website-base\book\uml\associationClasses\what\text.md
+Missing reference in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\topics.md
+    at _getFileExistsNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:34:19)
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:188:26)
+    at NodeProcessor.processNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:176:28)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:323:24)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+2023-07-11T17:20:28.335Z - error:  Error: No such file: C:\repos\nus-cs2103\cs2103-website-base\book\uml\associationClasses\what\text.md
+Missing reference in C:\repos\nus-cs2103\cs2103-website-base\book\uml\associationClasses\what\unit-inElsewhere-asPanelBody.md
+    at _getFileExistsNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:34:19)
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:188:26)
+    at NodeProcessor.processNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:176:28)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:323:24)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+2023-07-11T17:20:28.336Z - error:  Error: No such file: C:\repos\nus-cs2103\cs2103-website-base\book\uml\associationClasses\what\text.md
+Missing reference in C:\repos\nus-cs2103\cs2103-website-base\book\uml\associationClasses\what\unit-inElsewhere-asPanelBody.md
+    at _getFileExistsNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:34:19)
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:188:26)
+    at NodeProcessor.processNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:176:28)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:323:24)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+2023-07-11T17:20:28.337Z - error:  Error: No such file: C:\repos\nus-cs2103\cs2103-website-base\book\uml\associationClasses\what\text.md
+Missing reference in C:\repos\nus-cs2103\cs2103-website-base\book\uml\associationClasses\what\unit-inElsewhere-asPanelBody.md
+    at _getFileExistsNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:34:19)
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:188:26)
+    at NodeProcessor.processNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:176:28)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:323:24)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+2023-07-11T17:20:31.116Z - info: Site data built
+2023-07-11T17:20:31.116Z - info: Pages rebuilt
+2023-07-11T17:20:31.117Z - info: Website regeneration complete! Total build time: 3.911s
+2023-07-11T17:20:36.635Z - debug:  
+2023-07-11T17:20:36.672Z - debug:  
+2023-07-11T17:20:36.787Z - debug:  
+2023-07-11T17:20:36.819Z - debug:  
+2023-07-11T17:20:36.868Z - debug:  
+2023-07-11T17:20:37.075Z - debug:  
+2023-07-11T17:20:37.107Z - debug:  
+2023-07-11T17:20:37.178Z - debug:  
+2023-07-11T17:20:37.207Z - debug:  
+2023-07-11T17:20:37.243Z - debug:  
+2023-07-11T17:20:37.271Z - debug:  
+2023-07-11T17:21:40.250Z - info: [1:21:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\weeklyTextbookTopics-fragment.md
+2023-07-11T17:21:40.250Z - info: Synchronizing opened pages list before reload
+2023-07-11T17:21:40.250Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T17:21:40.251Z - info: 1. schedule/week4/topics
+2023-07-11T17:21:41.264Z - info: Rebuilding 1 pages
+2023-07-11T17:21:45.097Z - info: Site data built
+2023-07-11T17:21:45.098Z - info: Pages rebuilt
+2023-07-11T17:21:45.099Z - info: Website regeneration complete! Total build time: 3.838s
+2023-07-11T17:21:49.426Z - debug:  
+2023-07-11T17:21:49.550Z - debug:  
+2023-07-11T17:21:49.648Z - debug:  
+2023-07-11T17:21:49.778Z - debug:  
+2023-07-11T17:21:49.976Z - debug:  
+2023-07-11T17:21:50.182Z - debug:  
+2023-07-11T17:21:50.269Z - debug:  
+2023-07-11T17:21:50.299Z - debug:  
+2023-07-11T17:21:50.377Z - debug:  
+2023-07-11T17:21:50.396Z - debug:  
+2023-07-11T17:21:50.414Z - debug:  
+2023-07-11T17:23:35.714Z - info: [1:23:35 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\associationClasses\q-tick-associationClasses.md
+2023-07-11T17:23:35.714Z - info: Synchronizing opened pages list before reload
+2023-07-11T17:23:35.715Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T17:23:35.715Z - info: 1. schedule/week4/topics
+2023-07-11T17:23:36.731Z - info: Rebuilding 1 pages
+2023-07-11T17:23:40.164Z - info: Site data built
+2023-07-11T17:23:40.164Z - info: Pages rebuilt
+2023-07-11T17:23:40.165Z - info: Website regeneration complete! Total build time: 3.435s
+2023-07-11T17:23:45.066Z - debug:  
+2023-07-11T17:23:45.193Z - debug:  
+2023-07-11T17:23:45.458Z - debug:  
+2023-07-11T17:23:45.492Z - debug:  
+2023-07-11T17:23:45.546Z - debug:  
+2023-07-11T17:23:45.662Z - debug:  
+2023-07-11T17:23:45.733Z - debug:  
+2023-07-11T17:23:45.791Z - debug:  
+2023-07-11T17:23:45.877Z - debug:  
+2023-07-11T17:23:45.908Z - debug:  
+2023-07-11T17:23:46.267Z - debug:  
+2023-07-11T17:39:38.684Z - info: [1:39:38 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\commentary-cs2103-fragment.md
+2023-07-11T17:39:38.684Z - info: Synchronizing opened pages list before reload
+2023-07-11T17:39:38.685Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T17:39:38.685Z - info: 1. schedule/week4/topics
+2023-07-11T17:39:39.695Z - info: Rebuilding 1 pages
+2023-07-11T17:39:44.318Z - info: Site data built
+2023-07-11T17:39:44.319Z - info: Pages rebuilt
+2023-07-11T17:39:44.322Z - info: Website regeneration complete! Total build time: 4.628s
+2023-07-11T17:39:48.683Z - debug:  
+2023-07-11T17:39:48.714Z - debug:  
+2023-07-11T17:39:48.920Z - debug:  
+2023-07-11T17:39:49.021Z - debug:  
+2023-07-11T17:39:49.577Z - debug:  
+2023-07-11T17:39:49.618Z - debug:  
+2023-07-11T17:39:49.651Z - debug:  
+2023-07-11T17:39:49.688Z - debug:  
+2023-07-11T17:39:49.759Z - debug:  
+2023-07-11T17:39:49.785Z - debug:  
+2023-07-11T17:39:49.867Z - debug:  
+2023-07-11T17:42:23.544Z - info: [1:42:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\commentary-cs2103-fragment.md
+2023-07-11T17:42:23.544Z - info: Synchronizing opened pages list before reload
+2023-07-11T17:42:23.545Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T17:42:23.545Z - info: 1. schedule/week4/topics
+2023-07-11T17:42:24.562Z - info: Rebuilding 1 pages
+2023-07-11T17:42:28.499Z - info: Site data built
+2023-07-11T17:42:28.499Z - info: Pages rebuilt
+2023-07-11T17:42:28.500Z - info: Website regeneration complete! Total build time: 3.94s
+2023-07-11T17:42:32.952Z - debug:  
+2023-07-11T17:42:33.276Z - debug:  
+2023-07-11T17:42:33.396Z - debug:  
+2023-07-11T17:42:33.415Z - debug:  
+2023-07-11T17:42:33.450Z - debug:  
+2023-07-11T17:42:33.482Z - debug:  
+2023-07-11T17:42:33.518Z - debug:  
+2023-07-11T17:42:33.543Z - debug:  
+2023-07-11T17:42:33.569Z - debug:  
+2023-07-11T17:42:33.733Z - debug:  
+2023-07-11T17:42:33.813Z - debug:  
+2023-07-11T17:43:15.396Z - info: [1:43:15 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\commentary-cs2103-fragment.md
+2023-07-11T17:43:15.396Z - info: Synchronizing opened pages list before reload
+2023-07-11T17:43:15.397Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T17:43:15.397Z - info: 1. schedule/week4/topics
+2023-07-11T17:43:16.410Z - info: Rebuilding 1 pages
+2023-07-11T17:43:19.921Z - info: Site data built
+2023-07-11T17:43:19.921Z - info: Pages rebuilt
+2023-07-11T17:43:19.922Z - info: Website regeneration complete! Total build time: 3.513s
+2023-07-11T17:43:25.614Z - debug:  
+2023-07-11T17:43:25.705Z - debug:  
+2023-07-11T17:43:25.797Z - debug:  
+2023-07-11T17:43:25.910Z - debug:  
+2023-07-11T17:43:26.082Z - debug:  
+2023-07-11T17:43:26.216Z - debug:  
+2023-07-11T17:43:26.256Z - debug:  
+2023-07-11T17:43:26.282Z - debug:  
+2023-07-11T17:43:26.351Z - debug:  
+2023-07-11T17:43:26.401Z - debug:  
+2023-07-11T17:43:26.568Z - debug:  
+2023-07-11T17:44:05.685Z - info: [1:44:05 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\commentary-cs2103-fragment.md
+2023-07-11T17:44:05.686Z - info: Synchronizing opened pages list before reload
+2023-07-11T17:44:05.686Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T17:44:05.686Z - info: 1. schedule/week4/topics
+2023-07-11T17:44:06.698Z - info: Rebuilding 1 pages
+2023-07-11T17:44:10.236Z - info: Site data built
+2023-07-11T17:44:10.236Z - info: Pages rebuilt
+2023-07-11T17:44:10.237Z - info: Website regeneration complete! Total build time: 3.541s
+2023-07-11T17:44:15.175Z - debug:  
+2023-07-11T17:44:15.440Z - debug:  
+2023-07-11T17:44:15.643Z - debug:  
+2023-07-11T17:44:15.718Z - debug:  
+2023-07-11T17:44:15.749Z - debug:  
+2023-07-11T17:44:15.776Z - debug:  
+2023-07-11T17:44:15.843Z - debug:  
+2023-07-11T17:44:15.861Z - debug:  
+2023-07-11T17:44:15.880Z - debug:  
+2023-07-11T17:44:15.907Z - debug:  
+2023-07-11T17:44:15.927Z - debug:  
+2023-07-11T17:44:17.263Z - info: [1:44:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\commentary-cs2103-fragment.md
+2023-07-11T17:44:17.264Z - info: Synchronizing opened pages list before reload
+2023-07-11T17:44:17.264Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T17:44:17.264Z - info: 1. schedule/week4/topics
+2023-07-11T17:44:18.271Z - info: Rebuilding 1 pages
+2023-07-11T17:44:20.859Z - info: Site data built
+2023-07-11T17:44:20.859Z - info: Pages rebuilt
+2023-07-11T17:44:20.859Z - info: Website regeneration complete! Total build time: 2.589s
+2023-07-11T17:44:26.195Z - debug:  
+2023-07-11T17:44:26.530Z - debug:  
+2023-07-11T17:44:26.561Z - debug:  
+2023-07-11T17:44:26.753Z - debug:  
+2023-07-11T17:44:26.844Z - debug:  
+2023-07-11T17:44:26.984Z - debug:  
+2023-07-11T17:44:27.005Z - debug:  
+2023-07-11T17:44:27.026Z - debug:  
+2023-07-11T17:44:27.046Z - debug:  
+2023-07-11T17:44:27.064Z - debug:  
+2023-07-11T17:44:27.082Z - debug:  
+2023-07-11T17:49:05.854Z - info: [1:49:05 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\reviewPRs\text.md
+2023-07-11T17:49:05.854Z - info: Synchronizing opened pages list before reload
+2023-07-11T17:49:05.854Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T17:49:05.854Z - info: 1. schedule/week4/topics
+2023-07-11T17:49:06.868Z - info: Rebuilding 1 pages
+2023-07-11T17:49:10.497Z - info: Site data built
+2023-07-11T17:49:10.497Z - info: Pages rebuilt
+2023-07-11T17:49:10.498Z - info: Website regeneration complete! Total build time: 3.632s
+2023-07-11T17:49:15.530Z - debug:  
+2023-07-11T17:49:15.590Z - debug:  
+2023-07-11T17:49:15.611Z - debug:  
+2023-07-11T17:49:15.731Z - debug:  
+2023-07-11T17:49:15.752Z - debug:  
+2023-07-11T17:49:15.800Z - debug:  
+2023-07-11T17:49:15.851Z - debug:  
+2023-07-11T17:49:15.926Z - debug:  
+2023-07-11T17:49:15.959Z - debug:  
+2023-07-11T17:49:15.993Z - debug:  
+2023-07-11T17:49:16.041Z - debug:  
+2023-07-11T17:50:34.497Z - info: [1:50:34 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\reviewPRs\text.md
+2023-07-11T17:50:34.497Z - info: Synchronizing opened pages list before reload
+2023-07-11T17:50:34.497Z - info: Current opened pages, from most-to-least recent:
+2023-07-11T17:50:34.497Z - info: 1. schedule/week4/topics
+2023-07-11T17:50:35.512Z - info: Rebuilding 1 pages
+2023-07-11T17:50:40.423Z - info: Site data built
+2023-07-11T17:50:40.423Z - info: Pages rebuilt
+2023-07-11T17:50:40.423Z - info: Website regeneration complete! Total build time: 4.915s
+2023-07-11T17:50:42.626Z - debug:  
+2023-07-11T17:50:42.645Z - debug:  
+2023-07-11T17:50:42.970Z - debug:  
+2023-07-11T17:50:43.065Z - debug:  
+2023-07-11T17:50:43.098Z - debug:  
+2023-07-11T17:50:43.131Z - debug:  
+2023-07-11T17:50:43.132Z - debug:  
+2023-07-11T17:50:43.173Z - debug:  
+2023-07-11T17:50:43.186Z - debug:  
+2023-07-11T17:50:43.281Z - debug:  
+2023-07-11T17:50:43.292Z - debug:  
+2023-07-11T17:57:10.273Z - info: Website generation started at 1:57:08 am
+2023-07-11T17:57:21.301Z - info: Building assets...
