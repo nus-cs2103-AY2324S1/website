@@ -1,7 +1,7 @@
 <p><span class="dimmed"><strong><span>Tools → UML → Activity Diagrams →
 </span></strong></span></p>
 <div id="title-and-body">
-<div><h4 id="alternate-paths"><span id="alternate-paths" class="anchor"></span><span>Alternate paths</span><a class="fa fa-anchor" href="#alternate-paths" onclick="event.stopPropagation()"></a></h4></div>
+<div><h4 id="alternate-paths"><span>Alternate paths</span><a class="fa fa-anchor" href="#alternate-paths" onclick="event.stopPropagation()"></a></h4></div>
 <div id="main">
 <div>
 <p><strong>A <em>branch node</em> shows the start of alternate paths.</strong> Each control flow exiting a branch node has a <em>guard condition</em>: a boolean condition that should be true for execution to take that path. <strong><em>Exactly one</em> of the guard conditions should be true</strong> at any given branch node.</p>
@@ -22,9 +22,8 @@
 <pic src="/website/book/uml/activityDiagrams/basicNotations/alternatePaths/images/simplifications.png" width="400"></pic>
 <p></p></box></div>
 <div>
-  <div><panel expandable class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="fas fa-dumbbell"></span></span> Exercises</p></template>
+  <div><h5 id="exercises"><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Exercises:<a class="fa fa-anchor" href="#exercises" onclick="event.stopPropagation()"></a></h5>
   <div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Which activity diagrams are correct?</p></template>
-<question>
 <p>Which of these activity diagrams use the correct UML notation?</p>
 <ul class="contains-task-list">
 <li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> i</li>
@@ -36,11 +35,11 @@
 <pic src="/website/book/uml/activityDiagrams/basicNotations/alternatePaths/images/q-correctNotation1.png" width="500"></pic>
 <pic src="/website/book/uml/activityDiagrams/basicNotations/alternatePaths/images/q-correctNotation2.png" width="500"></pic>
 <p></p>
-<template #answer><div class="algolia-no-index">
+<panel type="seamless" minimized class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Answer</p></template>
 <ul>
 <li>i: 👍 Correct. There can be more than two alternate paths.</li>
 <li>ii: 👍 Correct. An alternate path can divide into more branches.</li>
 <li>iii: 👍 Correct. A branch can join other branches.</li>
 <li>iv: Incorrect. At <code class="line-numbers hljs inline no-lang" v-pre>x = 5</code> both guard conditions become true.</li>
 <li>v: 👍 Correct. It is fine for a branch to form a loop by going back to the original branch node.</li>
-<li>vi: Incorrect. Guard conditions should be given in square brackets.</li></ul></div></template></question></panel></div></panel></div></div></div></div>
+<li>vi: Incorrect. Guard conditions should be given in square brackets.</li></ul></panel></panel></div></div></div></div></div>

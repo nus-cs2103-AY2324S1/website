@@ -559,3 +559,29 @@ Missing reference in C:\repos\nus-cs2103\cs2103-website-base\book\uml\associatio
 2023-07-11T17:50:43.292Z - debug:  
 2023-07-11T17:57:10.273Z - info: Website generation started at 1:57:08 am
 2023-07-11T17:57:21.301Z - info: Building assets...
+2023-07-11T17:57:28.138Z - info: Assets built
+2023-07-11T17:57:28.139Z - info: Generating pages...
+2023-07-11T17:57:44.230Z - debug:  
+2023-07-11T17:57:44.231Z - debug:  
+2023-07-11T17:57:44.231Z - debug:  
+2023-07-11T17:57:44.232Z - debug:  
+2023-07-11T17:57:44.243Z - debug:  
+2023-07-11T17:57:44.245Z - debug:  
+2023-07-11T17:57:44.246Z - debug:  
+2023-07-11T17:57:44.246Z - debug:  
+2023-07-11T17:57:44.247Z - debug:  
+2023-07-11T17:57:44.247Z - debug:  
+2023-07-11T17:57:44.248Z - debug:  
+2023-07-11T17:57:44.249Z - debug:  
+2023-07-11T17:57:44.249Z - debug:  
+2023-07-11T17:57:44.249Z - debug:  
+2023-07-11T17:57:46.781Z - debug:  
+2023-07-11T17:57:46.781Z - debug:  
+2023-07-11T17:59:47.804Z - debug:  
+2023-07-11T18:00:01.544Z - debug:  
+2023-07-11T18:00:01.544Z - debug:  
+2023-07-11T18:00:08.030Z - info: Pages built
+2023-07-11T18:00:09.104Z - info: Site data built
+2023-07-11T18:00:09.104Z - info: Website generation complete! Total build time: 180.897s
+2023-07-11T18:00:09.104Z - info: Build success!
+2023-07-11T18:03:25.254Z - info: The website has been deployed at: https://nus-cs2103-ay2324s1.github.io/website

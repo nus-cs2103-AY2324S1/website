@@ -1,0 +1,580 @@
+2023-07-18T17:49:57.177Z - info: Website generation (lazy) started at 1:49:54 am
+2023-07-18T17:50:09.253Z - info: Building assets...
+2023-07-18T17:50:18.346Z - info: Assets built
+2023-07-18T17:50:18.346Z - info: Generating landing page...
+2023-07-18T17:50:19.569Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-07-18T17:50:21.206Z - info: Site data built
+2023-07-18T17:50:21.206Z - info: Website generation (lazy) complete! Total build time: 26.954s
+2023-07-18T17:50:22.194Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-07-18T17:50:22.195Z - info: Press CTRL+C to stop ...
+2023-07-18T17:53:51.803Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\index as some of its dependencies were changed since the last visit
+2023-07-18T17:53:53.322Z - info: Site data built
+2023-07-18T17:53:53.323Z - info: Lazy website regeneration complete! Total build time: 1.522s
+2023-07-18T17:54:05.679Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\topics as some of its dependencies were changed since the last visit
+2023-07-18T17:54:10.045Z - info: Site data built
+2023-07-18T17:54:10.045Z - info: Lazy website regeneration complete! Total build time: 4.367s
+2023-07-18T17:54:14.147Z - debug:  
+2023-07-18T18:05:36.606Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\admin as some of its dependencies were changed since the last visit
+2023-07-18T18:05:39.801Z - info: Site data built
+2023-07-18T18:05:39.802Z - info: Lazy website regeneration complete! Total build time: 3.196s
+2023-07-18T18:05:41.981Z - debug:  
+2023-07-18T18:07:05.998Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\project as some of its dependencies were changed since the last visit
+2023-07-18T18:07:06.350Z - info: Site data built
+2023-07-18T18:07:06.351Z - info: Lazy website regeneration complete! Total build time: 0.353s
+2023-07-18T18:07:09.660Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\tutorial as some of its dependencies were changed since the last visit
+2023-07-18T18:07:09.928Z - info: Site data built
+2023-07-18T18:07:09.928Z - info: Lazy website regeneration complete! Total build time: 0.269s
+2023-07-18T18:07:18.086Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\tutorial as some of its dependencies were changed since the last visit
+2023-07-18T18:07:18.727Z - info: Site data built
+2023-07-18T18:07:18.728Z - info: Lazy website regeneration complete! Total build time: 0.643s
+2023-07-18T18:07:45.178Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project as some of its dependencies were changed since the last visit
+2023-07-18T18:07:47.233Z - info: Site data built
+2023-07-18T18:07:47.233Z - info: Lazy website regeneration complete! Total build time: 2.055s
+2023-07-18T18:09:09.759Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\topics as some of its dependencies were changed since the last visit
+2023-07-18T18:09:12.254Z - info: Site data built
+2023-07-18T18:09:12.255Z - info: Lazy website regeneration complete! Total build time: 2.497s
+2023-07-18T18:09:27.912Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\topics as some of its dependencies were changed since the last visit
+2023-07-18T18:09:30.189Z - info: Site data built
+2023-07-18T18:09:30.189Z - info: Lazy website regeneration complete! Total build time: 2.278s
+2023-07-18T18:10:40.621Z - info: [2:10:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\softwareEngineering\introduction\prosAndCons\exercises.md
+2023-07-18T18:10:40.622Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:10:40.623Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:10:40.624Z - info: 1. schedule/week2/topics
+2023-07-18T18:10:41.632Z - info: Rebuilding 1 pages
+2023-07-18T18:10:44.126Z - info: Site data built
+2023-07-18T18:10:44.126Z - info: Pages rebuilt
+2023-07-18T18:10:44.127Z - info: Website regeneration complete! Total build time: 2.496s
+2023-07-18T18:10:51.787Z - info: [2:10:51 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\softwareEngineering\introduction\prosAndCons\exercises.md
+2023-07-18T18:10:51.788Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:10:51.788Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:10:51.788Z - info: 1. schedule/week2/topics
+2023-07-18T18:10:52.793Z - info: Rebuilding 1 pages
+2023-07-18T18:10:54.398Z - info: Site data built
+2023-07-18T18:10:54.399Z - info: Pages rebuilt
+2023-07-18T18:10:54.399Z - info: Website regeneration complete! Total build time: 1.607s
+2023-07-18T18:11:42.125Z - info: [2:11:42 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\softwareEngineering\introduction\prosAndCons\exercises.md
+2023-07-18T18:11:42.125Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:11:42.126Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:11:42.126Z - info: 1. schedule/week2/topics
+2023-07-18T18:11:43.130Z - info: Rebuilding 1 pages
+2023-07-18T18:11:45.153Z - info: Site data built
+2023-07-18T18:11:45.153Z - info: Pages rebuilt
+2023-07-18T18:11:45.153Z - info: Website regeneration complete! Total build time: 2.024s
+2023-07-18T18:12:45.400Z - info: [2:12:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\softwareEngineering\introduction\prosAndCons\exercises.md
+2023-07-18T18:12:45.400Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:12:45.401Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:12:45.401Z - info: 1. schedule/week2/topics
+2023-07-18T18:12:46.403Z - info: Rebuilding 1 pages
+2023-07-18T18:12:48.467Z - info: Site data built
+2023-07-18T18:12:48.467Z - info: Pages rebuilt
+2023-07-18T18:12:48.467Z - info: Website regeneration complete! Total build time: 2.065s
+2023-07-18T18:12:54.341Z - info: [2:12:54 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\softwareEngineering\introduction\prosAndCons\exercises.md
+2023-07-18T18:12:54.341Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:12:54.342Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:12:54.342Z - info: 1. schedule/week2/topics
+2023-07-18T18:12:55.345Z - info: Rebuilding 1 pages
+2023-07-18T18:12:57.136Z - info: Site data built
+2023-07-18T18:12:57.137Z - info: Pages rebuilt
+2023-07-18T18:12:57.137Z - info: Website regeneration complete! Total build time: 1.793s
+2023-07-18T18:13:24.617Z - info: [2:13:24 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\softwareEngineering\introduction\prosAndCons\exercises.md
+2023-07-18T18:13:24.618Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:13:24.618Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:13:24.618Z - info: 1. schedule/week2/topics
+2023-07-18T18:13:25.628Z - info: Rebuilding 1 pages
+2023-07-18T18:13:27.846Z - info: Site data built
+2023-07-18T18:13:27.847Z - info: Pages rebuilt
+2023-07-18T18:13:27.847Z - info: Website regeneration complete! Total build time: 2.22s
+2023-07-18T18:13:57.666Z - info: [2:13:57 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\softwareEngineering\introduction\prosAndCons\exercises.md
+2023-07-18T18:13:57.667Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:13:57.668Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:13:57.669Z - info: 1. schedule/week2/topics
+2023-07-18T18:13:58.687Z - info: Rebuilding 1 pages
+2023-07-18T18:14:00.558Z - info: Site data built
+2023-07-18T18:14:00.558Z - info: Pages rebuilt
+2023-07-18T18:14:00.559Z - info: Website regeneration complete! Total build time: 1.873s
+2023-07-18T18:14:15.164Z - info: [2:14:15 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\softwareEngineering\introduction\prosAndCons\exercises.md
+2023-07-18T18:14:15.164Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:14:15.164Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:14:15.164Z - info: 1. schedule/week2/topics
+2023-07-18T18:14:16.176Z - info: Rebuilding 1 pages
+2023-07-18T18:14:17.731Z - info: Site data built
+2023-07-18T18:14:17.731Z - info: Pages rebuilt
+2023-07-18T18:14:17.731Z - info: Website regeneration complete! Total build time: 1.557s
+2023-07-18T18:18:30.725Z - info: [2:18:30 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\introduction\what\exercises.md
+2023-07-18T18:18:30.725Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:18:30.725Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:18:30.726Z - info: 1. schedule/week2/topics
+2023-07-18T18:18:31.742Z - info: No pages needed to be rebuilt
+2023-07-18T18:19:39.766Z - info: [2:19:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\classes\classLevelMembers\exercises.md
+2023-07-18T18:19:39.766Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:39.766Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:39.766Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:39.782Z - info: [2:19:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\reuse\cloudComputing\services\exercises.md
+2023-07-18T18:19:39.782Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:39.782Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:39.782Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:39.793Z - info: [2:19:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\errorHandling\defensiveProgramming\when\exercises.md
+2023-07-18T18:19:39.793Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:39.793Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:39.793Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:39.831Z - info: [2:19:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\reuse\apis\what\exercises.md
+2023-07-18T18:19:39.832Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:39.832Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:39.832Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:39.842Z - info: [2:19:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\designPatterns\more\combiningDesignPatterns\exercises.md
+2023-07-18T18:19:39.842Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:39.842Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:39.842Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:39.866Z - info: [2:19:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testingTypes\acceptanceTesting\acceptanceVsSystemTesting\exercises.md
+2023-07-18T18:19:39.866Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:39.866Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:39.867Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:39.880Z - info: [2:19:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\designPatterns\singleton\what\exercises.md
+2023-07-18T18:19:39.880Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:39.880Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:39.880Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:39.904Z - info: [2:19:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\dependencyInversionPrinciple\exercises.md
+2023-07-18T18:19:39.904Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:39.904Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:39.905Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:39.919Z - info: [2:19:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testingTypes\dogfooding\what\exercises.md
+2023-07-18T18:19:39.919Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:39.919Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:39.919Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:39.929Z - info: [2:19:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\activityDiagrams\basicNotations\linearPaths\exercises.md
+2023-07-18T18:19:39.929Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:39.929Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:39.930Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:39.943Z - info: [2:19:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testingTypes\exploratoryVsScriptedTesting\when\exercises.md
+2023-07-18T18:19:39.943Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:39.943Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:39.943Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:39.955Z - info: [2:19:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\designApproaches\topDownBottomUp\what\exercises.md
+2023-07-18T18:19:39.955Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:39.955Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:39.955Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:39.966Z - info: [2:19:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\errorHandling\exceptions\how\exercises.md
+2023-07-18T18:19:39.966Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:39.967Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:39.967Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:39.982Z - info: [2:19:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\documentation\guidelines\aimForComprehensibility\how\exercises.md
+2023-07-18T18:19:39.982Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:39.982Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:39.982Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:39.993Z - info: [2:19:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\designPatterns\introduction\what\exercises.md
+2023-07-18T18:19:39.993Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:39.993Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:39.993Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.011Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\combine\basic\exercises.md
+2023-07-18T18:19:40.011Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.011Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.011Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.023Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\errorHandling\assertions\when\exercises.md
+2023-07-18T18:19:40.023Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.024Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.024Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.039Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testCoverage\what\exercises.md
+2023-07-18T18:19:40.040Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.040Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.040Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.055Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\inheritance\what\exercises.md
+2023-07-18T18:19:40.055Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.055Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.055Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.071Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\aggregation\what\exercises.md
+2023-07-18T18:19:40.072Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.072Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.072Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.085Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\activityDiagrams\basicNotations\parallelPaths\exercises.md
+2023-07-18T18:19:40.086Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.086Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.086Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.099Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\lawOfDemeter\exercises.md
+2023-07-18T18:19:40.099Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.100Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.100Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.118Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\designPatterns\observer\what\exercises.md
+2023-07-18T18:19:40.118Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.119Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.119Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.131Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gatheringRequirements\brainstorming\exercises.md
+2023-07-18T18:19:40.131Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.131Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.131Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.152Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\objects\what\exercises.md
+2023-07-18T18:19:40.153Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.153Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.153Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.167Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\architecture\architecturalStyles\more\usingStyles\exercises.md
+2023-07-18T18:19:40.167Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.167Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.167Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.183Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\codeQuality\commentMinimally\intermediate\exercises.md
+2023-07-18T18:19:40.183Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.183Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.183Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.199Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\brooksLaw\exercises.md
+2023-07-18T18:19:40.200Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.200Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.200Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.214Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\designPatterns\abstractionOccurrence\what\exercises.md
+2023-07-18T18:19:40.215Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.215Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.215Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.234Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\processModels\introduction\agileModels\exercises.md
+2023-07-18T18:19:40.234Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.234Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.234Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.250Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\designApproaches\agileDesign\what\exercises.md
+2023-07-18T18:19:40.250Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.250Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.250Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.266Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\designPatterns\facade\what\exercises.md
+2023-07-18T18:19:40.266Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.266Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.266Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.281Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\objects\encapsulation\exercises.md
+2023-07-18T18:19:40.281Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.281Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.282Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.301Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\classes\what\exercises.md
+2023-07-18T18:19:40.301Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.301Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.301Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.315Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\errorHandling\logging\what\exercises.md
+2023-07-18T18:19:40.315Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.315Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.315Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.330Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\dependencyInjection\how\exercises.md
+2023-07-18T18:19:40.331Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.331Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.331Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.341Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\errorHandling\defensiveProgramming\referentialIntegrity\exercises.md
+2023-07-18T18:19:40.342Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.342Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.342Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.357Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\multiplicity\exercises.md
+2023-07-18T18:19:40.357Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.357Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.358Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.373Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\introduction\how\exercises.md
+2023-07-18T18:19:40.373Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.373Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.373Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.387Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\equivalencePartitions\basic\exercises.md
+2023-07-18T18:19:40.387Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.387Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.387Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.400Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\exercises.md
+2023-07-18T18:19:40.400Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.401Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.401Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.418Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\architecture\introduction\what\exercises.md
+2023-07-18T18:19:40.418Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.418Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.418Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.433Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testAutomation\testingGuis\exercises.md
+2023-07-18T18:19:40.433Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.433Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.433Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.449Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\liskovSubstitutionPrinciple\exercises.md
+2023-07-18T18:19:40.450Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.450Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.450Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.463Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\objectDiagrams\objects\exercises.md
+2023-07-18T18:19:40.463Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.463Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.463Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.477Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\qualityAssurance\formalVerification\what\exercises.md
+2023-07-18T18:19:40.477Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.477Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.478Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.500Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\tdd\what\exercises.md
+2023-07-18T18:19:40.501Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.501Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.501Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.511Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testingTypes\developerTesting\why\exercises.md
+2023-07-18T18:19:40.511Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.511Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.511Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.522Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\documentation\introduction\what\exercises.md
+2023-07-18T18:19:40.522Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.522Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.522Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.536Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\associationClasses\exercises.md
+2023-07-18T18:19:40.536Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.536Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.536Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.553Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\review\exercises.md
+2023-07-18T18:19:40.553Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.553Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.553Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.570Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\miscellaneous\objectVsClassDiagrams\exercises.md
+2023-07-18T18:19:40.570Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.570Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.571Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.587Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\errorHandling\defensiveProgramming\compulsoryAssociations\exercises.md
+2023-07-18T18:19:40.587Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.587Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.587Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.606Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\processModels\summary\recap\exercises.md
+2023-07-18T18:19:40.606Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.606Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.606Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.617Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\what\exercises.md
+2023-07-18T18:19:40.617Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.617Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.617Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.635Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\exercises.md
+2023-07-18T18:19:40.635Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.635Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.636Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.651Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\polymorphism\how\exercises.md
+2023-07-18T18:19:40.651Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.651Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.651Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.664Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\requirements\nonFunctionalRequirements\exercises.md
+2023-07-18T18:19:40.665Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.665Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.665Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.683Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\useCases\identifying\exercises.md
+2023-07-18T18:19:40.683Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.683Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.683Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.703Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\codeQuality\maximizeReadability\intermediate\exercises.md
+2023-07-18T18:19:40.703Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.703Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.703Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.721Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\integration\more\review\exercises.md
+2023-07-18T18:19:40.721Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.721Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.721Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.735Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\codeQuality\avoidShortcuts\basic\exercises.md
+2023-07-18T18:19:40.735Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.735Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.735Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.751Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testingTypes\exploratoryVsScriptedTesting\what\exercises.md
+2023-07-18T18:19:40.752Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.752Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.752Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.765Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\reuse\frameworks\frameworksVsLibraries\exercises.md
+2023-07-18T18:19:40.765Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.765Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.765Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.770Z - info: No pages needed to be rebuilt
+2023-07-18T18:19:40.786Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\designFundamentals\coupling\what\exercises.md
+2023-07-18T18:19:40.786Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.786Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.786Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.788Z - info: Assets built
+2023-07-18T18:19:40.796Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\ides\introduction\what\exercises.md
+2023-07-18T18:19:40.796Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.796Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.796Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.811Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\more\review\exercises.md
+2023-07-18T18:19:40.811Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.811Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.812Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.836Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\designFundamentals\cohesion\how\exercises.md
+2023-07-18T18:19:40.836Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.836Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.836Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.849Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\projectPlanning\workBreakdownStructure\exercises.md
+2023-07-18T18:19:40.849Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.849Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.849Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.864Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\introduction\what\exercises.md
+2023-07-18T18:19:40.864Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.864Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.865Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.878Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\reuse\frameworks\what\exercises.md
+2023-07-18T18:19:40.878Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.878Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.878Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.894Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\designFundamentals\coupling\how\exercises.md
+2023-07-18T18:19:40.894Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.894Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.894Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.903Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\separationOfConcernsPrinciple\exercises.md
+2023-07-18T18:19:40.903Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.903Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.903Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.919Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\userStories\details\exercises.md
+2023-07-18T18:19:40.919Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.919Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.919Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.933Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testingTypes\regressionTesting\what\exercises.md
+2023-07-18T18:19:40.933Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.933Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.933Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.950Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\qualityAssurance\introduction\validationVsVerification\exercises.md
+2023-07-18T18:19:40.950Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.950Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.951Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.966Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\projectPlanning\issueTrackers\exercises.md
+2023-07-18T18:19:40.966Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.966Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.966Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.979Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\exercises.md
+2023-07-18T18:19:40.979Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.980Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.980Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:40.993Z - info: [2:19:40 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\userStories\introduction\exercises.md
+2023-07-18T18:19:40.993Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:40.993Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:40.994Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:41.009Z - info: [2:19:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\summary\exercises\exercises.md
+2023-07-18T18:19:41.009Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:41.009Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:41.009Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:41.025Z - info: [2:19:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\useCases\details\exercises.md
+2023-07-18T18:19:41.026Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:41.026Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:41.026Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:41.039Z - info: [2:19:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\teamwork\teamStructures\exercises.md
+2023-07-18T18:19:41.039Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:41.039Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:41.039Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:41.056Z - info: [2:19:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\useCases\usage\exercises.md
+2023-07-18T18:19:41.056Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:41.056Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:41.056Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:41.069Z - info: [2:19:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testingTypes\unitTesting\stubs\exercises.md
+2023-07-18T18:19:41.069Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:41.069Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:41.069Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:41.081Z - info: [2:19:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\errorHandling\designByContract\what\exercises.md
+2023-07-18T18:19:41.082Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:41.082Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:41.082Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:41.097Z - info: [2:19:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\reuse\introduction\when\exercises.md
+2023-07-18T18:19:41.097Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:41.097Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:41.098Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:41.111Z - info: [2:19:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\designPatterns\more\otherTypesOfPatterns\exercises.md
+2023-07-18T18:19:41.111Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:41.111Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:41.111Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:41.124Z - info: [2:19:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\integration\approaches\bigBangVsIncremental\exercises.md
+2023-07-18T18:19:41.124Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:41.124Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:41.124Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:41.136Z - info: [2:19:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\codeQuality\followStandard\introduction\exercises.md
+2023-07-18T18:19:41.136Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:41.136Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:41.136Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:41.151Z - info: [2:19:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\integration\approaches\topDownVsBottomUp\exercises.md
+2023-07-18T18:19:41.151Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:41.151Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:41.152Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:41.167Z - info: [2:19:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\boundaryValueAnalysis\what\exercises.md
+2023-07-18T18:19:41.167Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:19:41.167Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:19:41.167Z - info: 1. schedule/week2/topics
+2023-07-18T18:19:41.802Z - info: Rebuilding 1 pages
+2023-07-18T18:19:43.516Z - info: Assets built
+2023-07-18T18:19:44.248Z - info: Site data built
+2023-07-18T18:19:44.248Z - info: Pages rebuilt
+2023-07-18T18:19:44.248Z - info: Website regeneration complete! Total build time: 2.447s
+2023-07-18T18:22:59.361Z - info: [2:22:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\exceptions\how\resources.md
+2023-07-18T18:22:59.361Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:22:59.361Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:22:59.361Z - info: 1. schedule/week2/topics
+2023-07-18T18:22:59.375Z - info: [2:22:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\reviewPRs\resources.md
+2023-07-18T18:22:59.375Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:22:59.375Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:22:59.375Z - info: 1. schedule/week2/topics
+2023-07-18T18:23:00.378Z - info: Assets built
+2023-07-18T18:24:03.507Z - info: [2:24:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\resources.md
+2023-07-18T18:24:03.508Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:24:03.508Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:24:03.508Z - info: 1. schedule/week2/topics
+2023-07-18T18:24:03.525Z - info: [2:24:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\userStories\usage\resources.md
+2023-07-18T18:24:03.526Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:24:03.526Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:24:03.526Z - info: 1. schedule/week2/topics
+2023-07-18T18:24:03.551Z - info: [2:24:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\streams\resources.md
+2023-07-18T18:24:03.552Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:24:03.552Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:24:03.552Z - info: 1. schedule/week2/topics
+2023-07-18T18:24:03.569Z - info: [2:24:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\revisionControl\forkingWorkflow\resources.md
+2023-07-18T18:24:03.569Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:24:03.569Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:24:03.569Z - info: 1. schedule/week2/topics
+2023-07-18T18:24:03.593Z - info: [2:24:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\architecture\architecturalStyles\serviceOriented\what\resources.md
+2023-07-18T18:24:03.593Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:24:03.593Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:24:03.594Z - info: 1. schedule/week2/topics
+2023-07-18T18:24:03.612Z - info: [2:24:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\architecture\architecturalStyles\more\moreStyles\resources.md
+2023-07-18T18:24:03.612Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:24:03.612Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:24:03.612Z - info: 1. schedule/week2/topics
+2023-07-18T18:24:03.629Z - info: [2:24:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\yagniPrinciple\resources.md
+2023-07-18T18:24:03.629Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:24:03.629Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:24:03.629Z - info: 1. schedule/week2/topics
+2023-07-18T18:24:03.644Z - info: [2:24:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\qualityAssurance\codeReviews\what\resources.md
+2023-07-18T18:24:03.644Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:24:03.644Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:24:03.644Z - info: 1. schedule/week2/topics
+2023-07-18T18:24:03.664Z - info: [2:24:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\errorHandling\logging\how\resources.md
+2023-07-18T18:24:03.665Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:24:03.665Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:24:03.665Z - info: 1. schedule/week2/topics
+2023-07-18T18:24:03.688Z - info: [2:24:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\revisionControl\featureBranchFlow\resources.md
+2023-07-18T18:24:03.688Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:24:03.688Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:24:03.688Z - info: 1. schedule/week2/topics
+2023-07-18T18:24:03.701Z - info: [2:24:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\integration\buildAutomation\what\resources.md
+2023-07-18T18:24:03.701Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:24:03.702Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:24:03.702Z - info: 1. schedule/week2/topics
+2023-07-18T18:24:03.719Z - info: [2:24:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testingTypes\unitTesting\stubs\resources.md
+2023-07-18T18:24:03.719Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:24:03.719Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:24:03.720Z - info: 1. schedule/week2/topics
+2023-07-18T18:24:03.735Z - info: [2:24:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\errorHandling\assertions\how\resources.md
+2023-07-18T18:24:03.735Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:24:03.736Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:24:03.736Z - info: 1. schedule/week2/topics
+2023-07-18T18:24:03.746Z - info: [2:24:03 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\junit\basic\resources.md
+2023-07-18T18:24:03.746Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:24:03.746Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:24:03.747Z - info: 1. schedule/week2/topics
+2023-07-18T18:24:04.517Z - info: No pages needed to be rebuilt
+2023-07-18T18:24:04.531Z - info: Assets built
+2023-07-18T18:28:11.786Z - info: [2:28:11 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testingTypes\unitTesting\what\resources.md
+2023-07-18T18:28:11.786Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:28:11.786Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:28:11.786Z - info: 1. schedule/week2/topics
+2023-07-18T18:28:11.803Z - info: [2:28:11 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\principles\singleResponsibilityPrinciple\resources.md
+2023-07-18T18:28:11.803Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:28:11.803Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:28:11.803Z - info: 1. schedule/week2/topics
+2023-07-18T18:28:11.820Z - info: [2:28:11 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testAutomation\what\resources.md
+2023-07-18T18:28:11.820Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:28:11.820Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:28:11.820Z - info: 1. schedule/week2/topics
+2023-07-18T18:28:11.830Z - info: [2:28:11 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\tdd\how\resources.md
+2023-07-18T18:28:11.831Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:28:11.831Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:28:11.831Z - info: 1. schedule/week2/topics
+2023-07-18T18:28:12.801Z - info: Rebuilding 1 pages
+2023-07-18T18:28:14.619Z - info: Assets built
+2023-07-18T18:28:14.823Z - info: Site data built
+2023-07-18T18:28:14.823Z - info: Pages rebuilt
+2023-07-18T18:28:14.823Z - info: Website regeneration complete! Total build time: 2.024s
+2023-07-18T18:28:49.902Z - info: [2:28:49 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testingTypes\unitTesting\what\resources.md
+2023-07-18T18:28:49.902Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:28:49.903Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:28:49.903Z - info: 1. schedule/week2/topics
+2023-07-18T18:28:49.924Z - info: [2:28:49 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testAutomation\what\resources.md
+2023-07-18T18:28:49.925Z - info: Synchronizing opened pages list before reload
+2023-07-18T18:28:49.925Z - info: Current opened pages, from most-to-least recent:
+2023-07-18T18:28:49.925Z - info: 1. schedule/week2/topics
+2023-07-18T18:28:50.919Z - info: Rebuilding 1 pages
+2023-07-18T18:28:52.927Z - info: Site data built
+2023-07-18T18:28:52.927Z - info: Pages rebuilt
+2023-07-18T18:28:52.927Z - info: Website regeneration complete! Total build time: 2.012s
+2023-07-18T18:34:19.305Z - info: Website generation started at 2:34:16 am
+2023-07-18T18:34:31.472Z - info: Building assets...

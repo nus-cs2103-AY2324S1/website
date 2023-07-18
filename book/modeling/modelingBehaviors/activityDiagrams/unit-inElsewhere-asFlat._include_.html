@@ -1,7 +1,7 @@
 <p><span class="dimmed"><strong><span>Design → Modelling → Modelling Behaviors
 </span></strong></span></p>
 <div id="title-and-body">
-<div><h4 id="activity-diagrams-basic"><span id="activity-diagrams-basic" class="anchor"></span><span>Activity diagrams - basic</span><a class="fa fa-anchor" href="#activity-diagrams-basic" onclick="event.stopPropagation()"></a></h4></div>
+<div><h4 id="activity-diagrams-basic"><span>Activity diagrams - basic</span><a class="fa fa-anchor" href="#activity-diagrams-basic" onclick="event.stopPropagation()"></a></h4></div>
 <div id="main">
 <div>
 <p><strong>Software projects often involve <em>workflows</em>.</strong> Workflows define the <tooltip><template #content>a connected sequence of steps</template></tooltip>flow in which a process or a set of tasks is executed.
@@ -17,7 +17,6 @@ Understanding such workflows is important for the success of the software projec
 <div>
   <div><panel expanded><template #header><p><span><span aria-hidden="true" class="fas fa-dumbbell"></span></span> Exercises</p></template>
   <div><div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Which sequences are not allowed?</p></template>
-<question>
 <p>Which of these sequences of actions is not allowed by the given activity diagram?</p>
 <ul class="contains-task-list">
 <li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> i. start a b c d end</li>
@@ -26,11 +25,10 @@ Understanding such workflows is important for the success of the software projec
 <li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> iv. start a b c d g c d end</li></ul>
 <pic src="/website/book/modeling/modelingBehaviors/activityDiagrams/images/sequence.png" height="190"></pic>
 <p></p>
-<template #answer><div class="algolia-no-index">
+<panel type="seamless" minimized class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Answer</p></template>
 <p>(iv)</p>
-<p>Explanation: <code class="line-numbers hljs inline no-lang" v-pre>-e-f-</code> and <code class="line-numbers hljs inline no-lang" v-pre>-g-</code> are parallel paths. Both paths should complete before the execution reaches <code class="line-numbers hljs inline no-lang" v-pre>c</code> again.</p></div></template></question></panel></div>
+<p>Explanation: <code class="line-numbers hljs inline no-lang" v-pre>-e-f-</code> and <code class="line-numbers hljs inline no-lang" v-pre>-g-</code> are parallel paths. Both paths should complete before the execution reaches <code class="line-numbers hljs inline no-lang" v-pre>c</code> again.</p></panel></panel></div>
 <div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span> Model the algorithms of calculating grades</p></template>
-<question>
 <p>(a) Draw an activity diagram to represent the following algorithm used for calculating the grade of a student.</p>
 <ol>
 <li>Read project score from keyboard</li>
@@ -49,9 +47,8 @@ Understanding such workflows is important for the success of the software projec
 <li>Repeat the whole grade calculation process for the number of times specified by the user.</li></ul>
 <panel type="seamless" minimized class="algolia-no-index"><template #header><p>Example Activity Diagram</p></template>
 <p><pic src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Activity_conducting.svg"><br>
-<sub>[<a href="https://en.wikipedia.org/wiki/Activity_diagram">source:wikipeida</a>]</sub></pic></p></panel></question></panel></div>
+<sub>[<a href="https://en.wikipedia.org/wiki/Activity_diagram">source:wikipeida</a>]</sub></pic></p></panel></panel></div>
 <div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span> Model workflow of a Burger shop</p></template>
-<question>
 <p>Draw an activity diagram to represent the following workflow a burger shop uses when processing an order by a customer.</p>
 <ul>
 <li>First, a cashier takes the order.</li>
@@ -60,4 +57,4 @@ Understanding such workflows is important for the success of the software projec
 <li>After paying, the customer collects the food after all three parts of the order are ready.</li></ul>
 <panel type="seamless" minimized class="algolia-no-index"><template #header><p>Example Activity Diagram</p></template>
 <p><pic src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Activity_conducting.svg"><br>
-<sub>[<a href="https://en.wikipedia.org/wiki/Activity_diagram">source:wikipeida</a>]</sub></pic></p></panel></question></panel></div></div></panel></div></div></div></div>
+<sub>[<a href="https://en.wikipedia.org/wiki/Activity_diagram">source:wikipeida</a>]</sub></pic></p></panel></panel></div></div></panel></div></div></div></div>
