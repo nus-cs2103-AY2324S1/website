@@ -12,13 +12,13 @@
 <box>
 <p><span><span aria-hidden="true" class="fas fa-cube"></span></span> In the code below, the <code class="line-numbers hljs inline no-lang" v-pre>Transaction</code> class is an association class that represents a transaction between a <code class="line-numbers hljs inline no-lang" v-pre>Person</code> who is the seller and another <code class="line-numbers hljs inline no-lang" v-pre>Person</code> who is the buyer.</p>
 <pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Transaction</span> </span>{
-</span><span>    
+</span><span>
 </span><span>    <span class="hljs-comment">//all fields are compulsory</span>
 </span><span>    Person seller;
 </span><span>    Person buyer;
 </span><span>    Date date;
 </span><span>    String receiptNumber;
-</span><span>    
+</span><span>
 </span><span>    Transaction(Person seller, Person buyer, Date date, String receiptNumber) {
 </span><span>        <span class="hljs-comment">//set fields</span>
 </span><span>    }
@@ -41,8 +41,9 @@
     </div>
     </button></div></pre></box></div>
 <div>
-  <div><h5 id="exercises"><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Exercises:<a class="fa fa-anchor" href="#exercises" onclick="event.stopPropagation()"></a></h5>
-  <div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Which are suitable as an Association Class?</p></template>
+<div><br>
+<h5 id="exercises"><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Exercises:<a class="fa fa-anchor" href="#exercises" onclick="event.stopPropagation()"></a></h5>
+<div><div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Which are suitable as an Association Class?</p></template>
 <p>Which of these are suitable as an Association Class? Note: the orange color class in the middle is the one being proposed as an association class.</p>
 <pic src="/website/book/oop/associations/associationClasses/images/exerciseDiagram.png" width="500"></pic>
 <p></p>
@@ -53,4 +54,4 @@
 <li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> d</li></ul>
 <panel type="seamless" minimized class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Answer</p></template>
 <p>(a)(b)<s>(c)</s>(d)</p>
-<p>Explanation: <code class="line-numbers hljs inline no-lang" v-pre>Mileage</code> is a property of the car, and not specifically about the association between the <code class="line-numbers hljs inline no-lang" v-pre>Driver</code> and the <code class="line-numbers hljs inline no-lang" v-pre>Car</code>. If <code class="line-numbers hljs inline no-lang" v-pre>Mileage</code> was defined as the total number of miles that car was driven by that driver, then it would be suitable as an association class.</p></panel></panel></div></div></div></div></div>
+<p>Explanation: <code class="line-numbers hljs inline no-lang" v-pre>Mileage</code> is a property of the car, and not specifically about the association between the <code class="line-numbers hljs inline no-lang" v-pre>Driver</code> and the <code class="line-numbers hljs inline no-lang" v-pre>Car</code>. If <code class="line-numbers hljs inline no-lang" v-pre>Mileage</code> was defined as the total number of miles that car was driven by that driver, then it would be suitable as an association class.</p></panel></panel></div></div></div></div></div></div>

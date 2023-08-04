@@ -1,0 +1,58 @@
+2023-07-23T07:17:50.988Z - info: Website generation (lazy) started at 3:17:45 pm
+2023-07-23T07:18:01.016Z - info: Building assets...
+2023-07-23T07:18:07.841Z - info: Assets built
+2023-07-23T07:18:07.842Z - info: Generating landing page...
+2023-07-23T07:18:08.591Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-07-23T07:18:09.539Z - info: Site data built
+2023-07-23T07:18:09.540Z - info: Website generation (lazy) complete! Total build time: 23.93s
+2023-07-23T07:18:10.325Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-07-23T07:18:10.326Z - info: Press CTRL+C to stop ...
+2023-07-23T07:23:23.755Z - info: [3:23:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md
+2023-07-23T07:23:23.756Z - info: Synchronizing opened pages list before reload
+2023-07-23T07:23:23.756Z - info: Current opened pages, from most-to-least recent:
+2023-07-23T07:23:23.757Z - info: 1. index
+2023-07-23T07:23:25.029Z - info: Rebuilding 1 pages
+2023-07-23T07:23:25.307Z - info: Site data built
+2023-07-23T07:23:25.307Z - info: Pages rebuilt
+2023-07-23T07:23:25.307Z - info: Website regeneration complete! Total build time: 0.279s
+2023-07-23T07:24:29.431Z - info: [3:24:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md
+2023-07-23T07:24:29.432Z - info: Synchronizing opened pages list before reload
+2023-07-23T07:24:29.432Z - info: Current opened pages, from most-to-least recent:
+2023-07-23T07:24:29.432Z - info: 1. index
+2023-07-23T07:24:30.550Z - info: Rebuilding 1 pages
+2023-07-23T07:24:30.763Z - info: Site data built
+2023-07-23T07:24:30.763Z - info: Pages rebuilt
+2023-07-23T07:24:30.763Z - info: Website regeneration complete! Total build time: 0.213s
+2023-07-23T07:24:48.569Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\courseOverview as some of its dependencies were changed since the last visit
+2023-07-23T07:24:48.951Z - info: Site data built
+2023-07-23T07:24:48.951Z - info: Lazy website regeneration complete! Total build time: 0.382s
+2023-07-23T07:26:13.778Z - info: [3:26:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md
+2023-07-23T07:26:13.779Z - info: Synchronizing opened pages list before reload
+2023-07-23T07:26:13.779Z - info: Current opened pages, from most-to-least recent:
+2023-07-23T07:26:13.780Z - info: 1. index
+2023-07-23T07:26:14.912Z - info: Rebuilding 1 pages
+2023-07-23T07:26:15.156Z - info: Site data built
+2023-07-23T07:26:15.156Z - info: Pages rebuilt
+2023-07-23T07:26:15.156Z - info: Website regeneration complete! Total build time: 0.245s
+2023-07-23T07:27:17.537Z - info: [3:27:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md
+2023-07-23T07:27:17.537Z - info: Synchronizing opened pages list before reload
+2023-07-23T07:27:17.538Z - info: Current opened pages, from most-to-least recent:
+2023-07-23T07:27:17.538Z - info: 1. index
+2023-07-23T07:27:18.665Z - info: Rebuilding 1 pages
+2023-07-23T07:27:18.902Z - info: Site data built
+2023-07-23T07:27:18.902Z - info: Pages rebuilt
+2023-07-23T07:27:18.902Z - info: Website regeneration complete! Total build time: 0.238s
+2023-07-23T07:27:25.172Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2023-07-23T07:27:25.360Z - info: Site data built
+2023-07-23T07:27:25.360Z - info: Lazy website regeneration complete! Total build time: 0.188s
+2023-07-23T07:27:36.824Z - info: [3:27:36 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md
+2023-07-23T07:27:36.824Z - info: Synchronizing opened pages list before reload
+2023-07-23T07:27:36.824Z - info: Current opened pages, from most-to-least recent:
+2023-07-23T07:27:36.824Z - info: 1. se-book-adapted/index
+2023-07-23T07:27:38.028Z - info: Rebuilding 1 pages
+2023-07-23T07:27:38.116Z - info: Site data built
+2023-07-23T07:27:38.117Z - info: Pages rebuilt
+2023-07-23T07:27:38.117Z - info: Website regeneration complete! Total build time: 0.09s
+2023-07-23T07:27:41.087Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\index as some of its dependencies were changed since the last visit
+2023-07-23T07:27:41.369Z - info: Site data built
+2023-07-23T07:27:41.369Z - info: Lazy website regeneration complete! Total build time: 0.283s

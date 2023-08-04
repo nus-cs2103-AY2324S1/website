@@ -18,12 +18,13 @@
 <blockquote>
 <p><span aria-hidden="true" class="fas fa-quote-left"></span> Gather together the things that change for the same reasons. Separate those things that change for different reasons. <span aria-hidden="true" class="fas fa-quote-right"></span> <sub>―- <em>Agile Software Development, Principles, Patterns, and Practices</em> by Robert C. Martin</sub></p></blockquote></div>
 <div>
-<div><h5 id="resources"><span><span aria-hidden="true" class="fas fa-paperclip"></span></span> Resources:<a class="fa fa-anchor" href="#resources" onclick="event.stopPropagation()"></a></h5>
-<ul>
+<div><br>
+<h5 id="resources"><span><span aria-hidden="true" class="fas fa-paperclip"></span></span> Resources:<a class="fa fa-anchor" href="#resources" onclick="event.stopPropagation()"></a></h5>
+<div><ul>
 <li><a href="http://www.oodesign.com/single-responsibility-principle.html">An explanation of the SRP</a> from www.oodesign.com</li>
 <li><a href="http://code.tutsplus.com/tutorials/solid-part-1-the-single-responsibility-principle--net-36074">Another explanation (more detailed)</a>
 by Patkos Csaba</li>
-<li><a href="https://drive.google.com/file/d/0ByOwmqah_nuGNHEtcU5OekdDMkk/view">A book chapter on SRP</a> written by the father of the principle itself, Robert C Martin</li></ul></div></div></div></div></div></panel>
+<li><a href="https://drive.google.com/file/d/0ByOwmqah_nuGNHEtcU5OekdDMkk/view">A book chapter on SRP</a> written by the father of the principle itself, Robert C Martin</li></ul></div></div></div></div></div></div></panel>
 <panel type="seamless" class="algolia-no-index"><template #header><p><strong>O</strong>pen-Closed Principle (OCP)</p></template>
   <div><p><span class="dimmed"><strong><span>Principles →</span></strong></span></p>
 <div id="title-and-body">
@@ -60,8 +61,9 @@ by Patkos Csaba</li>
     </div>
     </button></div></pre></box></div>
 <div>
-<div><h5 id="exercises"><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Exercises:<a class="fa fa-anchor" href="#exercises" onclick="event.stopPropagation()"></a></h5>
-  <div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Meaning of OCP</p></template>
+<div><br>
+<h5 id="exercises"><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Exercises:<a class="fa fa-anchor" href="#exercises" onclick="event.stopPropagation()"></a></h5>
+<div><div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Meaning of OCP</p></template>
 <p>Which of these is closest to the meaning of the open-closed principle?</p>
 <ul radio-group="6906e" class="radio-list">
 <li class="radio-list-item"><label><input class="radio-list-input" name="6906e" type="radio"> a. We should be able to change a software module’s behavior without modifying its code.</label></li>
@@ -70,7 +72,7 @@ by Patkos Csaba</li>
 <li class="radio-list-item"><label><input class="radio-list-input" name="6906e" type="radio"> d. Open source software rocks. Closed source software sucks.</label></li></ul>
 <panel type="seamless" minimized class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Answer</p></template>
 <p>(a)</p>
-<p>Explanation: Please refer the handout for the definition of OCP.</p></panel></panel></div></div></div></div></div></div></panel>
+<p>Explanation: Please refer the handout for the definition of OCP.</p></panel></panel></div></div></div></div></div></div></div></panel>
 <panel type="seamless" class="algolia-no-index"><template #header><p><strong>L</strong>iskov Substitution Principle (LSP)</p></template>
   <div><p><span class="dimmed"><strong><span>Principles →</span></strong></span></p>
 <div id="title-and-body">
@@ -203,15 +205,16 @@ by Patkos Csaba</li>
     </div>
     </button></div></pre><p>This code will fail if it is called as <code class="line-numbers hljs inline no-lang" v-pre>makeSameSize(new Rectangle(12, 8), new Square(4, 4))</code>. That is, the <code class="line-numbers hljs inline no-lang" v-pre>Square</code> class is not substitutable for the <code class="line-numbers hljs inline no-lang" v-pre>Rectangle</code> class.</p></panel></box></div>
 <div>
-  <div><h5 id="exercises-2"><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Exercises:<a class="fa fa-anchor" href="#exercises-2" onclick="event.stopPropagation()"></a></h5>
-  <div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Is this LSP?</p></template>
+<div><br>
+<h5 id="exercises-2"><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Exercises:<a class="fa fa-anchor" href="#exercises-2" onclick="event.stopPropagation()"></a></h5>
+<div><div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Is this LSP?</p></template>
 <p>If a subclass imposes more restrictive conditions than its parent class, it violates Liskov Substitution Principle.</p>
 <ul radio-group="55ada" class="radio-list">
 <li class="radio-list-item"><label><input class="radio-list-input" name="55ada" type="radio"> True</label></li>
 <li class="radio-list-item"><label><input class="radio-list-input" name="55ada" type="radio"> False</label></li></ul>
 <panel type="seamless" minimized class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Answer</p></template>
 <p>True.</p>
-<p>Explanation: If the subclass is more restrictive than the parent class, code that worked with the parent class may not work with the child class. Hence, the substitutability does not exist and LSP is violated.</p></panel></panel></div></div></div></div></div></div></panel>
+<p>Explanation: If the subclass is more restrictive than the parent class, code that worked with the parent class may not work with the child class. Hence, the substitutability does not exist and LSP is violated.</p></panel></panel></div></div></div></div></div></div></div></panel>
 <panel type="seamless" class="algolia-no-index"><template #header><p><strong>I</strong>nterface Segregation Principle (ISP)</p></template>
   <div><p><span class="dimmed"><strong><span>Principles →</span></strong></span></p>
 <div id="title-and-body">
@@ -288,8 +291,9 @@ by Patkos Csaba</li>
 <p>In design (a), the higher level class <code class="line-numbers hljs inline no-lang" v-pre>Payroll</code> depends on the lower level class <code class="line-numbers hljs inline no-lang" v-pre>Employee</code>, which is a violation of DIP. In design (b), both <code class="line-numbers hljs inline no-lang" v-pre>Payroll</code> and <code class="line-numbers hljs inline no-lang" v-pre>Employee</code> depend on the <code class="line-numbers hljs inline no-lang" v-pre>Payee</code> interface (note that inheritance is a dependency).</p>
 <p>Design (b) is more flexible (and less coupled) because now the <code class="line-numbers hljs inline no-lang" v-pre>Payroll</code> class need not change when the <code class="line-numbers hljs inline no-lang" v-pre>Employee</code> class changes.</p></box></div>
 <div>
-<div><h5 id="exercises-3"><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Exercises:<a class="fa fa-anchor" href="#exercises-3" onclick="event.stopPropagation()"></a></h5>
-  <div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Which of these statements is true about the Dependency Inversion Principle?</p></template>
+<div><br>
+<h5 id="exercises-3"><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Exercises:<a class="fa fa-anchor" href="#exercises-3" onclick="event.stopPropagation()"></a></h5>
+<div><div><panel class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-question-sign"></span></span><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Which of these statements is true about the Dependency Inversion Principle?</p></template>
 <p>Which of these statements is true about the Dependency Inversion Principle?</p>
 <ul class="contains-task-list">
 <li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> a. It can complicate the design/implementation by introducing extra abstractions, but it has some benefits.</li>
@@ -298,5 +302,5 @@ by Patkos Csaba</li>
 <li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> d. It advocates making higher level classes depend on lower level classes.</li></ul>
 <panel type="seamless" minimized class="algolia-no-index"><template #header><p><span><span aria-hidden="true" class="glyphicon glyphicon-ok-sign"></span></span> Answer</p></template>
 <p>a</p>
-<p>Explanation: Replacing dependencies with mocks is Dependency Injection, not DIP. DIP does not reduce dependencies, rather, it changes the direction of dependencies. Yes, it can introduce extra abstractions but often the benefit can outweigh the extra complications.</p></panel></panel></div></div></div></div></div></div></panel></div>
+<p>Explanation: Replacing dependencies with mocks is Dependency Injection, not DIP. DIP does not reduce dependencies, rather, it changes the direction of dependencies. Yes, it can introduce extra abstractions but often the benefit can outweigh the extra complications.</p></panel></panel></div></div></div></div></div></div></div></panel></div>
 <div></div></div></div>
