@@ -23,6 +23,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"how-java-works"}},[_c('span',[
 with(this){return _c('blockquote',[_c('p',[_c('strong',[_v("Java technology is both a "),_c('em',[_v("programming language")]),_v(" and a "),_c('em',[_v("platform")]),_v(".")]),_v(" The Java programming language is a high-level object-oriented language that has a particular syntax and style. A Java platform is a particular environment in which Java programming language applications run. "),_c('small',[_v("--"),_c('a',{attrs:{"href":"https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html"}},[_v("Oracle")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sat, 5 Aug 2023, 2:02:28 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sat, 5 Aug 2023, 17:33:16 GMT+8]")])])])}
 }];
   
