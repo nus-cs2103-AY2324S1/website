@@ -184,3 +184,175 @@ Missing reference in C:\repos\nus-cs2103\cs2103-website-base\admin\admin-tasks-f
 2023-08-07T06:18:07.995Z - info: Lazy website regeneration complete! Total build time: 0.191s
 2023-08-07T06:19:00.908Z - info: Website generation started at 2:18:58 pm
 2023-08-07T06:19:12.233Z - info: Building assets...
+2023-08-07T06:19:19.283Z - info: Assets built
+2023-08-07T06:19:19.284Z - info: Generating pages...
+2023-08-07T06:19:33.382Z - debug:  
+2023-08-07T06:19:33.389Z - debug:  
+2023-08-07T06:19:33.390Z - debug:  
+2023-08-07T06:19:33.390Z - debug:  
+2023-08-07T06:19:33.391Z - debug:  
+2023-08-07T06:19:33.392Z - debug:  
+2023-08-07T06:19:36.501Z - debug:  
+2023-08-07T06:19:36.501Z - debug:  
+2023-08-07T06:19:36.502Z - debug:  
+2023-08-07T06:19:36.502Z - debug:  
+2023-08-07T06:19:36.502Z - debug:  
+2023-08-07T06:19:36.513Z - debug:  
+2023-08-07T06:19:36.513Z - debug:  
+2023-08-07T06:19:36.513Z - debug:  
+2023-08-07T06:19:36.514Z - debug:  
+2023-08-07T06:19:36.514Z - debug:  
+2023-08-07T06:21:39.227Z - debug:  
+2023-08-07T06:21:53.348Z - debug:  
+2023-08-07T06:21:53.348Z - debug:  
+2023-08-07T06:22:00.019Z - info: Pages built
+2023-08-07T06:22:00.974Z - info: Site data built
+2023-08-07T06:22:00.974Z - info: Website generation complete! Total build time: 182.034s
+2023-08-07T06:22:00.974Z - info: Build success!
+2023-08-07T06:23:29.370Z - error: uncaughtException: fatal: unable to access 'https://github.com/nus-cs2103-AY2324S1/website.git/': The requested URL returned error: 503
+ date=Mon Aug 07 2023 14:23:29 GMT+0800 (Singapore Standard Time), pid=1956, uid=null, gid=null, cwd=C:\repos\nus-cs2103\cs2103-website-base, execPath=C:\Program Files\nodejs\node.exe, version=v16.14.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\index.js, deploy], rss=384995328, heapTotal=392708096, heapUsed=285408968, external=1188096, arrayBuffers=41652, loadavg=[0, 0, 0], uptime=9215
+ProcessError: fatal: unable to access 'https://github.com/nus-cs2103-AY2324S1/website.git/': The requested URL returned error: 503
+
+    at ChildProcess.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\gh-pages\lib\git.js:42:16)
+    at ChildProcess.emit (node:events:520:28)
+    at maybeClose (node:internal/child_process:1092:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:302:5)
+2023-08-07T06:27:55.634Z - info: The website has been deployed at: https://nus-cs2103-ay2324s1.github.io/website
+2023-08-07T07:01:37.972Z - info: Website generation (lazy) started at 3:01:33 pm
+2023-08-07T07:01:47.304Z - info: Building assets...
+2023-08-07T07:01:53.144Z - info: Assets built
+2023-08-07T07:01:53.145Z - info: Generating landing page...
+2023-08-07T07:01:53.827Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-08-07T07:01:54.652Z - info: Site data built
+2023-08-07T07:01:54.652Z - info: Website generation (lazy) complete! Total build time: 20.72s
+2023-08-07T07:01:55.388Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-08-07T07:01:55.388Z - info: Press CTRL+C to stop ...
+2023-08-07T07:01:57.082Z - info: [3:01:57 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\macros.njk
+2023-08-07T07:01:57.082Z - info: Synchronizing opened pages list before reload
+2023-08-07T07:01:57.083Z - info: No pages are currently opened
+2023-08-07T07:01:58.854Z - info: No pages needed to be rebuilt
+2023-08-07T07:02:31.241Z - info: [3:02:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2023-08-07T07:02:31.243Z - info: Synchronizing opened pages list before reload
+2023-08-07T07:02:31.243Z - info: Current opened pages, from most-to-least recent:
+2023-08-07T07:02:31.244Z - info: 1. index
+2023-08-07T07:02:32.374Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2023-08-07T07:02:32.378Z - info: Rebuilding 1 pages
+2023-08-07T07:02:32.757Z - info: Site data built
+2023-08-07T07:02:32.757Z - info: Pages rebuilt
+2023-08-07T07:02:32.757Z - info: Website regeneration complete! Total build time: 0.496s
+2023-08-07T07:02:38.013Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\index as some of its dependencies were changed since the last visit
+2023-08-07T07:02:38.989Z - info: Site data built
+2023-08-07T07:02:38.989Z - info: Lazy website regeneration complete! Total build time: 0.976s
+2023-08-07T07:02:42.929Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\admin as some of its dependencies were changed since the last visit
+2023-08-07T07:02:45.311Z - info: Site data built
+2023-08-07T07:02:45.312Z - info: Lazy website regeneration complete! Total build time: 2.382s
+2023-08-07T07:02:47.327Z - debug:  
+2023-08-07T07:02:49.929Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\participation as some of its dependencies were changed since the last visit
+2023-08-07T07:02:50.134Z - info: Site data built
+2023-08-07T07:02:50.135Z - info: Lazy website regeneration complete! Total build time: 0.206s
+2023-08-07T07:02:55.884Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\weeklySchedule as some of its dependencies were changed since the last visit
+2023-08-07T07:02:56.193Z - info: Site data built
+2023-08-07T07:02:56.193Z - info: Lazy website regeneration complete! Total build time: 0.309s
+2023-08-07T07:04:01.573Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\topics as some of its dependencies were changed since the last visit
+2023-08-07T07:04:05.741Z - info: Site data built
+2023-08-07T07:04:05.742Z - info: Lazy website regeneration complete! Total build time: 4.169s
+2023-08-07T07:04:06.434Z - debug:  
+2023-08-07T07:14:44.612Z - info: [3:14:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\weeklyAdminTasks-fragment.md
+2023-08-07T07:14:44.612Z - info: Synchronizing opened pages list before reload
+2023-08-07T07:14:44.613Z - info: Current opened pages, from most-to-least recent:
+2023-08-07T07:14:44.613Z - info: 1. schedule/week1/admin
+2023-08-07T07:14:44.646Z - info: [3:14:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\admin-tasks-fragment.md
+2023-08-07T07:14:44.646Z - info: Synchronizing opened pages list before reload
+2023-08-07T07:14:44.646Z - info: Current opened pages, from most-to-least recent:
+2023-08-07T07:14:44.646Z - info: 1. schedule/week1/admin
+2023-08-07T07:14:45.628Z - info: Rebuilding 1 pages
+2023-08-07T07:14:46.437Z - error:  Error: No such segment '#desc_follow_the_git_learning_trail' in file: C:\repos\nus-cs2103\cs2103-website-base\admin\admin-tasks-fragment.md
+Missing reference in C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\admin.md
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:204:27)
+    at NodeProcessor.processNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:171:71)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:322:24)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:325:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:325:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:325:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:325:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:349:42
+2023-08-07T07:14:47.598Z - info: Site data built
+2023-08-07T07:14:47.598Z - info: Pages rebuilt
+2023-08-07T07:14:47.599Z - info: Website regeneration complete! Total build time: 1.974s
+2023-08-07T07:14:49.060Z - debug:  
+2023-08-07T07:15:17.577Z - info: [3:15:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\admin-tasks-fragment.md
+2023-08-07T07:15:17.578Z - info: Synchronizing opened pages list before reload
+2023-08-07T07:15:17.578Z - info: Current opened pages, from most-to-least recent:
+2023-08-07T07:15:17.579Z - info: 1. schedule/week1/admin
+2023-08-07T07:15:18.588Z - info: Rebuilding 1 pages
+2023-08-07T07:15:20.426Z - info: Site data built
+2023-08-07T07:15:20.426Z - info: Pages rebuilt
+2023-08-07T07:15:20.426Z - info: Website regeneration complete! Total build time: 1.839s
+2023-08-07T07:15:21.305Z - debug:  
+2023-08-07T07:16:50.711Z - info: [3:16:50 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\admin-tasks-fragment.md
+2023-08-07T07:16:50.713Z - info: Synchronizing opened pages list before reload
+2023-08-07T07:16:50.713Z - info: Current opened pages, from most-to-least recent:
+2023-08-07T07:16:50.713Z - info: 1. schedule/week1/admin
+2023-08-07T07:16:51.725Z - info: Rebuilding 1 pages
+2023-08-07T07:16:53.862Z - info: Site data built
+2023-08-07T07:16:53.862Z - info: Pages rebuilt
+2023-08-07T07:16:53.862Z - info: Website regeneration complete! Total build time: 2.139s
+2023-08-07T07:16:54.793Z - debug:  
+2023-08-07T07:17:03.831Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\git-trail\index as some of its dependencies were changed since the last visit
+2023-08-07T07:17:05.191Z - info: Site data built
+2023-08-07T07:17:05.191Z - info: Lazy website regeneration complete! Total build time: 1.361s
+2023-08-07T07:17:16.928Z - info: [3:17:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\admin-tasks-fragment.md
+2023-08-07T07:17:16.928Z - info: Synchronizing opened pages list before reload
+2023-08-07T07:17:16.929Z - info: Current opened pages, from most-to-least recent:
+2023-08-07T07:17:16.929Z - info: 1. git-trail/index
+2023-08-07T07:17:17.947Z - info: No pages needed to be rebuilt
+2023-08-07T07:17:21.174Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\admin as some of its dependencies were changed since the last visit
+2023-08-07T07:17:23.437Z - info: Site data built
+2023-08-07T07:17:23.438Z - info: Lazy website regeneration complete! Total build time: 2.264s
+2023-08-07T07:17:24.437Z - debug:  
+2023-08-07T07:17:47.556Z - info: [3:17:47 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\admin-tasks-fragment.md
+2023-08-07T07:17:47.556Z - info: Synchronizing opened pages list before reload
+2023-08-07T07:17:47.557Z - info: Current opened pages, from most-to-least recent:
+2023-08-07T07:17:47.557Z - info: 1. schedule/week1/admin
+2023-08-07T07:17:48.570Z - info: Rebuilding 1 pages
+2023-08-07T07:17:50.413Z - info: Site data built
+2023-08-07T07:17:50.414Z - info: Pages rebuilt
+2023-08-07T07:17:50.414Z - info: Website regeneration complete! Total build time: 1.845s
+2023-08-07T07:17:51.323Z - debug:  
+2023-08-07T07:18:17.023Z - info: [3:18:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\admin-tasks-fragment.md
+2023-08-07T07:18:17.024Z - info: Synchronizing opened pages list before reload
+2023-08-07T07:18:17.024Z - info: Current opened pages, from most-to-least recent:
+2023-08-07T07:18:17.024Z - info: 1. schedule/week1/admin
+2023-08-07T07:18:18.034Z - info: Rebuilding 1 pages
+2023-08-07T07:18:20.398Z - info: Site data built
+2023-08-07T07:18:20.399Z - info: Pages rebuilt
+2023-08-07T07:18:20.399Z - info: Website regeneration complete! Total build time: 2.366s
+2023-08-07T07:18:21.292Z - debug:  
+2023-08-07T07:19:12.591Z - info: [3:19:12 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\admin-tasks-fragment.md
+2023-08-07T07:19:12.592Z - info: Synchronizing opened pages list before reload
+2023-08-07T07:19:12.592Z - info: Current opened pages, from most-to-least recent:
+2023-08-07T07:19:12.592Z - info: 1. schedule/week1/admin
+2023-08-07T07:19:13.608Z - info: Rebuilding 1 pages
+2023-08-07T07:19:15.450Z - info: Site data built
+2023-08-07T07:19:15.450Z - info: Pages rebuilt
+2023-08-07T07:19:15.451Z - info: Website regeneration complete! Total build time: 1.845s
+2023-08-07T07:19:16.322Z - debug:  
+2023-08-07T07:19:51.765Z - info: [3:19:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\admin-tasks-fragment.md
+2023-08-07T07:19:51.765Z - info: Synchronizing opened pages list before reload
+2023-08-07T07:19:51.765Z - info: Current opened pages, from most-to-least recent:
+2023-08-07T07:19:51.765Z - info: 1. schedule/week1/admin
+2023-08-07T07:19:52.771Z - info: Rebuilding 1 pages
+2023-08-07T07:19:54.743Z - info: Site data built
+2023-08-07T07:19:54.743Z - info: Pages rebuilt
+2023-08-07T07:19:54.743Z - info: Website regeneration complete! Total build time: 1.973s
+2023-08-07T07:19:55.729Z - debug:  
+2023-08-07T07:28:48.739Z - info: Website generation started at 3:28:47 pm
+2023-08-07T07:28:58.150Z - info: Building assets...
