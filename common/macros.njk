@@ -46,7 +46,7 @@
 {% set popup_url = "" %}
 {% set status = 'minimized' %}
 {% if '#main' in source or '#' not in source %}
-  {% set popup_url %}popup-url="{{ source | replace(".md", ".html") }}"{% endset %}
+  {% set popup_url %}popup-url="{{ baseUrl }}/{{ source | replace(".md", ".html") }}"{% endset %}
   {% set status = 'collapsed' %}
 {% endif %}
 <panel  type="{{ panel_type }}" {{ popup_url }} {{ status }} >
