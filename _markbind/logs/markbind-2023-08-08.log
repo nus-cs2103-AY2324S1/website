@@ -1,0 +1,57 @@
+2023-08-08T05:37:09.312Z - info: Website generation (lazy) started at 1:37:03 pm
+2023-08-08T05:37:21.315Z - info: Building assets...
+2023-08-08T05:37:29.523Z - info: Assets built
+2023-08-08T05:37:29.524Z - info: Generating landing page...
+2023-08-08T05:37:30.308Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-08-08T05:37:31.345Z - info: Site data built
+2023-08-08T05:37:31.346Z - info: Website generation (lazy) complete! Total build time: 28.124s
+2023-08-08T05:37:32.253Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-08-08T05:37:32.254Z - info: Press CTRL+C to stop ...
+2023-08-08T06:02:49.802Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\index as some of its dependencies were changed since the last visit
+2023-08-08T06:02:51.449Z - info: Site data built
+2023-08-08T06:02:51.449Z - info: Lazy website regeneration complete! Total build time: 1.653s
+2023-08-08T06:02:55.916Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\admin as some of its dependencies were changed since the last visit
+2023-08-08T06:02:56.963Z - info: Site data built
+2023-08-08T06:02:56.964Z - info: Lazy website regeneration complete! Total build time: 1.048s
+2023-08-08T06:03:39.642Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-grading as some of its dependencies were changed since the last visit
+2023-08-08T06:03:40.426Z - info: Site data built
+2023-08-08T06:03:40.427Z - info: Lazy website regeneration complete! Total build time: 0.785s
+2023-08-08T06:06:44.897Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\topics as some of its dependencies were changed since the last visit
+2023-08-08T06:06:50.733Z - info: Site data built
+2023-08-08T06:06:50.733Z - info: Lazy website regeneration complete! Total build time: 5.837s
+2023-08-08T07:39:00.892Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\index as some of its dependencies were changed since the last visit
+2023-08-08T07:39:02.045Z - info: Site data built
+2023-08-08T07:39:02.045Z - info: Lazy website regeneration complete! Total build time: 1.154s
+2023-08-08T07:39:05.783Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\admin as some of its dependencies were changed since the last visit
+2023-08-08T07:39:08.040Z - info: Site data built
+2023-08-08T07:39:08.041Z - info: Lazy website regeneration complete! Total build time: 2.258s
+2023-08-08T07:39:09.791Z - debug:  
+2023-08-08T07:39:14.906Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\lectures as some of its dependencies were changed since the last visit
+2023-08-08T07:39:15.543Z - info: Site data built
+2023-08-08T07:39:15.543Z - info: Lazy website regeneration complete! Total build time: 0.637s
+2023-08-08T07:39:16.167Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\lectures as some of its dependencies were changed since the last visit
+2023-08-08T07:39:16.265Z - info: Site data built
+2023-08-08T07:39:16.265Z - info: Lazy website regeneration complete! Total build time: 0.098s
+2023-08-08T07:39:24.211Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-teams as some of its dependencies were changed since the last visit
+2023-08-08T07:39:24.401Z - info: Site data built
+2023-08-08T07:39:24.401Z - info: Lazy website regeneration complete! Total build time: 0.19s
+2023-08-08T07:40:16.012Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\admin as some of its dependencies were changed since the last visit
+2023-08-08T07:40:16.967Z - info: Site data built
+2023-08-08T07:40:16.968Z - info: Lazy website regeneration complete! Total build time: 0.957s
+2023-08-08T07:40:21.999Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\appendixA-principles as some of its dependencies were changed since the last visit
+2023-08-08T07:40:22.978Z - info: Site data built
+2023-08-08T07:40:22.979Z - info: Lazy website regeneration complete! Total build time: 0.98s
+2023-08-08T07:47:35.329Z - info: [3:47:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\macros.njk
+2023-08-08T07:47:35.330Z - info: Synchronizing opened pages list before reload
+2023-08-08T07:47:35.331Z - info: Current opened pages, from most-to-least recent:
+2023-08-08T07:47:35.331Z - info: 1. ../admin/appendixA-principles
+2023-08-08T07:47:35.331Z - info: 2. schedule/week2/admin
+2023-08-08T07:47:36.568Z - info: Rebuilding 1 pages
+2023-08-08T07:47:37.217Z - info: Site data built
+2023-08-08T07:47:37.217Z - info: Pages rebuilt
+2023-08-08T07:47:37.218Z - info: Website regeneration complete! Total build time: 0.65s
+2023-08-08T07:47:38.320Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\appendixA-principles as some of its dependencies were changed since the last visit
+2023-08-08T07:47:38.458Z - info: Site data built
+2023-08-08T07:47:38.459Z - info: Lazy website regeneration complete! Total build time: 0.139s
+2023-08-08T07:48:53.708Z - info: Website generation started at 3:48:52 pm
+2023-08-08T07:49:03.725Z - info: Building assets...
