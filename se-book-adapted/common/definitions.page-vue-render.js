@@ -146,7 +146,7 @@ with(this){return _c('div',[_c('p',[_c('strong',[_v("Software engineering")]),_v
 with(this){return _c('div',[_c('p',[_c('strong',[_v("Stage")]),_v(" (verb): Instructing Git to prepare a file for committing.")])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('p',[_c('strong',[_v("Stakeholder")]),_v(": A party that is potentially affected by the software project. e.g. users, sponsors, developers, interest groups, government agencies, etc.")])])}
+with(this){return _c('div',[_c('p',[_c('strong',[_v("Stakeholder")]),_v(": An individual or an organization that is involved or potentially affected by the software project. e.g. users, sponsors, developers, interest groups, government agencies, etc.")])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('p',[_c('strong',[_v("Static analysis")]),_v(": Static analysis is the analysis of code without actually executing the code.")])])}
@@ -194,6 +194,6 @@ with(this){return _c('h2',{attrs:{"id":"y"}},[_v("Y"),_c('a',{staticClass:"fa fa
 with(this){return _c('div',[_c('p',[_c('strong',[_v("YAGNI (You Aren't Gonna Need It!) Principle")]),_v(": Do not add code simply because ‘you might need it in the future’.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Tue, 8 Aug 2023, 15:49:09 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Tue, 8 Aug 2023, 20:31:47 GMT+8]")])])])}
 }];
   
