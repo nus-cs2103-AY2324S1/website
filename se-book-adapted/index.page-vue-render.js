@@ -44,6 +44,6 @@ with(this){return _c('ul',[_c('li',[_c('p',[_c('a',{attrs:{"href":"/website/se-b
 with(this){return _c('ul',[_c('li',[_c('p',[_c('a',{attrs:{"href":"/website/se-book-adapted/chapters/cppToJava.html"}},[_v("C++ to Java")]),_v(" "),_c('a',{attrs:{"href":"/website/se-book-adapted/chapters-printable/cppToJava-printable.html"}},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-print",attrs:{"aria-hidden":"true"}})])])])]),_v(" "),_c('li',[_c('p',[_c('a',{attrs:{"href":"/website/se-book-adapted/projectDuke/index.html"}},[_v("Project Duke")])])]),_v(" "),_c('li',[_c('p',[_c('a',{attrs:{"href":"/website/se-book-adapted/common/exercises.html"}},[_v("Combined Exercises")])])]),_v(" "),_c('li',[_c('p',[_c('a',{attrs:{"href":"/website/se-book-adapted/common/definitions.html"}},[_v("List of Definitions")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sat, 12 Aug 2023, 1:11:23 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sat, 12 Aug 2023, 1:49:39 GMT+8]")])])])}
 }];
   

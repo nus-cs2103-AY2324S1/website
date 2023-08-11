@@ -35,6 +35,6 @@ with(this){return _c('p',[_c('strong',[_v("Solution")])])}
 with(this){return _c('p',[_v("The essential element of this pattern is to have a general "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("<<Command>>")]),_v(" object that can be passed around, stored, executed, etc without knowing the type of command (i.e. via polymorphism).")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sat, 12 Aug 2023, 1:11:23 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sat, 12 Aug 2023, 1:49:39 GMT+8]")])])])}
 }];
   

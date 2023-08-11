@@ -20,6 +20,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"what"}},[_c('span',[_v("What")
 with(this){return _c('p',[_c('strong',[_v("A defensive programmer codes under the assumption \"if you leave room for things to go wrong, they "),_c('em',[_v("will")]),_v(" go wrong\".")]),_v(" Therefore, a defensive programmer proactively tries to eliminate any room for things to go wrong.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sat, 12 Aug 2023, 1:11:23 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sat, 12 Aug 2023, 1:49:39 GMT+8]")])])])}
 }];
   
