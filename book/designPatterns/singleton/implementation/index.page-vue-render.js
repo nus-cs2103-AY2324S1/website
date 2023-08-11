@@ -26,15 +26,15 @@ with(this){return _c('ul',[_c('li',[_v("The constructor is "),_c('code',{pre:tru
 with(this){return _c('p',[_v("If "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("Logic")]),_v(" was not a Singleton class, an object is created like this:")])}
 },function anonymous(
 ) {
-with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs java"}},[_c('span',[_v("Logic m = "),_c('span',{pre:true,attrs:{"class":"hljs-keyword"}},[_v("new")]),_v(" Logic();\n")])])}
+with(this){return _c('code',{pre:true,attrs:{"class":"no-line-numbers hljs java"}},[_c('span',[_v("Logic m = "),_c('span',{pre:true,attrs:{"class":"hljs-keyword"}},[_v("new")]),_v(" Logic();\n")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("But now, the "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("Logic")]),_v(" object needs to be accessed like this:")])}
 },function anonymous(
 ) {
-with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs java"}},[_c('span',[_v("Logic m = Logic.getInstance();\n")])])}
+with(this){return _c('code',{pre:true,attrs:{"class":"no-line-numbers hljs java"}},[_c('span',[_v("Logic m = Logic.getInstance();\n")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Tue, 8 Aug 2023, 23:54:34 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sat, 12 Aug 2023, 1:11:23 GMT+8]")])])])}
 }];
   
