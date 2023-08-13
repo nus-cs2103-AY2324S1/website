@@ -53,12 +53,12 @@ with(this){return _c('div',[_c('ul',[_c('li',[_c('strong',[_v("Submit the pre-co
 with(this){return _c('ul',[_c('li',[_v("Read the following admin info about the course.")])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('ul',[_c('li',[_v("If you have time to spare while waiting for the semester to start, and would like to get a headstart on learning Git and GitHub (used a lot in this course), you are welcome to follow the "),_c('a',{attrs:{"href":"/website/git-trail.html"}},[_v("Git Learning Trail")]),_v("."),_c('br'),_v("\nDoing so is totally optional, as the same content will be covered during the subsequent weeks as well.")])])])}
+with(this){return _c('div',[_c('ul',[_c('li',[_v("If you have time to spare while waiting for the semester to start, and would like to get a headstart on learning Git and GitHub (used a lot in this course), you are welcome to follow the "),_c('a',{attrs:{"href":"/website/git-trail/index.html"}},[_v("Git Learning Trail")]),_v("."),_c('br'),_v("\nDoing so is totally optional, as the same content will be covered during the subsequent weeks as well.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("Attend the first lecture on Fri, Aug 18th ("),_c('mark',[_c('strong',[_v("compulsory")])]),_v(").")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sun, 13 Aug 2023, 18:35:55 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sun, 13 Aug 2023, 22:59:43 GMT+8]")])])])}
 }];
   
