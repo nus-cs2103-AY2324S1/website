@@ -26,6 +26,6 @@ with(this){return _c('p',[_v("Given their lightweight nature, "),_c('strong',[_v
 with(this){return _c('div',[_c('div',[_c('br'),_v(" "),_c('h5',{attrs:{"id":"resources"}},[_c('span',[_c('span',{staticClass:"fas fa-paperclip",attrs:{"aria-hidden":"true"}})]),_v(" Resources:"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#resources","onclick":"event.stopPropagation()"}})]),_v(" "),_c('div',[_c('ul',[_c('li',[_c('a',{attrs:{"href":"https://www.mountaingoatsoftware.com/blog/non-functional-requirements-as-user-stories"}},[_v("This article by Mike Cohn")]),_v(" from MountainGoatSoftware explains how to use user stories to capture NFRs.")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sat, 12 Aug 2023, 1:49:39 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sun, 13 Aug 2023, 18:35:55 GMT+8]")])])])}
 }];
   
