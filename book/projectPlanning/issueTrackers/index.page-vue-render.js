@@ -23,6 +23,6 @@ with(this){return _c('p',[_v("Keeping track of project tasks "),_c('span',{stati
 with(this){return _c('p',[_c('strong',[_v("Issue trackers (sometimes called bug trackers) are commonly used to track task assignment and progress.")]),_v(" Most online project management software such as GitHub, SourceForge, and BitBucket come with an integrated issue tracker.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Fri, 18 Aug 2023, 20:03:44 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sat, 19 Aug 2023, 0:36:06 GMT+8]")])])])}
 }];
   
