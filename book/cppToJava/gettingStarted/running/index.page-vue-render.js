@@ -29,12 +29,12 @@ with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"line-num
 with(this){return _c('p',[_c('strong',[_v("Integrated Development Environments (IDEs)")]),_v(" can automate the intermediate step of compiling. They usually have a "),_c('span',{staticStyle:{"color":"green"}},[_c('span',{staticClass:"fas fa-play-circle",attrs:{"aria-hidden":"true"}})]),_v(" "),_c('em',[_v("Run")]),_v(" button which compiles the code first and then runs it.")])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("Intellij IDEA")]),_v(" "),_c('li',[_v("Eclipse")]),_v(" "),_c('li',[_v("NetBeans")])])}
+with(this){return _c('ul',[_c('li',[_v("IntelliJ IDEA")]),_v(" "),_c('li',[_v("Eclipse")]),_v(" "),_c('li',[_v("NetBeans")])])}
 },function anonymous(
 ) {
 with(this){return _c('h5',{attrs:{"id":"exercises"}},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-question-sign",attrs:{"aria-hidden":"true"}})]),_c('span',[_c('span',{staticClass:"glyphicon glyphicon-ok-sign",attrs:{"aria-hidden":"true"}})]),_v(" Exercises:"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#exercises","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sat, 19 Aug 2023, 0:36:06 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sun, 20 Aug 2023, 0:52:34 GMT+8]")])])])}
 }];
   

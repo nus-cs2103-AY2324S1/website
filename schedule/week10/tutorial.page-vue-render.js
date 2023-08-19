@@ -14,10 +14,10 @@ with(this){return _c('nav',[_c('ul',{staticClass:"pagination mt-2"},[_c('li',{st
 with(this){return _c('h1',{attrs:{"id":"week-10-fri-oct-20th-tutorial"}},[_v("Week 10 "),_c('small',[_c('small',[_c('span',{staticClass:"dimmed"},[_v("[Fri, Oct 20th]")]),_v(" - Tutorial")])]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-10-fri-oct-20th-tutorial","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("Demonstrate an assertion failure using Intellij.")])])}
+with(this){return _c('ul',[_c('li',[_v("Demonstrate an assertion failure using IntelliJ.")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("Java assertions are not enabled by default. "),_c('a',{attrs:{"href":"https://se-education.org/guides/tutorials/intellijUsefulSettings.html"}},[_v("Check if you have enabled assertions in Intellij settings")]),_v(".")]),_v(" "),_c('li',[_v("Modify the code of your tP to deliberately cause an assertion failure"),_c('br'),_v("\ne.g., add "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline java"}},[_c('span',{pre:true,attrs:{"class":"hljs-keyword"}},[_v("assert")]),_v(" "),_c('span',{pre:true,attrs:{"class":"hljs-keyword"}},[_v("false")]),_v(";")]),_v(" somewhere in your code.")]),_v(" "),_c('li',[_v("Run the code so that the application crashes with an assertion failure.")]),_v(" "),_c('li',[_v("Take a "),_c('mark',[_v("screenshot that shows the assertion error message")]),_v(" and paste in the tutorial workspace document.")])])}
+with(this){return _c('ol',[_c('li',[_v("Java assertions are not enabled by default. "),_c('a',{attrs:{"href":"https://se-education.org/guides/tutorials/intellijUsefulSettings.html"}},[_v("Check if you have enabled assertions in IntelliJ settings")]),_v(".")]),_v(" "),_c('li',[_v("Modify the code of your tP to deliberately cause an assertion failure"),_c('br'),_v("\ne.g., add "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline java"}},[_c('span',{pre:true,attrs:{"class":"hljs-keyword"}},[_v("assert")]),_v(" "),_c('span',{pre:true,attrs:{"class":"hljs-keyword"}},[_v("false")]),_v(";")]),_v(" somewhere in your code.")]),_v(" "),_c('li',[_v("Run the code so that the application crashes with an assertion failure.")]),_v(" "),_c('li',[_v("Take a "),_c('mark',[_v("screenshot that shows the assertion error message")]),_v(" and paste in the tutorial workspace document.")])])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("Give an example of defensive programming from AB3 or your tP.")])])}
@@ -29,6 +29,6 @@ with(this){return _c('ul',[_c('li',[_v("Evaluate the sample DG extracts in "),_c
 with(this){return _c('ul',[_c('li',[_v("Also, lookout for places where these tips can be applied.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sat, 19 Aug 2023, 0:36:06 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sun, 20 Aug 2023, 0:52:34 GMT+8]")])])])}
 }];
   

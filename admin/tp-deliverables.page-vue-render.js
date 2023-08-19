@@ -128,7 +128,7 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("Use a suitable profile phot
 with(this){return _c('p',[_v("If you are uncomfortable posting your photo due to security reasons, you can post a lower resolution image so that it is hard for someone to misuse that image for fraudulent purposes. If you are concerned about privacy, you may use "),_c('a',{attrs:{"href":"https://en.wikipedia.org/wiki/File:Portrait_placeholder.png"}},[_v("a placeholder image")]),_v(" in place of the photo in course-related documents that are publicly visible.")])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('strong',[_v("Include a link to each person's PPP page.")])]),_v(" "),_c('li',[_c('strong',[_v("Team member names:")]),_v(" you may use the full name, part of the name, or Github username of the team member.")])])}
+with(this){return _c('ul',[_c('li',[_c('strong',[_v("Include a link to each person's PPP page.")])]),_v(" "),_c('li',[_c('strong',[_v("Team member names:")]),_v(" you may use the full name, part of the name, or GitHub username of the team member.")])])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"website-ug-web-page"}},[_c('span',{staticClass:"badge bg-info"},[_v("Website")]),_v(" "),_c('span',{staticClass:"text-info"},[_v("UG (Web Page)")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#website-ug-web-page","onclick":"event.stopPropagation()"}})])}
@@ -245,6 +245,6 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("Plan the demo to be in sync
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tp-w13.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" tP week 13: v1.4")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tp-ped.html"}},[_c('span',[_v("tP: Practical Exam Dry Run "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sat, 19 Aug 2023, 0:36:06 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sun, 20 Aug 2023, 0:52:34 GMT+8]")])])])}
 }];
   
