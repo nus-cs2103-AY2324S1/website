@@ -28,7 +28,7 @@
 ### 2. Charisma
 
 **Charisma Kausar**<br>
-%%:fas-envelope:%% charisma.kausar@gmail.com<br>
+%%:fas-envelope:%% charisma.kausar@u.nus.edu<br>
 %%:fab-github:%% [@ckcherry23](https://github.com/ckcherry23)
     </div>
   </div>
