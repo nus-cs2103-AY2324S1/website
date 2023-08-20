@@ -77,13 +77,13 @@ with(this){return _c('p',[_v("Here is a scenario that includes all the concepts 
 with(this){return _c('div',{staticClass:"block-embed-service-powerpoint"},[_c('iframe',{attrs:{"type":"text/html","src":"https://onedrive.live.com/embed?cid=A5AF047C4CAD67AB&resid=A5AF047C4CAD67AB%212290&authkey=&em=2&action=embedview&wdAr=1.3333333333333333","frameborder":"0","width":"610","height":"481","webkitallowfullscreen":"","mozallowfullscreen":"","allowfullscreen":""}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_c('mark',[_c('em',[_v("Branching")])]),_v(" is the process of evolving multiple versions of the software in parallel.")]),_v(" For example, one team member can create a new branch and add an experimental feature to it while the rest of the team keeps working on another branch. Branches can be given names e.g. "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("master")]),_v(", "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("release")]),_v(", "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("dev")]),_v(".")])}
+with(this){return _c('p',[_c('strong',[_c('em',[_v("Branching")]),_v(" is the process of evolving multiple versions of the software in parallel.")]),_v(" For example, one team member can create a new branch and add an experimental feature to it while the rest of the team keeps working on another branch. Branches can be given names e.g. "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("master")]),_v(", "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("release")]),_v(", "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("dev")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("A branch can be "),_c('mark',[_c('em',[_v("merged")])]),_v(" into another branch.")]),_v(" Merging usually results in a new commit that represents the changes done in the branch being merged.")])}
+with(this){return _c('p',[_c('strong',[_v("A branch can be "),_c('em',[_v("merged")]),_v(" into another branch.")]),_v(" Merging usually results in a new commit that represents the changes done in the branch being merged.")])}
 },function anonymous(
 ) {
-with(this){return _c('strong',[_c('mark',[_c('em',[_v("Merge conflicts")])]),_v(" happen when you try to merge two branches that had changed the same part of the code")])}
+with(this){return _c('strong',[_c('em',[_v("Merge conflicts")]),_v(" happen when you try to merge two branches that had changed the same part of the code")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("RCS can be done in two ways: the "),_c('em',[_v("centralized")]),_v(" way and the "),_c('em',[_v("distributed")]),_v(" way.")])])}
@@ -98,6 +98,6 @@ with(this){return _c('p',[_c('strong',[_v("Distributed RCS (DRCS for short, also
 with(this){return _c('p',[_c('strong',[_v("In the "),_c('em',[_v("forking workflow")]),_v(", the 'official' version of the software is kept in a remote repo designated as the 'main repo'. All team members fork the main repo and create pull requests from their fork to the main repo.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sun, 20 Aug 2023, 0:52:34 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Sun, 20 Aug 2023, 22:54:56 GMT+8]")])])])}
 }];
   
