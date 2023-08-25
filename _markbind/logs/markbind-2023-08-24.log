@@ -1,0 +1,21 @@
+2023-08-23T16:01:18.630Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\index as some of its dependencies were changed since the last visit
+2023-08-23T16:01:20.182Z - info: Site data built
+2023-08-23T16:01:20.183Z - info: Lazy website regeneration complete! Total build time: 1.554s
+2023-08-23T16:02:16.639Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\participation as some of its dependencies were changed since the last visit
+2023-08-23T16:02:17.394Z - info: Site data built
+2023-08-23T16:02:17.395Z - info: Lazy website regeneration complete! Total build time: 0.756s
+2023-08-23T16:02:27.405Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\admin as some of its dependencies were changed since the last visit
+2023-08-23T16:02:29.775Z - info: Site data built
+2023-08-23T16:02:29.776Z - info: Lazy website regeneration complete! Total build time: 2.371s
+2023-08-23T16:02:56.176Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tutorials as some of its dependencies were changed since the last visit
+2023-08-23T16:02:57.017Z - info: Site data built
+2023-08-23T16:02:57.018Z - info: Lazy website regeneration complete! Total build time: 0.842s
+2023-08-23T16:03:29.920Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\topics as some of its dependencies were changed since the last visit
+2023-08-23T16:03:33.214Z - info: Site data built
+2023-08-23T16:03:33.215Z - info: Lazy website regeneration complete! Total build time: 3.295s
+2023-08-23T16:11:46.523Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project as some of its dependencies were changed since the last visit
+2023-08-23T16:11:48.948Z - info: Site data built
+2023-08-23T16:11:48.949Z - info: Lazy website regeneration complete! Total build time: 2.426s
+2023-08-23T16:12:53.142Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\tutorial as some of its dependencies were changed since the last visit
+2023-08-23T16:12:53.928Z - info: Site data built
+2023-08-23T16:12:53.929Z - info: Lazy website regeneration complete! Total build time: 0.786s
