@@ -59,6 +59,6 @@ with(this){return _c('h5',{attrs:{"id":"exercises"}},[_c('span',[_c('span',{stat
 with(this){return _c('div',[_c('br'),_v(" "),_c('h5',{attrs:{"id":"resources"}},[_c('span',[_c('span',{staticClass:"fas fa-paperclip",attrs:{"aria-hidden":"true"}})]),_v(" Resources:"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#resources","onclick":"event.stopPropagation()"}})]),_v(" "),_c('div',[_c('ul',[_c('li',[_v("Oracle's tutorials on ["),_c('a',{attrs:{"href":"https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html"}},[_v("if-else")]),_v("]["),_c('a',{attrs:{"href":"https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html"}},[_v("switch")]),_v("]")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.1")]),_v(", generated on Fri, 25 Aug 2023, 21:31:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.2")]),_v(", generated on Mon, 28 Aug 2023, 1:55:10 GMT+8]")])])])}
 }];
   
