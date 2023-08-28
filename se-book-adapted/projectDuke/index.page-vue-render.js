@@ -101,7 +101,7 @@ with(this){return _c('h3',{attrs:{"id":"level-5-handle-errors"}},[_v("Level 5. H
 with(this){return _c('p',[_v("Teach the chatbot to deal with errors such as incorrect inputs entered by the user.\n"),_c('br'),_v(" "),_c('br')])}
 },function anonymous(
 ) {
-with(this){return _c('code',{pre:true,attrs:{"class":"no-line-numbers hljs"}},[_c('span',[_v("todo\n")]),_c('span',[_v("    ____________________________________________________________\n")]),_c('span',[_v("     ☹ OOPS!!! The description of a todo cannot be empty.\n")]),_c('span',[_v("    ____________________________________________________________\n")]),_c('span',[_v("\n")]),_c('span',[_v("blah\n")]),_c('span',[_v("    ____________________________________________________________\n")]),_c('span',[_v("     ☹ OOPS!!! I'm sorry, but I don't know what that means :-(\n")]),_c('span',[_v("    ____________________________________________________________\n")])])}
+with(this){return _c('code',{pre:true,attrs:{"class":"no-line-numbers hljs"}},[_c('span',[_v("todo\n")]),_c('span',[_v("    ____________________________________________________________\n")]),_c('span',[_v("     OOPS!!! The description of a todo cannot be empty.\n")]),_c('span',[_v("    ____________________________________________________________\n")]),_c('span',[_v("\n")]),_c('span',[_v("blah\n")]),_c('span',[_v("    ____________________________________________________________\n")]),_c('span',[_v("     OOPS!!! I'm sorry, but I don't know what that means :-(\n")]),_c('span',[_v("    ____________________________________________________________\n")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge rounded-pill bg-success text-white"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})]),_v(" When implementing this feature, you are also recommended to implement the following extension:")])}
@@ -554,6 +554,6 @@ with(this){return _c('h3',{attrs:{"id":"d-merchandise"}},[_c('span',{staticClass
 with(this){return _c('p',[_v("Support managing info about merchandise "),_c('span',{staticClass:"dimmed"},[_v("e.g., a property agent to keep track of properties, a collector of stamps keep track of items in the collection")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.2")]),_v(", generated on Mon, 28 Aug 2023, 11:53:40 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.2")]),_v(", generated on Mon, 28 Aug 2023, 16:56:06 GMT+8]")])])])}
 }];
   
