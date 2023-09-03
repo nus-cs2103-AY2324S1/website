@@ -1193,6 +1193,6 @@ with(this){return _c('div',{staticClass:"indented-less"},[_c('h4',{attrs:{"id":"
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_v("JavaFX is a technology for building Java-based GUIs. Previously it was a part Java itself, but has become a third-party dependency since then. It is now being maintained by "),_c('a',{attrs:{"href":"https://wiki.openjdk.java.net/display/OpenJFX"}},[_v("OpenJDK")]),_v(".")]),_v(" "),_c('p',[_v("Refer to the "),_c('a',{attrs:{"href":"https://se-education.org/guides/tutorials/javaFx.html"}},[_c('em',[_v("JavaFX tutorial")]),_v(" @SE-EDU/guides")]),_v(" to learn how to get started with JavaFX.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.2")]),_v(", generated on Sat, 2 Sept 2023, 14:10:03 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.2")]),_v(", generated on Sun, 3 Sept 2023, 17:02:17 GMT+8]")])])])}
 }];
   
