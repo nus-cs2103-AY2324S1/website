@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"milestones"}},[_c('span',[_v("
 with(this){return _c('p',[_c('strong',[_v("A "),_c('em',[_v("milestone")]),_v(" is the end of a stage which indicates significant progress.")]),_v(" You should take into account dependencies and priorities when deciding on the features to be delivered at a certain milestone.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.2")]),_v(", generated on Sun, 3 Sept 2023, 17:02:17 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.2")]),_v(", generated on Thu, 7 Sept 2023, 14:30:52 GMT+8]")])])])}
 }];
   
