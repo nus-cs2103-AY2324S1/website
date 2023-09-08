@@ -193,3 +193,29 @@
 2023-09-08T12:12:17.738Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
 2023-09-08T12:12:29.903Z - info: Website generation started at 8:12:27 pm
 2023-09-08T12:12:39.941Z - info: Building assets...
+2023-09-08T12:12:47.363Z - info: Assets built
+2023-09-08T12:12:47.364Z - info: Generating pages...
+2023-09-08T12:13:01.398Z - debug:  
+2023-09-08T12:13:01.398Z - debug:  
+2023-09-08T12:13:01.399Z - debug:  
+2023-09-08T12:13:01.399Z - debug:  
+2023-09-08T12:13:01.399Z - debug:  
+2023-09-08T12:13:01.399Z - debug:  
+2023-09-08T12:13:01.400Z - debug:  
+2023-09-08T12:13:01.400Z - debug:  
+2023-09-08T12:13:01.400Z - debug:  
+2023-09-08T12:13:01.400Z - debug:  
+2023-09-08T12:13:01.400Z - debug:  
+2023-09-08T12:13:01.401Z - debug:  
+2023-09-08T12:13:01.412Z - debug:  
+2023-09-08T12:13:01.412Z - debug:  
+2023-09-08T12:13:01.412Z - debug:  
+2023-09-08T12:13:01.412Z - debug:  
+2023-09-08T12:14:57.498Z - debug:  
+2023-09-08T12:15:10.686Z - debug:  
+2023-09-08T12:15:10.706Z - debug:  
+2023-09-08T12:15:19.058Z - info: Pages built
+2023-09-08T12:15:19.942Z - info: Site data built
+2023-09-08T12:15:19.942Z - info: Website generation complete! Total build time: 172.528s
+2023-09-08T12:15:19.943Z - info: Build success!
+2023-09-08T12:19:52.503Z - info: The website has been deployed at: https://nus-cs2103-ay2324s1.github.io/website
