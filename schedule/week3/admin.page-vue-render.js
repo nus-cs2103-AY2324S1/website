@@ -20,6 +20,6 @@ with(this){return _c('div',[_c('ul',[_c('li',[_c('strong',[_v("Post-lecture quiz
 with(this){return _c('div',[_c('ul',[_c('li',[_v("See the "),_c('a',{attrs:{"href":"/website/schedule/week3/tutorial.html"}},[_c('span',{staticClass:"border bg-white ps-1 pe-1 text-nowrap"},[_c('span',[_c('span',{staticClass:"fas fa-chalkboard-teacher",attrs:{"aria-hidden":"true"}})]),_v(" Tutorial")])]),_v(" tab for more info.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.2")]),_v(", generated on Sat, 9 Sept 2023, 1:46:08 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.2")]),_v(", generated on Sun, 10 Sept 2023, 2:24:57 GMT+8]")])])])}
 }];
   

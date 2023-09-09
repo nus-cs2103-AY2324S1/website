@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"what"}},[_c('span',[_v("What")
 with(this){return _c('p',[_c('strong',[_v("UML "),_c('em',[_v("class diagrams")]),_v(" describe the structure (but not the behavior) of an OOP solution.")]),_v(" These are possibly the most often used diagrams in the industry and are an indispensable tool for an OO programmer.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.2")]),_v(", generated on Sat, 9 Sept 2023, 1:46:08 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.2")]),_v(", generated on Sun, 10 Sept 2023, 2:24:57 GMT+8]")])])])}
 }];
   
