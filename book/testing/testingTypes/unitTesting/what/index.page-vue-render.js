@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"what"}},[_c('span',[_v("What")
 with(this){return _c('div',[_c('div',[_c('br'),_v(" "),_c('h5',{attrs:{"id":"resources"}},[_c('span',[_c('span',{staticClass:"fas fa-paperclip",attrs:{"aria-hidden":"true"}})]),_v(" Resources:"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#resources","onclick":"event.stopPropagation()"}})]),_v(" "),_c('div',[_c('ul',[_c('li',[_c('a',{attrs:{"href":"http://avandeursen.com/2014/02/22/gotofail-security/"}},[_v("Learning from Apple’s #gotofail Security Bug")]),_v(" -\nHow unit testing (and other good coding practices) could have prevented a major security bug.")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.2")]),_v(", generated on Sun, 10 Sept 2023, 2:24:57 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 12 Sept 2023, 2:21:08 GMT+8]")])])])}
 }];
   

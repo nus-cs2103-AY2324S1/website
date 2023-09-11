@@ -1,0 +1,233 @@
+2023-09-11T17:48:51.666Z - info: Website generation (lazy) started at 1:48:46 am
+2023-09-11T17:49:03.548Z - info: Building assets...
+2023-09-11T17:49:11.124Z - info: Assets built
+2023-09-11T17:49:11.125Z - info: Generating landing page...
+2023-09-11T17:49:12.750Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-09-11T17:49:13.789Z - info: Site data built
+2023-09-11T17:49:13.790Z - info: Website generation (lazy) complete! Total build time: 27.609s
+2023-09-11T17:49:14.632Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-09-11T17:49:14.633Z - info: Press CTRL+C to stop ...
+2023-09-11T17:49:24.878Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2023-09-11T17:49:32.918Z - info: Site data built
+2023-09-11T17:49:32.918Z - info: Lazy website regeneration complete! Total build time: 8.04s
+2023-09-11T17:50:01.327Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub as some of its dependencies were changed since the last visit
+2023-09-11T17:50:02.660Z - info: Site data built
+2023-09-11T17:50:02.661Z - info: Lazy website regeneration complete! Total build time: 1.334s
+2023-09-11T17:54:10.624Z - info: [1:54:10 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T17:54:10.624Z - info: Synchronizing opened pages list before reload
+2023-09-11T17:54:10.625Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T17:54:10.625Z - info: 1. admin/appendixE-gitHub
+2023-09-11T17:54:11.630Z - info: Rebuilding 1 pages
+2023-09-11T17:54:12.594Z - info: Site data built
+2023-09-11T17:54:12.595Z - info: Pages rebuilt
+2023-09-11T17:54:12.595Z - info: Website regeneration complete! Total build time: 0.966s
+2023-09-11T17:55:14.571Z - info: [1:55:14 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T17:55:14.571Z - info: Synchronizing opened pages list before reload
+2023-09-11T17:55:14.572Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T17:55:14.572Z - info: 1. admin/appendixE-gitHub
+2023-09-11T17:55:15.591Z - info: Rebuilding 1 pages
+2023-09-11T17:55:16.233Z - info: Site data built
+2023-09-11T17:55:16.233Z - info: Pages rebuilt
+2023-09-11T17:55:16.234Z - info: Website regeneration complete! Total build time: 0.644s
+2023-09-11T17:56:22.021Z - info: [1:56:22 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T17:56:22.021Z - info: Synchronizing opened pages list before reload
+2023-09-11T17:56:22.022Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T17:56:22.022Z - info: 1. admin/appendixE-gitHub
+2023-09-11T17:56:23.030Z - info: Rebuilding 1 pages
+2023-09-11T17:56:23.942Z - info: Site data built
+2023-09-11T17:56:23.942Z - info: Pages rebuilt
+2023-09-11T17:56:23.942Z - info: Website regeneration complete! Total build time: 0.912s
+2023-09-11T17:56:48.976Z - info: [1:56:48 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T17:56:48.977Z - info: Synchronizing opened pages list before reload
+2023-09-11T17:56:48.977Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T17:56:48.977Z - info: 1. admin/appendixE-gitHub
+2023-09-11T17:56:49.988Z - info: Rebuilding 1 pages
+2023-09-11T17:56:50.792Z - info: Site data built
+2023-09-11T17:56:50.792Z - info: Pages rebuilt
+2023-09-11T17:56:50.792Z - info: Website regeneration complete! Total build time: 0.805s
+2023-09-11T17:57:00.154Z - info: [1:57:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T17:57:00.154Z - info: Synchronizing opened pages list before reload
+2023-09-11T17:57:00.155Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T17:57:00.155Z - info: 1. admin/appendixE-gitHub
+2023-09-11T17:57:01.172Z - info: Rebuilding 1 pages
+2023-09-11T17:57:01.862Z - info: Site data built
+2023-09-11T17:57:01.863Z - info: Pages rebuilt
+2023-09-11T17:57:01.863Z - info: Website regeneration complete! Total build time: 0.692s
+2023-09-11T17:57:11.980Z - info: [1:57:11 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T17:57:11.981Z - info: Synchronizing opened pages list before reload
+2023-09-11T17:57:11.981Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T17:57:11.981Z - info: 1. admin/appendixE-gitHub
+2023-09-11T17:57:12.994Z - info: Rebuilding 1 pages
+2023-09-11T17:57:13.524Z - info: Site data built
+2023-09-11T17:57:13.525Z - info: Pages rebuilt
+2023-09-11T17:57:13.525Z - info: Website regeneration complete! Total build time: 0.533s
+2023-09-11T17:58:01.028Z - info: [1:58:01 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T17:58:01.028Z - info: Synchronizing opened pages list before reload
+2023-09-11T17:58:01.028Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T17:58:01.028Z - info: 1. admin/appendixE-gitHub
+2023-09-11T17:58:02.046Z - info: Rebuilding 1 pages
+2023-09-11T17:58:03.593Z - info: Site data built
+2023-09-11T17:58:03.593Z - info: Pages rebuilt
+2023-09-11T17:58:03.594Z - info: Website regeneration complete! Total build time: 1.548s
+2023-09-11T17:58:33.767Z - info: [1:58:33 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T17:58:33.767Z - info: Synchronizing opened pages list before reload
+2023-09-11T17:58:33.768Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T17:58:33.768Z - info: 1. admin/appendixE-gitHub
+2023-09-11T17:58:34.785Z - info: Rebuilding 1 pages
+2023-09-11T17:58:35.523Z - info: Site data built
+2023-09-11T17:58:35.523Z - info: Pages rebuilt
+2023-09-11T17:58:35.523Z - info: Website regeneration complete! Total build time: 0.738s
+2023-09-11T17:59:44.810Z - info: [1:59:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T17:59:44.811Z - info: Synchronizing opened pages list before reload
+2023-09-11T17:59:44.811Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T17:59:44.812Z - info: 1. admin/appendixE-gitHub
+2023-09-11T17:59:45.826Z - info: Rebuilding 1 pages
+2023-09-11T17:59:46.755Z - info: Site data built
+2023-09-11T17:59:46.755Z - info: Pages rebuilt
+2023-09-11T17:59:46.756Z - info: Website regeneration complete! Total build time: 0.932s
+2023-09-11T18:00:56.783Z - info: [2:00:56 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:00:56.783Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:00:56.783Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:00:56.783Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:00:57.800Z - info: Rebuilding 1 pages
+2023-09-11T18:00:58.493Z - info: Site data built
+2023-09-11T18:00:58.493Z - info: Pages rebuilt
+2023-09-11T18:00:58.493Z - info: Website regeneration complete! Total build time: 0.695s
+2023-09-11T18:01:35.293Z - info: [2:01:35 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:01:35.294Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:01:35.294Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:01:35.294Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:01:36.311Z - info: Rebuilding 1 pages
+2023-09-11T18:01:37.208Z - info: Site data built
+2023-09-11T18:01:37.209Z - info: Pages rebuilt
+2023-09-11T18:01:37.209Z - info: Website regeneration complete! Total build time: 0.901s
+2023-09-11T18:02:02.748Z - info: [2:02:02 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:02:02.748Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:02:02.749Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:02:02.749Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:02:03.774Z - info: Rebuilding 1 pages
+2023-09-11T18:02:04.509Z - info: Site data built
+2023-09-11T18:02:04.509Z - info: Pages rebuilt
+2023-09-11T18:02:04.509Z - info: Website regeneration complete! Total build time: 0.736s
+2023-09-11T18:05:18.264Z - info: [2:05:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:05:18.265Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:05:18.265Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:05:18.265Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:05:19.292Z - info: Rebuilding 1 pages
+2023-09-11T18:05:20.243Z - info: Site data built
+2023-09-11T18:05:20.243Z - info: Pages rebuilt
+2023-09-11T18:05:20.243Z - info: Website regeneration complete! Total build time: 0.954s
+2023-09-11T18:05:46.292Z - info: [2:05:46 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:05:46.292Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:05:46.292Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:05:46.292Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:05:47.304Z - info: Rebuilding 1 pages
+2023-09-11T18:05:47.983Z - info: Site data built
+2023-09-11T18:05:47.983Z - info: Pages rebuilt
+2023-09-11T18:05:47.983Z - info: Website regeneration complete! Total build time: 0.681s
+2023-09-11T18:05:54.993Z - info: [2:05:54 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:05:54.993Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:05:54.993Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:05:54.993Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:05:56.004Z - info: Rebuilding 1 pages
+2023-09-11T18:05:56.534Z - info: Site data built
+2023-09-11T18:05:56.534Z - info: Pages rebuilt
+2023-09-11T18:05:56.534Z - info: Website regeneration complete! Total build time: 0.531s
+2023-09-11T18:06:11.948Z - info: [2:06:11 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:06:11.948Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:06:11.948Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:06:11.948Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:06:12.966Z - info: Rebuilding 1 pages
+2023-09-11T18:06:13.811Z - info: Site data built
+2023-09-11T18:06:13.811Z - info: Pages rebuilt
+2023-09-11T18:06:13.811Z - info: Website regeneration complete! Total build time: 0.846s
+2023-09-11T18:07:00.066Z - info: [2:07:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:07:00.067Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:07:00.067Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:07:00.067Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:07:01.077Z - info: Rebuilding 1 pages
+2023-09-11T18:07:01.824Z - info: Site data built
+2023-09-11T18:07:01.824Z - info: Pages rebuilt
+2023-09-11T18:07:01.824Z - info: Website regeneration complete! Total build time: 0.748s
+2023-09-11T18:07:10.242Z - info: [2:07:10 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:07:10.242Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:07:10.243Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:07:10.243Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:07:11.257Z - info: Rebuilding 1 pages
+2023-09-11T18:07:11.756Z - info: Site data built
+2023-09-11T18:07:11.756Z - info: Pages rebuilt
+2023-09-11T18:07:11.756Z - info: Website regeneration complete! Total build time: 0.502s
+2023-09-11T18:07:41.054Z - info: [2:07:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:07:41.054Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:07:41.054Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:07:41.054Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:07:42.062Z - info: Rebuilding 1 pages
+2023-09-11T18:07:42.662Z - info: Site data built
+2023-09-11T18:07:42.663Z - info: Pages rebuilt
+2023-09-11T18:07:42.663Z - info: Website regeneration complete! Total build time: 0.602s
+2023-09-11T18:08:18.845Z - info: [2:08:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:08:18.845Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:08:18.846Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:08:18.846Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:08:19.862Z - info: Rebuilding 1 pages
+2023-09-11T18:08:20.802Z - info: Site data built
+2023-09-11T18:08:20.802Z - info: Pages rebuilt
+2023-09-11T18:08:20.802Z - info: Website regeneration complete! Total build time: 0.943s
+2023-09-11T18:09:11.603Z - info: [2:09:11 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:09:11.604Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:09:11.605Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:09:11.606Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:09:12.615Z - info: Rebuilding 1 pages
+2023-09-11T18:09:13.270Z - info: Site data built
+2023-09-11T18:09:13.270Z - info: Pages rebuilt
+2023-09-11T18:09:13.270Z - info: Website regeneration complete! Total build time: 0.657s
+2023-09-11T18:10:55.935Z - info: [2:10:55 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:10:55.936Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:10:55.937Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:10:55.938Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:10:56.954Z - info: Rebuilding 1 pages
+2023-09-11T18:10:57.853Z - info: Site data built
+2023-09-11T18:10:57.854Z - info: Pages rebuilt
+2023-09-11T18:10:57.854Z - info: Website regeneration complete! Total build time: 0.902s
+2023-09-11T18:16:07.988Z - info: [2:16:07 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:16:07.988Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:16:07.989Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:16:07.989Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:16:08.998Z - info: Rebuilding 1 pages
+2023-09-11T18:16:09.864Z - info: Site data built
+2023-09-11T18:16:09.864Z - info: Pages rebuilt
+2023-09-11T18:16:09.864Z - info: Website regeneration complete! Total build time: 0.867s
+2023-09-11T18:16:23.891Z - info: [2:16:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:16:23.891Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:16:23.892Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:16:23.892Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:16:24.902Z - info: Rebuilding 1 pages
+2023-09-11T18:16:25.488Z - info: Site data built
+2023-09-11T18:16:25.488Z - info: Pages rebuilt
+2023-09-11T18:16:25.488Z - info: Website regeneration complete! Total build time: 0.59s
+2023-09-11T18:18:45.362Z - info: [2:18:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:18:45.363Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:18:45.363Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:18:45.363Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:18:46.378Z - info: Rebuilding 1 pages
+2023-09-11T18:18:47.298Z - info: Site data built
+2023-09-11T18:18:47.298Z - info: Pages rebuilt
+2023-09-11T18:18:47.298Z - info: Website regeneration complete! Total build time: 0.921s
+2023-09-11T18:18:59.792Z - info: [2:18:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:18:59.792Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:18:59.792Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:18:59.792Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:19:00.797Z - info: Rebuilding 1 pages
+2023-09-11T18:19:01.362Z - info: Site data built
+2023-09-11T18:19:01.362Z - info: Pages rebuilt
+2023-09-11T18:19:01.362Z - info: Website regeneration complete! Total build time: 0.566s
+2023-09-11T18:19:07.418Z - info: [2:19:07 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-09-11T18:19:07.418Z - info: Synchronizing opened pages list before reload
+2023-09-11T18:19:07.419Z - info: Current opened pages, from most-to-least recent:
+2023-09-11T18:19:07.419Z - info: 1. admin/appendixE-gitHub
+2023-09-11T18:19:08.423Z - info: Rebuilding 1 pages
+2023-09-11T18:19:08.946Z - info: Site data built
+2023-09-11T18:19:08.946Z - info: Pages rebuilt
+2023-09-11T18:19:08.946Z - info: Website regeneration complete! Total build time: 0.524s
+2023-09-11T18:20:49.007Z - info: Website generation started at 2:20:46 am
+2023-09-11T18:21:00.883Z - info: Building assets...

@@ -47,6 +47,6 @@ with(this){return _c('code',{pre:true,attrs:{"class":"no-line-numbers hljs"}},[_
 with(this){return _c('p',[_v("Note that the above technique is only suitable when testing CLI apps, and only if the exact output can be predetermined. "),_c('span',{staticClass:"dimmed"},[_v("If the output varies from one run to the other (e.g. it contains a time stamp), this technique will not work. In those cases, you need more sophisticated ways of automating tests.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.0.2")]),_v(", generated on Sun, 10 Sept 2023, 2:24:57 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 12 Sept 2023, 2:21:08 GMT+8]")])])])}
 }];
   
