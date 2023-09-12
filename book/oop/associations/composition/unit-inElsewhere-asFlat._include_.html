@@ -28,8 +28,9 @@
 <h5 id="implementing-composition">Implementing composition<a class="fa fa-anchor" href="#implementing-composition" onclick="event.stopPropagation()"></a></h5>
 <p><strong>Composition is implemented using a normal variable.</strong> If correctly implemented, the ‘part’ object will be deleted when the ‘whole’ object is deleted. Ideally, the ‘part’ object may not even be visible to clients of the ‘whole’ object.</p>
 <box>
-<div class="alt-java float-end ms-5">
-<pre><code class="no-line-numbers hljs java" v-pre><span><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Email</span> </span>{
+<p><span><span aria-hidden="true" class="fas fa-cube"></span></span> Here is one way to implement the composition between <code class="line-numbers hljs inline no-lang" v-pre>Email</code> and <code class="line-numbers hljs inline no-lang" v-pre>Subject</code>:</p>
+<div class="alt-java">
+<pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Email</span> </span>{
 </span><span>    <span class="hljs-keyword">private</span> Subject subject;
 </span><span>  ...
 </span><span>}
@@ -50,8 +51,8 @@
 
     </div>
     </button></div></pre></div>
-<div class="alt-python  float-end ms-5">
-<pre><code class="no-line-numbers hljs python" v-pre><span><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Email</span>:</span>
+<div class="alt-python">
+<pre><code class="line-numbers hljs python" v-pre><span><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Email</span>:</span>
 </span><span>
 </span><span>  <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">__init__</span>(<span class="hljs-params">self</span>):</span>
 </span><span>    self.__subject = Subject()

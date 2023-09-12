@@ -231,3 +231,189 @@
 2023-09-11T18:19:08.946Z - info: Website regeneration complete! Total build time: 0.524s
 2023-09-11T18:20:49.007Z - info: Website generation started at 2:20:46 am
 2023-09-11T18:21:00.883Z - info: Building assets...
+2023-09-11T18:21:08.199Z - info: Assets built
+2023-09-11T18:21:08.200Z - info: Generating pages...
+2023-09-11T18:21:23.606Z - debug:  
+2023-09-11T18:21:23.608Z - debug:  
+2023-09-11T18:21:23.611Z - debug:  
+2023-09-11T18:21:23.732Z - debug:  
+2023-09-11T18:21:23.797Z - debug:  
+2023-09-11T18:21:23.824Z - debug:  
+2023-09-11T18:21:23.846Z - debug:  
+2023-09-11T18:21:26.614Z - debug:  
+2023-09-11T18:21:26.614Z - debug:  
+2023-09-11T18:21:26.614Z - debug:  
+2023-09-11T18:21:26.615Z - debug:  
+2023-09-11T18:21:26.615Z - debug:  
+2023-09-11T18:21:26.615Z - debug:  
+2023-09-11T18:21:26.616Z - debug:  
+2023-09-11T18:21:26.616Z - debug:  
+2023-09-11T18:21:26.616Z - debug:  
+2023-09-11T18:23:33.346Z - debug:  
+2023-09-11T18:23:48.835Z - debug:  
+2023-09-11T18:23:48.850Z - debug:  
+2023-09-11T18:24:01.167Z - info: Pages built
+2023-09-11T18:24:02.210Z - info: Site data built
+2023-09-11T18:24:02.211Z - info: Website generation complete! Total build time: 195.274s
+2023-09-11T18:24:02.211Z - info: Build success!
+2023-09-11T18:26:21.066Z - info: The website has been deployed at: https://nus-cs2103-ay2324s1.github.io/website
+2023-09-12T05:14:35.443Z - info: Website generation (lazy) started at 1:14:30 pm
+2023-09-12T05:14:46.550Z - info: Building assets...
+2023-09-12T05:14:54.007Z - info: Assets built
+2023-09-12T05:14:54.008Z - info: Generating landing page...
+2023-09-12T05:14:55.589Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-09-12T05:14:56.601Z - info: Site data built
+2023-09-12T05:14:56.602Z - info: Website generation (lazy) complete! Total build time: 26.168s
+2023-09-12T05:14:57.482Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-09-12T05:14:57.482Z - info: Press CTRL+C to stop ...
+2023-09-12T05:15:15.135Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week6\index as some of its dependencies were changed since the last visit
+2023-09-12T05:15:19.348Z - info: Site data built
+2023-09-12T05:15:19.348Z - info: Lazy website regeneration complete! Total build time: 4.213s
+2023-09-12T05:15:22.179Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week6\topics as some of its dependencies were changed since the last visit
+2023-09-12T05:15:28.048Z - debug:  
+2023-09-12T05:15:28.131Z - debug:  
+2023-09-12T05:15:28.292Z - info: Site data built
+2023-09-12T05:15:28.292Z - info: Lazy website regeneration complete! Total build time: 6.114s
+2023-09-12T05:17:51.791Z - info: [1:17:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingBehaviors\sequenceDiagramsAdvanced\text.md
+2023-09-12T05:17:51.792Z - info: Synchronizing opened pages list before reload
+2023-09-12T05:17:51.792Z - info: Current opened pages, from most-to-least recent:
+2023-09-12T05:17:51.793Z - info: 1. schedule/week6/topics
+2023-09-12T05:17:51.817Z - info: [1:17:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingBehaviors\sequenceDiagramsIntermediate\text.md
+2023-09-12T05:17:51.817Z - info: Synchronizing opened pages list before reload
+2023-09-12T05:17:51.818Z - info: Current opened pages, from most-to-least recent:
+2023-09-12T05:17:51.818Z - info: 1. schedule/week6/topics
+2023-09-12T05:17:52.813Z - info: Assets built
+2023-09-12T05:17:52.831Z - info: Rebuilding 1 pages
+2023-09-12T05:17:54.270Z - info: Site data built
+2023-09-12T05:17:54.271Z - info: Pages rebuilt
+2023-09-12T05:17:54.271Z - info: Website regeneration complete! Total build time: 1.444s
+2023-09-12T05:19:02.276Z - info: [1:19:02 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingBehaviors\activityDiagrams\text.md
+2023-09-12T05:19:02.276Z - info: Synchronizing opened pages list before reload
+2023-09-12T05:19:02.277Z - info: Current opened pages, from most-to-least recent:
+2023-09-12T05:19:02.277Z - info: 1. schedule/week6/topics
+2023-09-12T05:19:03.300Z - info: Assets built
+2023-09-12T05:19:20.921Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\topics as some of its dependencies were changed since the last visit
+2023-09-12T05:19:33.372Z - debug:  
+2023-09-12T05:19:33.760Z - debug:  
+2023-09-12T05:19:33.849Z - debug:  
+2023-09-12T05:19:34.053Z - debug:  
+2023-09-12T05:19:34.157Z - debug:  
+2023-09-12T05:19:34.369Z - debug:  
+2023-09-12T05:19:34.390Z - debug:  
+2023-09-12T05:19:34.475Z - debug:  
+2023-09-12T05:19:34.494Z - debug:  
+2023-09-12T05:19:34.591Z - debug:  
+2023-09-12T05:19:34.814Z - debug:  
+2023-09-12T05:19:35.073Z - info: Site data built
+2023-09-12T05:19:35.073Z - info: Lazy website regeneration complete! Total build time: 14.152s
+2023-09-12T05:20:18.598Z - info: [1:20:18 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\classDiagramsBasic\text.md
+2023-09-12T05:20:18.598Z - info: Synchronizing opened pages list before reload
+2023-09-12T05:20:18.599Z - info: Current opened pages, from most-to-least recent:
+2023-09-12T05:20:18.599Z - info: 1. schedule/week4/topics
+2023-09-12T05:20:19.615Z - info: Rebuilding 1 pages
+2023-09-12T05:20:21.872Z - info: Site data built
+2023-09-12T05:20:21.872Z - info: Pages rebuilt
+2023-09-12T05:20:21.872Z - info: Website regeneration complete! Total build time: 2.258s
+2023-09-12T05:20:52.173Z - info: [1:20:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\classDiagramsIntermediate\text.md
+2023-09-12T05:20:52.173Z - info: Synchronizing opened pages list before reload
+2023-09-12T05:20:52.173Z - info: Current opened pages, from most-to-least recent:
+2023-09-12T05:20:52.173Z - info: 1. schedule/week4/topics
+2023-09-12T05:20:53.186Z - info: Rebuilding 1 pages
+2023-09-12T05:20:55.491Z - info: Site data built
+2023-09-12T05:20:55.491Z - info: Pages rebuilt
+2023-09-12T05:20:55.491Z - info: Website regeneration complete! Total build time: 2.306s
+2023-09-12T05:21:45.199Z - info: [1:21:45 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\classDiagramsAdvanced\text.md
+2023-09-12T05:21:45.200Z - info: Synchronizing opened pages list before reload
+2023-09-12T05:21:45.201Z - info: Current opened pages, from most-to-least recent:
+2023-09-12T05:21:45.201Z - info: 1. schedule/week4/topics
+2023-09-12T05:21:46.218Z - info: Assets built
+2023-09-12T05:22:39.254Z - info: [1:22:39 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\classDiagramsBasic\text.md
+2023-09-12T05:22:39.254Z - info: Synchronizing opened pages list before reload
+2023-09-12T05:22:39.255Z - info: Current opened pages, from most-to-least recent:
+2023-09-12T05:22:39.255Z - info: 1. schedule/week4/topics
+2023-09-12T05:22:40.275Z - info: Rebuilding 1 pages
+2023-09-12T05:22:42.475Z - info: Site data built
+2023-09-12T05:22:42.475Z - info: Pages rebuilt
+2023-09-12T05:22:42.475Z - info: Website regeneration complete! Total build time: 2.206s
+2023-09-12T05:23:56.819Z - info: [1:23:56 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\classDiagramsIntermediate\text.md
+2023-09-12T05:23:56.820Z - info: Synchronizing opened pages list before reload
+2023-09-12T05:23:56.821Z - info: Current opened pages, from most-to-least recent:
+2023-09-12T05:23:56.822Z - info: 1. schedule/week4/topics
+2023-09-12T05:23:57.839Z - info: Rebuilding 1 pages
+2023-09-12T05:24:00.225Z - info: Site data built
+2023-09-12T05:24:00.226Z - info: Pages rebuilt
+2023-09-12T05:24:00.226Z - info: Website regeneration complete! Total build time: 2.39s
+2023-09-12T05:25:15.669Z - info: [1:25:15 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\composition\text.md
+2023-09-12T05:25:15.669Z - info: Synchronizing opened pages list before reload
+2023-09-12T05:25:15.670Z - info: Current opened pages, from most-to-least recent:
+2023-09-12T05:25:15.670Z - info: 1. schedule/week4/topics
+2023-09-12T05:25:16.693Z - info: Rebuilding 1 pages
+2023-09-12T05:25:18.905Z - info: Site data built
+2023-09-12T05:25:18.906Z - info: Pages rebuilt
+2023-09-12T05:25:18.906Z - info: Website regeneration complete! Total build time: 2.214s
+2023-09-12T05:26:43.873Z - info: [1:26:43 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\composition\text.md
+2023-09-12T05:26:43.874Z - info: Synchronizing opened pages list before reload
+2023-09-12T05:26:43.874Z - info: Current opened pages, from most-to-least recent:
+2023-09-12T05:26:43.874Z - info: 1. schedule/week4/topics
+2023-09-12T05:26:44.881Z - info: Rebuilding 1 pages
+2023-09-12T05:26:47.102Z - info: Site data built
+2023-09-12T05:26:47.103Z - info: Pages rebuilt
+2023-09-12T05:26:47.103Z - info: Website regeneration complete! Total build time: 2.225s
+2023-09-12T05:27:26.116Z - info: [1:27:26 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\composition\text.md
+2023-09-12T05:27:26.116Z - info: Synchronizing opened pages list before reload
+2023-09-12T05:27:26.117Z - info: Current opened pages, from most-to-least recent:
+2023-09-12T05:27:26.117Z - info: 1. schedule/week4/topics
+2023-09-12T05:27:27.134Z - info: Rebuilding 1 pages
+2023-09-12T05:27:29.208Z - info: Site data built
+2023-09-12T05:27:29.208Z - info: Pages rebuilt
+2023-09-12T05:27:29.208Z - info: Website regeneration complete! Total build time: 2.076s
+2023-09-12T05:27:59.112Z - info: [1:27:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\oop\associations\composition\text.md
+2023-09-12T05:27:59.112Z - info: Synchronizing opened pages list before reload
+2023-09-12T05:27:59.113Z - info: Current opened pages, from most-to-least recent:
+2023-09-12T05:27:59.113Z - info: 1. schedule/week4/topics
+2023-09-12T05:28:00.121Z - info: Rebuilding 1 pages
+2023-09-12T05:28:02.188Z - info: Site data built
+2023-09-12T05:28:02.188Z - info: Pages rebuilt
+2023-09-12T05:28:02.188Z - info: Website regeneration complete! Total build time: 2.068s
+2023-09-12T05:28:42.019Z - info: [1:28:42 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\classDiagramsIntermediate\text.md
+2023-09-12T05:28:42.020Z - info: Synchronizing opened pages list before reload
+2023-09-12T05:28:42.020Z - info: Current opened pages, from most-to-least recent:
+2023-09-12T05:28:42.020Z - info: 1. schedule/week4/topics
+2023-09-12T05:28:43.028Z - info: Rebuilding 1 pages
+2023-09-12T05:28:45.235Z - info: Site data built
+2023-09-12T05:28:45.235Z - info: Pages rebuilt
+2023-09-12T05:28:45.235Z - info: Website regeneration complete! Total build time: 2.21s
+2023-09-12T05:29:57.793Z - info: [1:29:57 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\objectDiagrams\text.md
+2023-09-12T05:29:57.793Z - info: Synchronizing opened pages list before reload
+2023-09-12T05:29:57.794Z - info: Current opened pages, from most-to-least recent:
+2023-09-12T05:29:57.794Z - info: 1. schedule/week4/topics
+2023-09-12T05:29:58.811Z - info: Rebuilding 1 pages
+2023-09-12T05:30:01.086Z - info: Site data built
+2023-09-12T05:30:01.086Z - info: Pages rebuilt
+2023-09-12T05:30:01.086Z - info: Website regeneration complete! Total build time: 2.278s
+2023-09-12T05:32:03.753Z - info: [1:32:03 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\classDiagramsBasic\text.md
+2023-09-12T05:32:03.753Z - info: Synchronizing opened pages list before reload
+2023-09-12T05:32:03.755Z - info: Current opened pages, from most-to-least recent:
+2023-09-12T05:32:03.755Z - info: 1. schedule/week4/topics
+2023-09-12T05:32:04.766Z - info: Rebuilding 1 pages
+2023-09-12T05:32:06.971Z - info: Site data built
+2023-09-12T05:32:06.971Z - info: Pages rebuilt
+2023-09-12T05:32:06.971Z - info: Website regeneration complete! Total build time: 2.209s
+2023-09-12T05:33:24.125Z - info: [1:33:24 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\modeling\modelingStructures\classDiagramsBasic\text.md
+2023-09-12T05:33:24.126Z - info: Synchronizing opened pages list before reload
+2023-09-12T05:33:24.126Z - info: Current opened pages, from most-to-least recent:
+2023-09-12T05:33:24.126Z - info: 1. schedule/week4/topics
+2023-09-12T05:33:25.144Z - info: Rebuilding 1 pages
+2023-09-12T05:33:27.634Z - info: Site data built
+2023-09-12T05:33:27.634Z - info: Pages rebuilt
+2023-09-12T05:33:27.634Z - info: Website regeneration complete! Total build time: 2.492s
+2023-09-12T05:33:53.410Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\timeline as some of its dependencies were changed since the last visit
+2023-09-12T05:34:00.778Z - info: Site data built
+2023-09-12T05:34:00.779Z - info: Lazy website regeneration complete! Total build time: 7.369s
+2023-09-12T05:34:10.404Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\topics as some of its dependencies were changed since the last visit
+2023-09-12T05:34:14.581Z - debug:  
+2023-09-12T05:34:15.183Z - debug:  
+2023-09-12T05:34:15.413Z - info: Site data built
+2023-09-12T05:34:15.413Z - info: Lazy website regeneration complete! Total build time: 5.01s
+2023-09-12T05:35:16.020Z - info: Website generation started at 1:35:14 pm
+2023-09-12T05:35:26.860Z - info: Building assets...

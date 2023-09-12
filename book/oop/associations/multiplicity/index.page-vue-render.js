@@ -29,6 +29,6 @@ with(this){return _c('p',[_c('strong',[_v("A variable can be used to implement a
 with(this){return _c('p',[_c('strong',[_v("To implement other multiplicities, choose a suitable data structure")]),_v(" such as Arrays, ArrayLists, HashMaps, Sets, etc.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 12 Sept 2023, 2:21:08 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 12 Sept 2023, 13:35:33 GMT+8]")])])])}
 }];
   
