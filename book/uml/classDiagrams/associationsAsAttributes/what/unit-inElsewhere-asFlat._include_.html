@@ -10,10 +10,10 @@
 <box>
 <p><span><span aria-hidden="true" class="fas fa-cube"></span></span> The diagram below depicts a multi-player <em>Square Game</em> being played on a board comprising of 100 squares. Each of the squares may be occupied with any number of pieces, each belonging to a certain player.</p>
 <p>A <code class="line-numbers hljs inline no-lang" v-pre>Piece</code> may or may not be on a <code class="line-numbers hljs inline no-lang" v-pre>Square</code>.  Note how that association can be replaced by an <code class="line-numbers hljs inline no-lang" v-pre>isOn</code> attribute of the <code class="line-numbers hljs inline no-lang" v-pre>Piece</code> class. The <code class="line-numbers hljs inline no-lang" v-pre>isOn</code> attribute can either be <code class="line-numbers hljs inline no-lang" v-pre>null</code> or hold a reference to a <code class="line-numbers hljs inline no-lang" v-pre>Square</code> object, matching the <code class="line-numbers hljs inline no-lang" v-pre>0..1</code> multiplicity of the association it replaces. The default value is <code class="line-numbers hljs inline no-lang" v-pre>null</code>.</p>
-<pic src="/website/book/uml/classDiagrams/associationsAsAttributes/what/images/squareMultiplicity.png" width="600"></pic>
+<pic eager src="/website/book/uml/classDiagrams/associationsAsAttributes/what/images/squareMultiplicity.png" width="600"></pic>
 <p></p>
 <p>The association that a <code class="line-numbers hljs inline no-lang" v-pre>Board</code> has 100 <code class="line-numbers hljs inline no-lang" v-pre>Square</code>s can be shown in either of these two ways:</p>
-<pic src="/website/book/uml/classDiagrams/associationsAsAttributes/what/images/board.png" height="70"></pic>
+<pic eager src="/website/book/uml/classDiagrams/associationsAsAttributes/what/images/board.png" height="70"></pic>
 <p></p></box>
 <p><span style="color: red"><big><span><span aria-hidden="true" class="glyphicon glyphicon-exclamation-sign"></span></span></big></span> Show each association as <strong>either an attribute or a line but not both</strong>. A line is preferred as it is easier to spot.</p>
 <box>

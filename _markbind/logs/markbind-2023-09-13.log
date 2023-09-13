@@ -1,0 +1,27 @@
+2023-09-13T01:36:59.741Z - info: Website generation (lazy) started at 9:36:54 am
+2023-09-13T01:37:09.681Z - info: Building assets...
+2023-09-13T01:37:16.759Z - info: Assets built
+2023-09-13T01:37:16.760Z - info: Generating landing page...
+2023-09-13T01:37:19.730Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-09-13T01:37:21.514Z - info: Site data built
+2023-09-13T01:37:21.515Z - info: Website generation (lazy) complete! Total build time: 26.695s
+2023-09-13T01:37:22.710Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-09-13T01:37:22.711Z - info: Press CTRL+C to stop ...
+2023-09-13T01:40:47.687Z - info: [9:40:47 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-09-13T01:40:47.688Z - info: Synchronizing opened pages list before reload
+2023-09-13T01:40:47.688Z - info: Current opened pages, from most-to-least recent:
+2023-09-13T01:40:47.689Z - info: 1. index
+2023-09-13T01:40:48.702Z - info: Rebuilding 1 pages
+2023-09-13T01:40:50.411Z - info: Site data built
+2023-09-13T01:40:50.411Z - info: Pages rebuilt
+2023-09-13T01:40:50.412Z - info: Website regeneration complete! Total build time: 1.711s
+2023-09-13T01:40:57.876Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\project as some of its dependencies were changed since the last visit
+2023-09-13T01:40:59.784Z - info: Site data built
+2023-09-13T01:40:59.785Z - info: Lazy website regeneration complete! Total build time: 1.909s
+2023-09-13T01:41:45.330Z - info: [9:41:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-09-13T01:41:45.330Z - info: Synchronizing opened pages list before reload
+2023-09-13T01:41:45.331Z - info: Current opened pages, from most-to-least recent:
+2023-09-13T01:41:45.331Z - info: 1. schedule/week5/project
+2023-09-13T01:41:46.355Z - info: Rebuilding 1 pages
+2023-09-13T01:42:07.557Z - info: Website generation started at 9:42:05 am
+2023-09-13T01:42:19.000Z - info: Building assets...

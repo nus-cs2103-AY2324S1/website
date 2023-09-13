@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"code-navigation"}},[_c('span',
 with(this){return _c('ol',[_c('li',[_v("Quickly locate a file by name.")]),_v(" "),_c('li',[_v("Go to the definition of a method from where it is used.")]),_v(" "),_c('li',[_v("Go back to the previous location.")]),_v(" "),_c('li',[_v("View the documentation of a method from where the method is being used, without navigating to the method itself.")]),_v(" "),_c('li',[_v("Find where a method/field is being used.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 12 Sept 2023, 13:35:33 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Wed, 13 Sept 2023, 9:42:26 GMT+8]")])])])}
 }];
   
