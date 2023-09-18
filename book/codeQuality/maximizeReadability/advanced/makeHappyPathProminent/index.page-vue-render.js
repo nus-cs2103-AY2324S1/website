@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"make-the-happy-path-prominent"
 with(this){return _c('p',[_c('strong',[_v("The "),_c('em',[_v("happy path")]),_v(" should be clear and prominent in your code.")]),_v(" Restructure the code to make the happy path (i.e. the execution path taken when everything goes well) less-nested as much as possible. It is the ‘unusual’ cases that should be nested. Someone reading the code should not get distracted by alternative paths taken when error conditions happen. One technique that could help in this regard is the use of "),_c('a',{attrs:{"href":"http://wiki.c2.com/?GuardClause"}},[_v("guard clauses")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 16 Sept 2023, 21:24:24 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 18 Sept 2023, 16:55:39 GMT+8]")])])])}
 }];
   

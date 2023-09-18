@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"write-to-the-reader"}},[_c('sp
 with(this){return _c('p',[_c('strong',[_v("Write comments targeting other programmers reading the code.")]),_v(" Do not write comments as if they are private notes to yourself. Instead,  One type of comment that is almost always useful is the "),_c('em',[_v("header comment")]),_v(" that you write for a class or an operation to explain its purpose.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 16 Sept 2023, 21:24:24 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 18 Sept 2023, 16:55:39 GMT+8]")])])])}
 }];
   
