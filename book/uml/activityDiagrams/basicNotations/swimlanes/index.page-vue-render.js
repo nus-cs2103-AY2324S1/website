@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"swimlanes"}},[_c('span',[_v("S
 with(this){return _c('p',[_c('strong',[_v("It is possible to "),_c('em',[_v("partition")]),_v(" an activity diagram to show who is doing which action. Such partitioned activity diagrams are sometime called "),_c('em',[_v("swimlane diagrams")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 18 Sept 2023, 16:55:39 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 18 Sept 2023, 22:44:04 GMT+8]")])])])}
 }];
   
