@@ -38,12 +38,12 @@ with(this){return _c('p',[_c('strong',[_v("Use cases can be specified at "),_c('
 with(this){return _c('p',[_c('span',{staticClass:"badge rounded-pill bg-success text-white"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})]),_v(" While modeling user-system interactions,")])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("Start with high level use cases and progressively work toward lower level use cases.")]),_v(" "),_c('li',[_v("Be mindful of which level of detail you are working at and not to mix use cases of different levels.")])])}
+with(this){return _c('ul',[_c('li',[_v("start with high level use cases and progressively work toward lower level use cases.")]),_v(" "),_c('li',[_v("be mindful of which level of detail you are working at and not to mix use cases of different levels.")])])}
 },function anonymous(
 ) {
 with(this){return _c('h5',{attrs:{"id":"exercises"}},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-question-sign",attrs:{"aria-hidden":"true"}})]),_c('span',[_c('span',{staticClass:"glyphicon glyphicon-ok-sign",attrs:{"aria-hidden":"true"}})]),_v(" Exercises:"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#exercises","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 18 Sept 2023, 22:44:04 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Thu, 21 Sept 2023, 17:58:04 GMT+8]")])])])}
 }];
   

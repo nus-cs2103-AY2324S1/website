@@ -86,7 +86,7 @@ with(this){return _c('p',[_c('strong',[_v("Use cases can be specified at "),_c('
 with(this){return _c('p',[_c('span',{staticClass:"badge rounded-pill bg-success text-white"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})]),_v(" While modeling user-system interactions,")])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("Start with high level use cases and progressively work toward lower level use cases.")]),_v(" "),_c('li',[_v("Be mindful of which level of detail you are working at and not to mix use cases of different levels.")])])}
+with(this){return _c('ul',[_c('li',[_v("start with high level use cases and progressively work toward lower level use cases.")]),_v(" "),_c('li',[_v("be mindful of which level of detail you are working at and not to mix use cases of different levels.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Writing use case steps")])])}
@@ -164,6 +164,6 @@ with(this){return _c('div',[_c('h2',{attrs:{"id":"supplementary-requirements"}},
 with(this){return _c('strong',[_v("A "),_c('em',[_v("supplementary requirements")]),_v(" section can be used to capture "),_c('em',[_v("requirements that do not fit elsewhere")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 18 Sept 2023, 22:44:04 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Thu, 21 Sept 2023, 17:58:04 GMT+8]")])])])}
 }];
   
