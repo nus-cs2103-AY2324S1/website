@@ -1,0 +1,30 @@
+2023-10-02T05:14:50.441Z - info: Website generation (lazy) started at 1:14:42 pm
+2023-10-02T05:15:01.942Z - info: Building assets...
+2023-10-02T05:15:09.442Z - info: Assets built
+2023-10-02T05:15:09.443Z - info: Generating landing page...
+2023-10-02T05:15:11.047Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-10-02T05:15:11.971Z - info: Site data built
+2023-10-02T05:15:11.971Z - info: Website generation (lazy) complete! Total build time: 29.903s
+2023-10-02T05:15:12.847Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-10-02T05:15:12.847Z - info: Press CTRL+C to stop ...
+2023-10-02T05:16:20.314Z - info: [1:16:20 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-10-02T05:16:20.315Z - info: Synchronizing opened pages list before reload
+2023-10-02T05:16:20.316Z - info: Current opened pages, from most-to-least recent:
+2023-10-02T05:16:20.316Z - info: 1. index
+2023-10-02T05:16:21.335Z - info: Rebuilding 1 pages
+2023-10-02T05:16:22.817Z - info: Site data built
+2023-10-02T05:16:22.817Z - info: Pages rebuilt
+2023-10-02T05:16:22.818Z - info: Website regeneration complete! Total build time: 1.485s
+2023-10-02T05:16:25.540Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week7\project as some of its dependencies were changed since the last visit
+2023-10-02T05:16:28.325Z - info: Site data built
+2023-10-02T05:16:28.326Z - info: Lazy website regeneration complete! Total build time: 2.785s
+2023-10-02T05:17:11.363Z - info: [1:17:11 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-10-02T05:17:11.364Z - info: Synchronizing opened pages list before reload
+2023-10-02T05:17:11.364Z - info: Current opened pages, from most-to-least recent:
+2023-10-02T05:17:11.365Z - info: 1. schedule/week7/project
+2023-10-02T05:17:12.385Z - info: Rebuilding 1 pages
+2023-10-02T05:17:15.064Z - info: Site data built
+2023-10-02T05:17:15.065Z - info: Pages rebuilt
+2023-10-02T05:17:15.065Z - info: Website regeneration complete! Total build time: 2.681s
+2023-10-02T05:18:07.544Z - info: Website generation started at 1:18:05 pm
+2023-10-02T05:18:20.455Z - info: Building assets...

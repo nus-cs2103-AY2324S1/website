@@ -367,3 +367,29 @@
 2023-10-01T08:19:32.827Z - info: Lazy website regeneration complete! Total build time: 4.154s
 2023-10-01T08:21:03.239Z - info: Website generation started at 4:21:00 pm
 2023-10-01T08:21:17.272Z - info: Building assets...
+2023-10-01T08:21:27.007Z - info: Assets built
+2023-10-01T08:21:27.008Z - info: Generating pages...
+2023-10-01T08:21:47.720Z - debug:  
+2023-10-01T08:21:47.884Z - debug:  
+2023-10-01T08:21:48.029Z - debug:  
+2023-10-01T08:21:48.078Z - debug:  
+2023-10-01T08:21:48.089Z - debug:  
+2023-10-01T08:21:53.473Z - debug:  
+2023-10-01T08:21:53.474Z - debug:  
+2023-10-01T08:21:53.475Z - debug:  
+2023-10-01T08:21:53.475Z - debug:  
+2023-10-01T08:21:53.475Z - debug:  
+2023-10-01T08:21:53.476Z - debug:  
+2023-10-01T08:21:53.476Z - debug:  
+2023-10-01T08:21:53.477Z - debug:  
+2023-10-01T08:21:53.477Z - debug:  
+2023-10-01T08:21:53.477Z - debug:  
+2023-10-01T08:21:53.478Z - debug:  
+2023-10-01T08:24:23.496Z - debug:  
+2023-10-01T08:24:39.004Z - debug:  
+2023-10-01T08:24:39.119Z - debug:  
+2023-10-01T08:24:51.499Z - info: Pages built
+2023-10-01T08:24:52.972Z - info: Site data built
+2023-10-01T08:24:52.973Z - info: Website generation complete! Total build time: 232.468s
+2023-10-01T08:24:52.973Z - info: Build success!
+2023-10-01T08:30:56.777Z - info: The website has been deployed at: https://nus-cs2103-ay2324s1.github.io/website

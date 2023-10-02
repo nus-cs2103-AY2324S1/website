@@ -20,7 +20,7 @@ with(this){return _c('span',[_c('span',[_c('span',{staticClass:"fas fa-users",at
 with(this){return _c('span',{staticClass:"badge bg-secondary  font-weight-normal"},[_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}}),_v(" midnight before the tutorial")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("To get some practice of doing project iterations, do this week's tP work (i.e., updates to various documents) as if it is a project iteration that will reach a milestone "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("v1.1")]),_v(", as explained in the pane below.")])])}
+with(this){return _c('ul',[_c('li',[_v("To get some practice of doing project iterations, do this week's tP work (which is just updates to various documents, no changes to functionality) to reach the milestone "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("v1.1")]),_v(". The process to follow when doing an iteration is given in the panel below.")])])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("The documentation updates to be done in this iteration are described in the tP tasks in the sections below.")]),_v(" "),_c('li',[_v("Don't forget to 'wrap up' the milestone at the end of this week (as explained in the panel above), after the work is done.")])])}
@@ -80,6 +80,6 @@ with(this){return _c('div',[_c('ul',[_c('li',[_v("If you have time, start implem
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tp-w6.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" tP week 6: Conceptualize the product")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tp-w8.html"}},[_c('span',[_v("tP week 8: mid-v1.2 "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sun, 1 Oct 2023, 16:21:27 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 2 Oct 2023, 13:18:28 GMT+8]")])])])}
 }];
   
