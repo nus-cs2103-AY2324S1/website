@@ -212,6 +212,6 @@ with(this){return _c('div',[_c('p',[_v("Some contents of the website are hidden 
 with(this){return _c('div',[_c('p',[_v("Technically not CS2103T but as CS2101 is a co-requisite, my biggest complaint is the total combined workload.\nTaking both courses together makes the workload feel very hellish (I feel like I'm in week 12 during week 2-3)")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 2 Oct 2023, 13:18:28 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 2 Oct 2023, 13:30:15 GMT+8]")])])])}
 }];
   
