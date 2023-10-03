@@ -20,9 +20,9 @@ with(this){return _c('li',[_c('p',[_c('strong',[_v("Check a peer answer (provide
 with(this){return _c('span',{staticClass:"badge bg-secondary  font-weight-normal"},[_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}}),_v(" after the tutorial")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("After the tutorial, if applicable, refine the relevant sections of your own DG based on what you learned from the tutorial activities.")])])}
+with(this){return _c('ul',[_c('li',[_v("After the tutorial, if applicable, refine the relevant sections of your own DG based on what you learned from the tutorial activities."),_c('br'),_v("\nNote: Ideally, you should have completed iteration "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("v1.1")]),_v(" already. In that case, this DG refinement can be done as part of a subsequent iteration (e.g., "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("v1.2")]),_v(")")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 3 Oct 2023, 13:54:26 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 3 Oct 2023, 14:28:05 GMT+8]")])])])}
 }];
   
