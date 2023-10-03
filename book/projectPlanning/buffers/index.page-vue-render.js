@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"buffers"}},[_c('span',[_v("Buf
 with(this){return _c('p',[_c('strong',[_v("A "),_c('em',[_v("buffer")]),_v(" is time set aside to absorb any unforeseen delays.")]),_v(" It is very important to include buffers in a software project schedule because effort/time estimations for software development are notoriously hard. However, "),_c('strong',[_v("do not inflate task estimates to create hidden buffers")]),_v("; have explicit buffers instead. "),_c('span',{staticClass:"dimmed"},[_v("Reason: With explicit buffers, it is easier to detect incorrect effort estimates which can serve as feedback to improve future effort estimates.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 3 Oct 2023, 14:28:05 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Wed, 4 Oct 2023, 1:28:09 GMT+8]")])])])}
 }];
   
