@@ -20,6 +20,6 @@ with(this){return _c('p',[_c('strong',[_v("You can use models to analyze and des
 with(this){return _c('ul',[_c('li',[_v("Is this class structure able to produce the behavior you want?")]),_v(" "),_c('li',[_v("What API should each class have?")]),_v(" "),_c('li',[_v("Do you need more classes?")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Wed, 4 Oct 2023, 1:28:09 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Thu, 5 Oct 2023, 14:35:28 GMT+8]")])])])}
 }];
   
