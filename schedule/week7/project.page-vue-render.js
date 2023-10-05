@@ -32,7 +32,7 @@ with(this){return _c('span',{staticClass:"badge bg-secondary  font-weight-normal
 with(this){return _c('ul',[_c('li',[_v("To get some practice of doing project iterations, do this week's tP work (which is just updates to various documents, no changes to functionality) to reach the milestone "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("v1.1")]),_v(". The panel below explains how to use GitHub to do a project iteration.")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("The documentation updates to be done in this iteration are described in the tP tasks in the sections below.")]),_v(" "),_c('li',[_v("Don't forget to 'wrap up' the milestone at the end of this week (as explained in the panel above), after the work is done.")])])}
+with(this){return _c('ul',[_c('li',[_v("The documentation updates to be done in this iteration are described in the tP tasks in the sections below.")]),_v(" "),_c('li',[_v("Don't forget to 'wrap up' the milestone (as explained in the panel above), after the work is done.")]),_v(" "),_c('li',[_v("Ideally, this should be done by the midnight before the tutorial, but failing that, before the next lecture, as usual.")])])}
 },function anonymous(
 ) {
 with(this){return _c('span',[_c('span',[_c('span',{staticClass:"fas fa-users",attrs:{"aria-hidden":"true"}})]),_v(" Update project website: "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("AboutUs")]),_v(", "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("README")])])}
@@ -86,6 +86,6 @@ with(this){return _c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",att
 with(this){return _c('div',[_c('ul',[_c('li',[_v("If you have time, start implementing v1.2.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Thu, 5 Oct 2023, 14:35:28 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Thu, 5 Oct 2023, 17:10:02 GMT+8]")])])])}
 }];
   
