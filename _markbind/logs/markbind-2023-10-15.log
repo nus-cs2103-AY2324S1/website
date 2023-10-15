@@ -481,3 +481,104 @@
 2023-10-15T07:27:34.942Z - info: Website regeneration complete! Total build time: 1.613s
 2023-10-15T07:28:20.085Z - info: Website generation started at 3:28:17 pm
 2023-10-15T07:28:32.194Z - info: Building assets...
+2023-10-15T07:28:39.912Z - info: Assets built
+2023-10-15T07:28:39.913Z - info: Generating pages...
+2023-10-15T07:28:55.371Z - debug:  
+2023-10-15T07:28:55.519Z - debug:  
+2023-10-15T07:28:55.538Z - debug:  
+2023-10-15T07:28:55.543Z - debug:  
+2023-10-15T07:28:57.892Z - debug:  
+2023-10-15T07:28:57.892Z - debug:  
+2023-10-15T07:28:57.892Z - debug:  
+2023-10-15T07:28:57.893Z - debug:  
+2023-10-15T07:28:57.893Z - debug:  
+2023-10-15T07:28:57.895Z - debug:  
+2023-10-15T07:28:57.895Z - debug:  
+2023-10-15T07:28:57.895Z - debug:  
+2023-10-15T07:28:57.895Z - debug:  
+2023-10-15T07:28:57.895Z - debug:  
+2023-10-15T07:28:57.895Z - debug:  
+2023-10-15T07:28:57.896Z - debug:  
+2023-10-15T07:31:03.030Z - debug:  
+2023-10-15T07:31:17.771Z - debug:  
+2023-10-15T07:31:17.792Z - debug:  
+2023-10-15T07:31:30.368Z - info: Pages built
+2023-10-15T07:31:31.327Z - info: Site data built
+2023-10-15T07:31:31.327Z - info: Website generation complete! Total build time: 193.357s
+2023-10-15T07:31:31.327Z - info: Build success!
+2023-10-15T07:35:36.762Z - info: The website has been deployed at: https://nus-cs2103-ay2324s1.github.io/website
+2023-10-15T09:35:58.294Z - info: Website generation (lazy) started at 5:35:52 pm
+2023-10-15T09:36:10.806Z - info: Building assets...
+2023-10-15T09:36:19.419Z - info: Assets built
+2023-10-15T09:36:19.420Z - info: Generating landing page...
+2023-10-15T09:36:21.147Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-10-15T09:36:22.308Z - info: Site data built
+2023-10-15T09:36:22.308Z - info: Website generation (lazy) complete! Total build time: 29.514s
+2023-10-15T09:36:23.287Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-10-15T09:36:23.287Z - info: Press CTRL+C to stop ...
+2023-10-15T09:37:29.112Z - info: [5:37:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\tutorial-cs2103-fragment.md
+2023-10-15T09:37:29.113Z - info: Synchronizing opened pages list before reload
+2023-10-15T09:37:29.113Z - info: Current opened pages, from most-to-least recent:
+2023-10-15T09:37:29.113Z - info: 1. index
+2023-10-15T09:37:30.134Z - info: Assets built
+2023-10-15T09:37:31.513Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\tutorial as some of its dependencies were changed since the last visit
+2023-10-15T09:37:32.888Z - info: Site data built
+2023-10-15T09:37:32.889Z - info: Lazy website regeneration complete! Total build time: 1.375s
+2023-10-15T09:37:44.985Z - info: [5:37:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\tutorial-cs2103-fragment.md
+2023-10-15T09:37:44.986Z - info: Synchronizing opened pages list before reload
+2023-10-15T09:37:44.986Z - info: Current opened pages, from most-to-least recent:
+2023-10-15T09:37:44.986Z - info: 1. schedule/week9/tutorial
+2023-10-15T09:37:46.000Z - info: Rebuilding 1 pages
+2023-10-15T09:37:46.735Z - info: Site data built
+2023-10-15T09:37:46.735Z - info: Pages rebuilt
+2023-10-15T09:37:46.736Z - info: Website regeneration complete! Total build time: 0.737s
+2023-10-15T09:38:57.614Z - info: [5:38:57 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\tutorial-cs2103-fragment.md
+2023-10-15T09:38:57.615Z - info: Synchronizing opened pages list before reload
+2023-10-15T09:38:57.616Z - info: Current opened pages, from most-to-least recent:
+2023-10-15T09:38:57.617Z - info: 1. schedule/week9/tutorial
+2023-10-15T09:38:58.638Z - info: Rebuilding 1 pages
+2023-10-15T09:38:59.577Z - info: Site data built
+2023-10-15T09:38:59.578Z - info: Pages rebuilt
+2023-10-15T09:38:59.578Z - info: Website regeneration complete! Total build time: 0.941s
+2023-10-15T09:39:59.604Z - info: [5:39:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\tutorial-cs2103-fragment.md
+2023-10-15T09:39:59.604Z - info: Synchronizing opened pages list before reload
+2023-10-15T09:39:59.605Z - info: Current opened pages, from most-to-least recent:
+2023-10-15T09:39:59.605Z - info: 1. schedule/week9/tutorial
+2023-10-15T09:40:00.612Z - info: Rebuilding 1 pages
+2023-10-15T09:40:01.302Z - info: Site data built
+2023-10-15T09:40:01.302Z - info: Pages rebuilt
+2023-10-15T09:40:01.302Z - info: Website regeneration complete! Total build time: 0.691s
+2023-10-15T09:41:26.503Z - info: [5:41:26 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\tutorial-cs2103-fragment.md
+2023-10-15T09:41:26.504Z - info: Synchronizing opened pages list before reload
+2023-10-15T09:41:26.504Z - info: Current opened pages, from most-to-least recent:
+2023-10-15T09:41:26.504Z - info: 1. schedule/week9/tutorial
+2023-10-15T09:41:27.523Z - info: Rebuilding 1 pages
+2023-10-15T09:41:28.532Z - info: Site data built
+2023-10-15T09:41:28.532Z - info: Pages rebuilt
+2023-10-15T09:41:28.532Z - info: Website regeneration complete! Total build time: 1.01s
+2023-10-15T09:42:13.230Z - info: [5:42:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\tutorial-cs2103-fragment.md
+2023-10-15T09:42:13.230Z - info: Synchronizing opened pages list before reload
+2023-10-15T09:42:13.230Z - info: Current opened pages, from most-to-least recent:
+2023-10-15T09:42:13.230Z - info: 1. schedule/week9/tutorial
+2023-10-15T09:42:14.238Z - info: Rebuilding 1 pages
+2023-10-15T09:42:14.886Z - info: Site data built
+2023-10-15T09:42:14.887Z - info: Pages rebuilt
+2023-10-15T09:42:14.887Z - info: Website regeneration complete! Total build time: 0.65s
+2023-10-15T09:42:44.502Z - info: [5:42:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\tutorial-cs2103-fragment.md
+2023-10-15T09:42:44.503Z - info: Synchronizing opened pages list before reload
+2023-10-15T09:42:44.504Z - info: Current opened pages, from most-to-least recent:
+2023-10-15T09:42:44.504Z - info: 1. schedule/week9/tutorial
+2023-10-15T09:42:45.519Z - info: Rebuilding 1 pages
+2023-10-15T09:42:46.446Z - info: Site data built
+2023-10-15T09:42:46.446Z - info: Pages rebuilt
+2023-10-15T09:42:46.446Z - info: Website regeneration complete! Total build time: 0.928s
+2023-10-15T09:43:34.610Z - info: [5:43:34 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\tutorial-cs2103-fragment.md
+2023-10-15T09:43:34.611Z - info: Synchronizing opened pages list before reload
+2023-10-15T09:43:34.611Z - info: Current opened pages, from most-to-least recent:
+2023-10-15T09:43:34.612Z - info: 1. schedule/week9/tutorial
+2023-10-15T09:43:35.630Z - info: Rebuilding 1 pages
+2023-10-15T09:43:36.391Z - info: Site data built
+2023-10-15T09:43:36.391Z - info: Pages rebuilt
+2023-10-15T09:43:36.391Z - info: Website regeneration complete! Total build time: 0.762s
+2023-10-15T09:44:16.136Z - info: Website generation started at 5:44:14 pm
+2023-10-15T09:44:27.733Z - info: Building assets...
