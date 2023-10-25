@@ -1,0 +1,108 @@
+2023-10-25T16:22:55.119Z - info: Website generation (lazy) started at 12:22:48 am
+2023-10-25T16:23:07.897Z - info: Building assets...
+2023-10-25T16:23:15.571Z - info: Assets built
+2023-10-25T16:23:15.572Z - info: Generating landing page...
+2023-10-25T16:23:17.003Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-10-25T16:23:18.016Z - info: Site data built
+2023-10-25T16:23:18.016Z - info: Website generation (lazy) complete! Total build time: 29.5s
+2023-10-25T16:23:18.873Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-10-25T16:23:18.874Z - info: Press CTRL+C to stop ...
+2023-10-25T17:07:02.568Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2023-10-25T17:07:03.234Z - info: Site data built
+2023-10-25T17:07:03.235Z - info: Lazy website regeneration complete! Total build time: 0.667s
+2023-10-25T17:07:07.533Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub as some of its dependencies were changed since the last visit
+2023-10-25T17:07:08.634Z - info: Site data built
+2023-10-25T17:07:08.635Z - info: Lazy website regeneration complete! Total build time: 1.102s
+2023-10-25T17:16:32.690Z - info: [1:16:32 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-10-25T17:16:32.691Z - info: Synchronizing opened pages list before reload
+2023-10-25T17:16:32.691Z - info: Current opened pages, from most-to-least recent:
+2023-10-25T17:16:32.691Z - info: 1. admin/appendixE-gitHub
+2023-10-25T17:16:33.711Z - info: Rebuilding 1 pages
+2023-10-25T17:16:34.806Z - info: Site data built
+2023-10-25T17:16:34.807Z - info: Pages rebuilt
+2023-10-25T17:16:34.807Z - info: Website regeneration complete! Total build time: 1.097s
+2023-10-25T17:24:04.269Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\index as some of its dependencies were changed since the last visit
+2023-10-25T17:24:05.906Z - info: Site data built
+2023-10-25T17:24:05.906Z - info: Lazy website regeneration complete! Total build time: 1.638s
+2023-10-25T17:24:21.165Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin as some of its dependencies were changed since the last visit
+2023-10-25T17:24:21.628Z - info: Site data built
+2023-10-25T17:24:21.629Z - info: Lazy website regeneration complete! Total build time: 0.464s
+2023-10-25T17:30:56.689Z - info: [1:30:56 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams.md
+2023-10-25T17:30:56.690Z - info: Synchronizing opened pages list before reload
+2023-10-25T17:30:56.691Z - info: Current opened pages, from most-to-least recent:
+2023-10-25T17:30:56.691Z - info: 1. schedule/week11/admin
+2023-10-25T17:30:57.709Z - info: Rebuilding 1 pages
+2023-10-25T17:30:58.247Z - info: Site data built
+2023-10-25T17:30:58.248Z - info: Pages rebuilt
+2023-10-25T17:30:58.248Z - info: Website regeneration complete! Total build time: 0.54s
+2023-10-25T17:34:49.372Z - info: [1:34:49 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams.md
+2023-10-25T17:34:49.373Z - info: Synchronizing opened pages list before reload
+2023-10-25T17:34:49.373Z - info: Current opened pages, from most-to-least recent:
+2023-10-25T17:34:49.373Z - info: 1. schedule/week11/admin
+2023-10-25T17:34:50.380Z - info: Rebuilding 1 pages
+2023-10-25T17:34:50.759Z - info: Site data built
+2023-10-25T17:34:50.759Z - info: Pages rebuilt
+2023-10-25T17:34:50.759Z - info: Website regeneration complete! Total build time: 0.381s
+2023-10-25T17:35:00.890Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\topics as some of its dependencies were changed since the last visit
+2023-10-25T17:35:03.311Z - info: Site data built
+2023-10-25T17:35:03.311Z - info: Lazy website regeneration complete! Total build time: 2.421s
+2023-10-25T17:39:54.303Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\project as some of its dependencies were changed since the last visit
+2023-10-25T17:39:55.869Z - info: Site data built
+2023-10-25T17:39:55.870Z - info: Lazy website regeneration complete! Total build time: 1.567s
+2023-10-25T17:49:01.194Z - info: [1:49:01 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-10-25T17:49:01.194Z - info: Synchronizing opened pages list before reload
+2023-10-25T17:49:01.194Z - info: Current opened pages, from most-to-least recent:
+2023-10-25T17:49:01.195Z - info: 1. schedule/week11/project
+2023-10-25T17:49:01.228Z - info: [1:49:01 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-10-25T17:49:01.228Z - info: Synchronizing opened pages list before reload
+2023-10-25T17:49:01.228Z - info: Current opened pages, from most-to-least recent:
+2023-10-25T17:49:01.229Z - info: 1. schedule/week11/project
+2023-10-25T17:49:02.214Z - info: Rebuilding 1 pages
+2023-10-25T17:49:04.207Z - info: Site data built
+2023-10-25T17:49:04.207Z - info: Pages rebuilt
+2023-10-25T17:49:04.208Z - info: Website regeneration complete! Total build time: 1.995s
+2023-10-25T17:49:28.093Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\tutorial as some of its dependencies were changed since the last visit
+2023-10-25T17:49:28.794Z - info: Site data built
+2023-10-25T17:49:28.795Z - info: Lazy website regeneration complete! Total build time: 0.702s
+2023-10-25T17:50:14.563Z - info: [1:50:14 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\tutorial-cs2103-fragment.md
+2023-10-25T17:50:14.564Z - info: Synchronizing opened pages list before reload
+2023-10-25T17:50:14.566Z - info: Current opened pages, from most-to-least recent:
+2023-10-25T17:50:14.566Z - info: 1. schedule/week11/tutorial
+2023-10-25T17:50:15.581Z - info: Rebuilding 1 pages
+2023-10-25T17:50:15.990Z - info: Site data built
+2023-10-25T17:50:15.990Z - info: Pages rebuilt
+2023-10-25T17:50:15.991Z - info: Website regeneration complete! Total build time: 0.411s
+2023-10-25T17:50:28.645Z - info: [1:50:28 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\tutorial-cs2103-fragment.md
+2023-10-25T17:50:28.645Z - info: Synchronizing opened pages list before reload
+2023-10-25T17:50:28.645Z - info: Current opened pages, from most-to-least recent:
+2023-10-25T17:50:28.645Z - info: 1. schedule/week11/tutorial
+2023-10-25T17:50:29.657Z - info: Rebuilding 1 pages
+2023-10-25T17:50:29.971Z - info: Site data built
+2023-10-25T17:50:29.971Z - info: Pages rebuilt
+2023-10-25T17:50:29.971Z - info: Website regeneration complete! Total build time: 0.315s
+2023-10-25T17:54:20.564Z - info: [1:54:20 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\tutorial-cs2103-fragment.md
+2023-10-25T17:54:20.565Z - info: Synchronizing opened pages list before reload
+2023-10-25T17:54:20.565Z - info: Current opened pages, from most-to-least recent:
+2023-10-25T17:54:20.565Z - info: 1. schedule/week11/tutorial
+2023-10-25T17:54:21.578Z - info: Rebuilding 1 pages
+2023-10-25T17:54:22.263Z - info: Site data built
+2023-10-25T17:54:22.263Z - info: Pages rebuilt
+2023-10-25T17:54:22.264Z - info: Website regeneration complete! Total build time: 0.688s
+2023-10-25T17:54:58.354Z - info: [1:54:58 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\tutorial-cs2103-fragment.md
+2023-10-25T17:54:58.355Z - info: Synchronizing opened pages list before reload
+2023-10-25T17:54:58.355Z - info: Current opened pages, from most-to-least recent:
+2023-10-25T17:54:58.355Z - info: 1. schedule/week11/tutorial
+2023-10-25T17:54:59.367Z - info: Rebuilding 1 pages
+2023-10-25T17:54:59.747Z - info: Site data built
+2023-10-25T17:54:59.747Z - info: Pages rebuilt
+2023-10-25T17:54:59.747Z - info: Website regeneration complete! Total build time: 0.381s
+2023-10-25T17:55:14.629Z - info: [1:55:14 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\tutorial-cs2103-fragment.md
+2023-10-25T17:55:14.629Z - info: Synchronizing opened pages list before reload
+2023-10-25T17:55:14.629Z - info: Current opened pages, from most-to-least recent:
+2023-10-25T17:55:14.629Z - info: 1. schedule/week11/tutorial
+2023-10-25T17:55:15.636Z - info: Rebuilding 1 pages
+2023-10-25T17:55:15.951Z - info: Site data built
+2023-10-25T17:55:15.952Z - info: Pages rebuilt
+2023-10-25T17:55:15.952Z - info: Website regeneration complete! Total build time: 0.318s
+2023-10-25T17:56:53.139Z - info: Website generation started at 1:56:50 am
+2023-10-25T17:57:06.813Z - info: Building assets...
