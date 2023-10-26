@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"scrum"}},[_c('span',[_v("Scrum
 with(this){return _c('p',[_c('strong',[_c('em',[_v("Daily Scrum")]),_v(" is another key scrum practice")]),_v(". The description below was adapted from "),_c('a',{attrs:{"href":"https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum"}},[_v("https://www.mountaingoatsoftware.com")]),_v(" (emphasis added):")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Thu, 26 Oct 2023, 1:57:15 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Thu, 26 Oct 2023, 19:46:52 GMT+8]")])])])}
 }];
   

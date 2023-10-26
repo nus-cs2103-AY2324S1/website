@@ -191,6 +191,6 @@ with(this){return _c('h2',{attrs:{"id":"y"}},[_v("Y"),_c('a',{staticClass:"fa fa
 with(this){return _c('div',[_c('p',[_c('strong',[_v("YAGNI (You Aren't Gonna Need It!) Principle")]),_v(": Do not add code simply because ‘you might need it in the future’.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Thu, 26 Oct 2023, 1:57:15 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Thu, 26 Oct 2023, 19:46:52 GMT+8]")])])])}
 }];
   
