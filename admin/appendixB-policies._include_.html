@@ -320,8 +320,10 @@ Is publishing submissions unfair to the author? We don't think so. If you were t
 <ul>
 <li>You clearly give credit to the original author/source.</li>
 <li>You do not violate the license under which the work has been released. Please  <strong>do not use 3rd-party images/audio</strong> in your software unless they have been specifically released to be used freely. Just because you found it in the Internet does not mean it is free for reuse.</li></ul></li>
-<li><mark>Always get permission from us before you reuse</mark> third-party libraries. Please post your 'request to use 3rd party library' in our <a href="https://github.com/nus-cs2103-AY2324S1/forum/issues">forum</a>. That way, the whole class get to see what libraries are being used by others.<br>
-Note that once a 3rd party library has been approved for one student/team, it can be used freely by others without asking for approval again.</li></ul>
+<li><mark>Always get permission from us before you reuse</mark> third-party libraries. Please post your 'request to use 3rd party library' in our <a href="https://github.com/nus-cs2103-AY2324S1/forum/issues">forum</a>. That way, the whole class get to see what libraries are being used by others.
+<ul>
+<li>Our approval is given based on compliance with the course. Compliance with the license of the reused software is entirely your responsibility. While we don't anticipate such a case, any liability from improper reuse of a third-party library is to be borne by the person who reused it (i.e., not NUS).</li>
+<li>Once a 3rd party library has been approved for one student/team, it can be used freely by others without asking for approval again.</li></ul></li></ul>
 <div id="cite-reuse-immediately">
 <box type="important" seamless><template #icon><span aria-hidden="true" class="fas fa-exclamation"></span></template>
 <p><strong class="text-danger">Keep track of code reuse</strong> If you reuse/adapt code from elsewhere, cite the source in code immediately. Otherwise you will not remember the source of code reuse later. Not citing the original source can land you in trouble for plagiarism.</p></box></div>
@@ -395,12 +397,12 @@ Note that once a 3rd party library has been approved for one student/team, it ca
     </div>
     </button></div></pre></li>
 <li>If you copy-pasted a non-trivial code block (possibly with minor modifications <span class="dimmed">renaming, layout changes, changes to comments, etc.</span>), also mark the code block as reused code (using <trigger trigger="click" for="modal:reusePolicy-authorTags"><code class="line-numbers hljs inline no-lang" v-pre>@@author</code> tags</trigger> with the <mark><code class="line-numbers hljs inline no-lang" v-pre>-reused</code></mark> suffix)<br>
-Format:<pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-comment">//@@author {yourGithubUsername}-reused</span>
+Format:<pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-comment"><span>//<span class="highlighted">@@author</span> {yourGithubUsername}-reused</span></span>
 </span><span><span class="hljs-comment">//{Info about the source...}</span>
 </span><span>
 </span><span>{<span class="hljs-function">Reused <span class="hljs-title">code</span> <span class="hljs-params">(possibly with minor modifications)</span> here ...}</span>
 </span><span><span class="hljs-function"></span>
-</span><span><span class="hljs-function"><span class="hljs-comment">//@@author</span></span>
+</span><span><span class="hljs-function"><span class="hljs-comment"><span>//<span class="highlighted">@@author</span></span></span></span>
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
     <div class="function-btn-body">
     
@@ -418,7 +420,7 @@ Format:<pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-c
 
     </div>
     </button></div></pre><span><span aria-hidden="true" class="fas fa-cube"></span></span> Example of reusing a code snippet (with minor modifications):<pre><code class="line-numbers hljs java" v-pre><span>persons = getList()
-</span><span><span class="hljs-comment">//@@author johndoe-reused</span>
+</span><span><span class="hljs-comment"><span>//<span class="highlighted">@@author</span> johndoe-reused</span></span>
 </span><span><span class="hljs-comment">//Reused from https://stackoverflow.com/a/34646172</span>
 </span><span><span class="hljs-comment">// with minor modifications</span>
 </span><span>Collections.sort(persons, <span class="hljs-keyword">new</span> Comparator&lt;CustomData&gt;() {
@@ -427,7 +429,7 @@ Format:<pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-c
 </span><span>        <span class="hljs-keyword">return</span> lhs.customInt &gt; rhs.customInt ? -<span class="hljs-number">1</span> : <span class="hljs-number">0</span>;
 </span><span>    }
 </span><span>});
-</span><span><span class="hljs-comment">//@@author</span>
+</span><span><span class="hljs-comment"><span>//<span class="highlighted">@@author</span></span></span>
 </span><span><span class="hljs-keyword">return</span> persons;
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
     <div class="function-btn-body">

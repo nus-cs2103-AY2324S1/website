@@ -1,0 +1,370 @@
+2023-10-31T05:31:06.516Z - info: Website generation (lazy) started at 1:31:00 pm
+2023-10-31T05:31:18.803Z - info: Building assets...
+2023-10-31T05:31:26.373Z - info: Assets built
+2023-10-31T05:31:26.374Z - info: Generating landing page...
+2023-10-31T05:31:27.626Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-10-31T05:31:28.683Z - info: Site data built
+2023-10-31T05:31:28.683Z - info: Website generation (lazy) complete! Total build time: 27.992s
+2023-10-31T05:31:29.644Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-10-31T05:31:29.645Z - info: Press CTRL+C to stop ...
+2023-10-31T05:39:42.442Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2023-10-31T05:39:47.182Z - info: Site data built
+2023-10-31T05:39:47.183Z - info: Lazy website regeneration complete! Total build time: 4.744s
+2023-10-31T05:48:29.189Z - info: [1:48:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T05:48:29.190Z - info: Synchronizing opened pages list before reload
+2023-10-31T05:48:29.190Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T05:48:29.190Z - info: 1. admin/index
+2023-10-31T05:48:30.205Z - info: Rebuilding 1 pages
+2023-10-31T05:48:32.195Z - info: Site data built
+2023-10-31T05:48:32.196Z - info: Pages rebuilt
+2023-10-31T05:48:32.196Z - info: Website regeneration complete! Total build time: 1.993s
+2023-10-31T05:49:27.546Z - info: [1:49:27 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T05:49:27.547Z - info: Synchronizing opened pages list before reload
+2023-10-31T05:49:27.548Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T05:49:27.548Z - info: 1. admin/index
+2023-10-31T05:49:28.569Z - info: Rebuilding 1 pages
+2023-10-31T05:49:30.263Z - info: Site data built
+2023-10-31T05:49:30.264Z - info: Pages rebuilt
+2023-10-31T05:49:30.264Z - info: Website regeneration complete! Total build time: 1.696s
+2023-10-31T05:50:11.853Z - info: [1:50:11 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T05:50:11.853Z - info: Synchronizing opened pages list before reload
+2023-10-31T05:50:11.854Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T05:50:11.854Z - info: 1. admin/index
+2023-10-31T05:50:12.864Z - info: Rebuilding 1 pages
+2023-10-31T05:50:14.518Z - info: Site data built
+2023-10-31T05:50:14.518Z - info: Pages rebuilt
+2023-10-31T05:50:14.518Z - info: Website regeneration complete! Total build time: 1.655s
+2023-10-31T05:50:52.180Z - info: [1:50:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T05:50:52.182Z - info: Synchronizing opened pages list before reload
+2023-10-31T05:50:52.183Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T05:50:52.183Z - info: 1. admin/index
+2023-10-31T05:50:53.202Z - info: Rebuilding 1 pages
+2023-10-31T05:50:54.878Z - info: Site data built
+2023-10-31T05:50:54.878Z - info: Pages rebuilt
+2023-10-31T05:50:54.878Z - info: Website regeneration complete! Total build time: 1.676s
+2023-10-31T05:51:06.891Z - info: [1:51:06 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T05:51:06.891Z - info: Synchronizing opened pages list before reload
+2023-10-31T05:51:06.892Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T05:51:06.892Z - info: 1. admin/index
+2023-10-31T05:51:07.907Z - info: Rebuilding 1 pages
+2023-10-31T05:51:09.267Z - info: Site data built
+2023-10-31T05:51:09.267Z - info: Pages rebuilt
+2023-10-31T05:51:09.267Z - info: Website regeneration complete! Total build time: 1.361s
+2023-10-31T05:51:29.551Z - info: [1:51:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T05:51:29.552Z - info: Synchronizing opened pages list before reload
+2023-10-31T05:51:29.552Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T05:51:29.553Z - info: 1. admin/index
+2023-10-31T05:51:30.559Z - info: Rebuilding 1 pages
+2023-10-31T05:51:32.274Z - info: Site data built
+2023-10-31T05:51:32.274Z - info: Pages rebuilt
+2023-10-31T05:51:32.274Z - info: Website regeneration complete! Total build time: 1.715s
+2023-10-31T05:52:20.519Z - info: [1:52:20 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T05:52:20.520Z - info: Synchronizing opened pages list before reload
+2023-10-31T05:52:20.520Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T05:52:20.520Z - info: 1. admin/index
+2023-10-31T05:52:21.525Z - info: Rebuilding 1 pages
+2023-10-31T05:52:23.214Z - info: Site data built
+2023-10-31T05:52:23.214Z - info: Pages rebuilt
+2023-10-31T05:52:23.214Z - info: Website regeneration complete! Total build time: 1.691s
+2023-10-31T05:52:31.279Z - info: [1:52:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T05:52:31.279Z - info: Synchronizing opened pages list before reload
+2023-10-31T05:52:31.280Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T05:52:31.280Z - info: 1. admin/index
+2023-10-31T05:52:32.299Z - info: Rebuilding 1 pages
+2023-10-31T05:52:33.679Z - info: Site data built
+2023-10-31T05:52:33.680Z - info: Pages rebuilt
+2023-10-31T05:52:33.680Z - info: Website regeneration complete! Total build time: 1.382s
+2023-10-31T05:53:55.227Z - info: [1:53:55 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T05:53:55.228Z - info: Synchronizing opened pages list before reload
+2023-10-31T05:53:55.228Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T05:53:55.228Z - info: 1. admin/index
+2023-10-31T05:53:56.235Z - info: Rebuilding 1 pages
+2023-10-31T05:53:57.997Z - info: Site data built
+2023-10-31T05:53:57.997Z - info: Pages rebuilt
+2023-10-31T05:53:57.997Z - info: Website regeneration complete! Total build time: 1.764s
+2023-10-31T05:54:35.618Z - info: [1:54:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T05:54:35.618Z - info: Synchronizing opened pages list before reload
+2023-10-31T05:54:35.619Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T05:54:35.619Z - info: 1. admin/index
+2023-10-31T05:54:36.630Z - info: Rebuilding 1 pages
+2023-10-31T05:54:38.318Z - info: Site data built
+2023-10-31T05:54:38.318Z - info: Pages rebuilt
+2023-10-31T05:54:38.318Z - info: Website regeneration complete! Total build time: 1.691s
+2023-10-31T05:54:53.074Z - info: [1:54:53 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T05:54:53.074Z - info: Synchronizing opened pages list before reload
+2023-10-31T05:54:53.074Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T05:54:53.074Z - info: 1. admin/index
+2023-10-31T05:54:54.081Z - info: Rebuilding 1 pages
+2023-10-31T05:54:55.453Z - info: Site data built
+2023-10-31T05:54:55.453Z - info: Pages rebuilt
+2023-10-31T05:54:55.453Z - info: Website regeneration complete! Total build time: 1.373s
+2023-10-31T05:55:36.557Z - info: [1:55:36 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T05:55:36.558Z - info: Synchronizing opened pages list before reload
+2023-10-31T05:55:36.558Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T05:55:36.558Z - info: 1. admin/index
+2023-10-31T05:55:37.576Z - info: Rebuilding 1 pages
+2023-10-31T05:55:39.589Z - info: Site data built
+2023-10-31T05:55:39.589Z - info: Pages rebuilt
+2023-10-31T05:55:39.590Z - info: Website regeneration complete! Total build time: 2.014s
+2023-10-31T05:57:01.649Z - info: [1:57:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T05:57:01.649Z - info: Synchronizing opened pages list before reload
+2023-10-31T05:57:01.650Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T05:57:01.650Z - info: 1. admin/index
+2023-10-31T05:57:02.656Z - info: Rebuilding 1 pages
+2023-10-31T05:57:04.305Z - info: Site data built
+2023-10-31T05:57:04.305Z - info: Pages rebuilt
+2023-10-31T05:57:04.305Z - info: Website regeneration complete! Total build time: 1.65s
+2023-10-31T05:57:51.917Z - info: [1:57:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T05:57:51.917Z - info: Synchronizing opened pages list before reload
+2023-10-31T05:57:51.918Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T05:57:51.918Z - info: 1. admin/index
+2023-10-31T05:57:52.932Z - info: Rebuilding 1 pages
+2023-10-31T05:57:54.622Z - info: Site data built
+2023-10-31T05:57:54.623Z - info: Pages rebuilt
+2023-10-31T05:57:54.623Z - info: Website regeneration complete! Total build time: 1.692s
+2023-10-31T05:58:09.000Z - info: [1:58:08 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T05:58:09.000Z - info: Synchronizing opened pages list before reload
+2023-10-31T05:58:09.000Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T05:58:09.000Z - info: 1. admin/index
+2023-10-31T05:58:10.019Z - info: Rebuilding 1 pages
+2023-10-31T05:58:11.392Z - info: Site data built
+2023-10-31T05:58:11.392Z - info: Pages rebuilt
+2023-10-31T05:58:11.392Z - info: Website regeneration complete! Total build time: 1.374s
+2023-10-31T05:59:28.505Z - info: [1:59:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T05:59:28.506Z - info: Synchronizing opened pages list before reload
+2023-10-31T05:59:28.506Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T05:59:28.506Z - info: 1. admin/index
+2023-10-31T05:59:29.521Z - info: Rebuilding 1 pages
+2023-10-31T05:59:31.256Z - info: Site data built
+2023-10-31T05:59:31.256Z - info: Pages rebuilt
+2023-10-31T05:59:31.256Z - info: Website regeneration complete! Total build time: 1.736s
+2023-10-31T07:40:02.043Z - info: [3:40:02 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-fragment.md
+2023-10-31T07:40:02.045Z - info: Synchronizing opened pages list before reload
+2023-10-31T07:40:02.047Z - info: No pages are currently opened
+2023-10-31T07:40:03.063Z - info: Assets built
+2023-10-31T07:50:15.733Z - info: [3:50:15 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T07:50:15.734Z - info: Synchronizing opened pages list before reload
+2023-10-31T07:50:15.735Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T07:50:15.735Z - info: 1. admin/index
+2023-10-31T07:50:16.761Z - info: Rebuilding 1 pages
+2023-10-31T07:50:19.052Z - info: Site data built
+2023-10-31T07:50:19.052Z - info: Pages rebuilt
+2023-10-31T07:50:19.052Z - info: Website regeneration complete! Total build time: 2.305s
+2023-10-31T07:55:00.219Z - info: [3:55:00 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T07:55:00.220Z - info: Synchronizing opened pages list before reload
+2023-10-31T07:55:00.220Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T07:55:00.220Z - info: 1. admin/index
+2023-10-31T07:55:01.225Z - info: Rebuilding 1 pages
+2023-10-31T07:55:02.889Z - info: Site data built
+2023-10-31T07:55:02.889Z - info: Pages rebuilt
+2023-10-31T07:55:02.889Z - info: Website regeneration complete! Total build time: 1.665s
+2023-10-31T07:55:55.104Z - info: [3:55:55 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T07:55:55.104Z - info: Synchronizing opened pages list before reload
+2023-10-31T07:55:55.104Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T07:55:55.104Z - info: 1. admin/index
+2023-10-31T07:55:56.120Z - info: Rebuilding 1 pages
+2023-10-31T07:55:57.912Z - info: Site data built
+2023-10-31T07:55:57.912Z - info: Pages rebuilt
+2023-10-31T07:55:57.912Z - info: Website regeneration complete! Total build time: 1.794s
+2023-10-31T07:58:33.881Z - info: [3:58:33 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T07:58:33.881Z - info: Synchronizing opened pages list before reload
+2023-10-31T07:58:33.882Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T07:58:33.882Z - info: 1. admin/index
+2023-10-31T07:58:34.898Z - info: Rebuilding 1 pages
+2023-10-31T07:58:36.551Z - info: Site data built
+2023-10-31T07:58:36.552Z - info: Pages rebuilt
+2023-10-31T07:58:36.552Z - info: Website regeneration complete! Total build time: 1.655s
+2023-10-31T07:58:50.161Z - info: [3:58:50 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T07:58:50.161Z - info: Synchronizing opened pages list before reload
+2023-10-31T07:58:50.161Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T07:58:50.161Z - info: 1. admin/index
+2023-10-31T07:58:51.168Z - info: Rebuilding 1 pages
+2023-10-31T07:58:52.502Z - info: Site data built
+2023-10-31T07:58:52.503Z - info: Pages rebuilt
+2023-10-31T07:58:52.503Z - info: Website regeneration complete! Total build time: 1.336s
+2023-10-31T08:02:12.384Z - info: [4:02:12 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:02:12.384Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:02:12.384Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:02:12.385Z - info: 1. admin/index
+2023-10-31T08:02:13.407Z - info: Rebuilding 1 pages
+2023-10-31T08:02:15.096Z - info: Site data built
+2023-10-31T08:02:15.097Z - info: Pages rebuilt
+2023-10-31T08:02:15.097Z - info: Website regeneration complete! Total build time: 1.691s
+2023-10-31T08:02:32.693Z - info: [4:02:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:02:32.694Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:02:32.695Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:02:32.695Z - info: 1. admin/index
+2023-10-31T08:02:33.712Z - info: Rebuilding 1 pages
+2023-10-31T08:02:35.359Z - info: Site data built
+2023-10-31T08:02:35.359Z - info: Pages rebuilt
+2023-10-31T08:02:35.360Z - info: Website regeneration complete! Total build time: 1.649s
+2023-10-31T08:02:49.146Z - info: [4:02:49 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:02:49.146Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:02:49.147Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:02:49.147Z - info: 1. admin/index
+2023-10-31T08:02:50.163Z - info: Rebuilding 1 pages
+2023-10-31T08:02:51.804Z - info: Site data built
+2023-10-31T08:02:51.805Z - info: Pages rebuilt
+2023-10-31T08:02:51.805Z - info: Website regeneration complete! Total build time: 1.643s
+2023-10-31T08:03:35.865Z - info: [4:03:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:03:35.866Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:03:35.866Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:03:35.867Z - info: 1. admin/index
+2023-10-31T08:03:36.881Z - info: Rebuilding 1 pages
+2023-10-31T08:03:38.526Z - info: Site data built
+2023-10-31T08:03:38.526Z - info: Pages rebuilt
+2023-10-31T08:03:38.526Z - info: Website regeneration complete! Total build time: 1.647s
+2023-10-31T08:05:56.430Z - info: [4:05:56 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:05:56.430Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:05:56.431Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:05:56.431Z - info: 1. admin/index
+2023-10-31T08:05:57.450Z - info: Rebuilding 1 pages
+2023-10-31T08:05:59.491Z - info: Site data built
+2023-10-31T08:05:59.492Z - info: Pages rebuilt
+2023-10-31T08:05:59.492Z - info: Website regeneration complete! Total build time: 2.043s
+2023-10-31T08:09:42.081Z - info: [4:09:42 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:09:42.082Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:09:42.082Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:09:42.082Z - info: 1. admin/index
+2023-10-31T08:09:43.090Z - info: Rebuilding 1 pages
+2023-10-31T08:09:44.965Z - info: Site data built
+2023-10-31T08:09:44.966Z - info: Pages rebuilt
+2023-10-31T08:09:44.966Z - info: Website regeneration complete! Total build time: 1.878s
+2023-10-31T08:11:01.273Z - info: [4:11:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:11:01.273Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:11:01.274Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:11:01.274Z - info: 1. admin/index
+2023-10-31T08:11:02.279Z - info: Rebuilding 1 pages
+2023-10-31T08:11:04.009Z - info: Site data built
+2023-10-31T08:11:04.009Z - info: Pages rebuilt
+2023-10-31T08:11:04.009Z - info: Website regeneration complete! Total build time: 1.731s
+2023-10-31T08:11:48.466Z - info: [4:11:48 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:11:48.467Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:11:48.467Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:11:48.467Z - info: 1. admin/index
+2023-10-31T08:11:49.488Z - info: Rebuilding 1 pages
+2023-10-31T08:11:51.176Z - info: Site data built
+2023-10-31T08:11:51.177Z - info: Pages rebuilt
+2023-10-31T08:11:51.177Z - info: Website regeneration complete! Total build time: 1.692s
+2023-10-31T08:12:13.856Z - info: [4:12:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:12:13.857Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:12:13.858Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:12:13.858Z - info: 1. admin/index
+2023-10-31T08:12:14.882Z - info: Rebuilding 1 pages
+2023-10-31T08:12:16.572Z - info: Site data built
+2023-10-31T08:12:16.572Z - info: Pages rebuilt
+2023-10-31T08:12:16.572Z - info: Website regeneration complete! Total build time: 1.692s
+2023-10-31T08:12:45.155Z - info: [4:12:45 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:12:45.156Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:12:45.157Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:12:45.157Z - info: 1. admin/index
+2023-10-31T08:12:46.182Z - info: Rebuilding 1 pages
+2023-10-31T08:12:47.854Z - info: Site data built
+2023-10-31T08:12:47.854Z - info: Pages rebuilt
+2023-10-31T08:12:47.854Z - info: Website regeneration complete! Total build time: 1.675s
+2023-10-31T08:15:46.555Z - info: [4:15:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:15:46.556Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:15:46.556Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:15:46.557Z - info: 1. admin/index
+2023-10-31T08:15:47.564Z - info: Rebuilding 1 pages
+2023-10-31T08:15:49.294Z - info: Site data built
+2023-10-31T08:15:49.294Z - info: Pages rebuilt
+2023-10-31T08:15:49.294Z - info: Website regeneration complete! Total build time: 1.731s
+2023-10-31T08:15:54.224Z - info: [4:15:54 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:15:54.224Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:15:54.224Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:15:54.225Z - info: 1. admin/index
+2023-10-31T08:15:55.228Z - info: Rebuilding 1 pages
+2023-10-31T08:15:56.623Z - info: Site data built
+2023-10-31T08:15:56.623Z - info: Pages rebuilt
+2023-10-31T08:15:56.623Z - info: Website regeneration complete! Total build time: 1.396s
+2023-10-31T08:17:48.933Z - info: [4:17:48 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:17:48.933Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:17:48.933Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:17:48.934Z - info: 1. admin/index
+2023-10-31T08:17:49.955Z - info: Rebuilding 1 pages
+2023-10-31T08:17:51.672Z - info: Site data built
+2023-10-31T08:17:51.673Z - info: Pages rebuilt
+2023-10-31T08:17:51.673Z - info: Website regeneration complete! Total build time: 1.721s
+2023-10-31T08:18:28.834Z - info: [4:18:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:18:28.835Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:18:28.835Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:18:28.835Z - info: 1. admin/index
+2023-10-31T08:18:29.851Z - info: Rebuilding 1 pages
+2023-10-31T08:18:31.568Z - info: Site data built
+2023-10-31T08:18:31.568Z - info: Pages rebuilt
+2023-10-31T08:18:31.568Z - info: Website regeneration complete! Total build time: 1.717s
+2023-10-31T08:18:49.102Z - info: [4:18:49 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:18:49.103Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:18:49.103Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:18:49.103Z - info: 1. admin/index
+2023-10-31T08:18:50.113Z - info: Rebuilding 1 pages
+2023-10-31T08:18:51.796Z - info: Site data built
+2023-10-31T08:18:51.796Z - info: Pages rebuilt
+2023-10-31T08:18:51.797Z - info: Website regeneration complete! Total build time: 1.684s
+2023-10-31T08:22:34.787Z - info: [4:22:34 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:22:34.795Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:22:34.802Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:22:34.803Z - info: 1. admin/index
+2023-10-31T08:22:35.876Z - info: Rebuilding 1 pages
+2023-10-31T08:22:38.096Z - info: Site data built
+2023-10-31T08:22:38.097Z - info: Pages rebuilt
+2023-10-31T08:22:38.097Z - info: Website regeneration complete! Total build time: 2.258s
+2023-10-31T08:22:49.600Z - info: [4:22:49 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-pen-and-paper.md
+2023-10-31T08:22:49.600Z - info: Synchronizing opened pages list before reload
+2023-10-31T08:22:49.600Z - info: Current opened pages, from most-to-least recent:
+2023-10-31T08:22:49.601Z - info: 1. admin/index
+2023-10-31T08:22:50.617Z - info: Rebuilding 1 pages
+2023-10-31T08:22:52.019Z - info: Site data built
+2023-10-31T08:22:52.020Z - info: Pages rebuilt
+2023-10-31T08:22:52.020Z - info: Website regeneration complete! Total build time: 1.405s
+2023-10-31T08:23:51.928Z - info: Website generation started at 4:23:47 pm
+2023-10-31T08:24:06.610Z - info: Building assets...
+2023-10-31T08:24:15.944Z - info: Assets built
+2023-10-31T08:24:15.945Z - info: Generating pages...
+2023-10-31T08:24:42.024Z - debug:  
+2023-10-31T08:24:42.024Z - debug:  
+2023-10-31T08:24:42.024Z - debug:  
+2023-10-31T08:24:42.025Z - debug:  
+2023-10-31T08:24:42.025Z - debug:  
+2023-10-31T08:24:42.026Z - debug:  
+2023-10-31T08:24:42.026Z - debug:  
+2023-10-31T08:24:42.026Z - debug:  
+2023-10-31T08:24:42.026Z - debug:  
+2023-10-31T08:24:42.027Z - debug:  
+2023-10-31T08:24:42.027Z - debug:  
+2023-10-31T08:24:42.027Z - debug:  
+2023-10-31T08:24:42.027Z - debug:  
+2023-10-31T08:24:42.169Z - debug:  
+2023-10-31T08:24:46.736Z - debug:  
+2023-10-31T08:25:20.914Z - debug:  
+2023-10-31T08:26:26.112Z - info: Pages built
+2023-10-31T08:26:27.241Z - info: Site data built
+2023-10-31T08:26:27.241Z - info: Website generation complete! Total build time: 159.443s
+2023-10-31T08:26:27.241Z - info: Build success!
+2023-10-31T08:32:05.852Z - info: The website has been deployed at: https://nus-tic2002-ay2324s1.github.io/website
+2023-10-31T12:39:29.849Z - info: Website generation started at 8:39:02 pm
+2023-10-31T12:40:31.228Z - info: Building assets...
+2023-10-31T12:40:45.613Z - info: Assets built
+2023-10-31T12:40:45.614Z - info: Generating pages...
+2023-10-31T12:41:23.692Z - debug:  
+2023-10-31T12:41:23.693Z - debug:  
+2023-10-31T12:41:23.694Z - debug:  
+2023-10-31T12:41:23.695Z - debug:  
+2023-10-31T12:41:23.697Z - debug:  
+2023-10-31T12:41:23.698Z - debug:  
+2023-10-31T12:41:23.699Z - debug:  
+2023-10-31T12:41:23.699Z - debug:  
+2023-10-31T12:41:23.700Z - debug:  
+2023-10-31T12:41:23.701Z - debug:  
+2023-10-31T12:41:23.702Z - debug:  
+2023-10-31T12:41:23.702Z - debug:  
+2023-10-31T12:41:23.704Z - debug:  
+2023-10-31T12:41:23.704Z - debug:  
+2023-10-31T12:41:29.811Z - debug:  
+2023-10-31T12:42:14.361Z - debug:  
+2023-10-31T12:43:20.727Z - info: Pages built
+2023-10-31T12:43:21.611Z - info: Site data built
+2023-10-31T12:43:21.611Z - info: Website generation complete! Total build time: 258.793s
+2023-10-31T12:43:21.611Z - info: Build success!
+2023-10-31T12:44:39.947Z - info: The website has been deployed at: https://nus-tic2002-ay2324s1.github.io/website
