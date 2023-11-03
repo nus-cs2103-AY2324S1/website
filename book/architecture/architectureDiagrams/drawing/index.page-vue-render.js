@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"drawing"}},[_c('span',[_v("Dra
 with(this){return _c('ul',[_c('li',[_c('p',[_v("Minimize the variety of symbols. If the symbols you choose do not have widely-understood meanings "),_c('span',{staticClass:"dimmed"},[_v("e.g. A drum symbol is widely-understood as representing a database")]),_v(", explain their meaning.")])]),_v(" "),_c('li',[_c('p',[_v("Avoid the indiscriminate use of double-headed arrows to show interactions between components.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Fri, 3 Nov 2023, 21:01:35 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 4 Nov 2023, 0:22:58 GMT+8]")])])])}
 }];
   
