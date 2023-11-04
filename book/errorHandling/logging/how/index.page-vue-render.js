@@ -35,6 +35,6 @@ with(this){return _c('p',[_c('strong',[_v("Best Practices")]),_v(":")])}
 with(this){return _c('ul',[_c('li',[_c('a',{attrs:{"href":"https://www.javacodegeeks.com/2011/01/10-tips-proper-application-logging.html"}},[_c('strong',[_v("10 Tips for Proper Application Logging")])]),_v(" -- by "),_c('em',[_v("Tomasz Nurkiewicz")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"http://commons.apache.org/proper/commons-logging/guide.html#Message_PrioritiesLevels"}},[_c('strong',[_v("What each logging level means")])]),_v(" -- conventions recommended by "),_c('em',[_v("Apache Project")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 4 Nov 2023, 0:22:58 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 4 Nov 2023, 12:49:22 GMT+8]")])])])}
 }];
   

@@ -44,6 +44,6 @@ with(this){return _c('p',[_v("Next, add two more files "),_c('code',{pre:true,at
 with(this){return _c('p',[_c('strong',[_v("6. See the revision graph:")]),_v("  Note how commits form a path-like structure aka the "),_c('em',[_v("revision tree/graph")]),_v(". In the revision graph, each commit is shown as linked to its 'parent' commit (i.e., the commit before it).")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 4 Nov 2023, 0:22:58 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 4 Nov 2023, 12:49:22 GMT+8]")])])])}
 }];
   
