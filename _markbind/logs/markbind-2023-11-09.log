@@ -1,0 +1,130 @@
+2023-11-08T16:07:04.099Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe as some of its dependencies were changed since the last visit
+2023-11-08T16:07:06.174Z - info: Site data built
+2023-11-08T16:07:06.175Z - info: Lazy website regeneration complete! Total build time: 2.076s
+2023-11-08T16:58:37.449Z - info: [12:58:37 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped-fragment.md
+2023-11-08T16:58:37.457Z - info: Synchronizing opened pages list before reload
+2023-11-08T16:58:37.465Z - info: Current opened pages, from most-to-least recent:
+2023-11-08T16:58:37.466Z - info: 1. admin/tp-pe
+2023-11-08T16:58:38.548Z - info: Rebuilding 1 pages
+2023-11-08T16:58:39.770Z - info: Site data built
+2023-11-08T16:58:39.770Z - info: Pages rebuilt
+2023-11-08T16:58:39.771Z - info: Website regeneration complete! Total build time: 1.257s
+2023-11-08T16:58:55.187Z - info: [12:58:55 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped-fragment.md
+2023-11-08T16:58:55.187Z - info: Synchronizing opened pages list before reload
+2023-11-08T16:58:55.187Z - info: Current opened pages, from most-to-least recent:
+2023-11-08T16:58:55.187Z - info: 1. admin/tp-pe
+2023-11-08T16:58:56.203Z - info: Rebuilding 1 pages
+2023-11-08T16:58:57.101Z - info: Site data built
+2023-11-08T16:58:57.101Z - info: Pages rebuilt
+2023-11-08T16:58:57.101Z - info: Website regeneration complete! Total build time: 0.9s
+2023-11-08T16:59:13.585Z - info: [12:59:13 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped-fragment.md
+2023-11-08T16:59:13.585Z - info: Synchronizing opened pages list before reload
+2023-11-08T16:59:13.585Z - info: Current opened pages, from most-to-least recent:
+2023-11-08T16:59:13.585Z - info: 1. admin/tp-pe
+2023-11-08T16:59:14.598Z - info: Rebuilding 1 pages
+2023-11-08T16:59:15.314Z - info: Site data built
+2023-11-08T16:59:15.315Z - info: Pages rebuilt
+2023-11-08T16:59:15.315Z - info: Website regeneration complete! Total build time: 0.718s
+2023-11-08T17:02:49.176Z - info: [1:02:49 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped-fragment.md
+2023-11-08T17:02:49.177Z - info: Synchronizing opened pages list before reload
+2023-11-08T17:02:49.177Z - info: Current opened pages, from most-to-least recent:
+2023-11-08T17:02:49.177Z - info: 1. admin/tp-pe
+2023-11-08T17:02:50.191Z - info: Rebuilding 1 pages
+2023-11-08T17:02:51.361Z - info: Site data built
+2023-11-08T17:02:51.361Z - info: Pages rebuilt
+2023-11-08T17:02:51.361Z - info: Website regeneration complete! Total build time: 1.171s
+2023-11-08T17:03:43.227Z - info: [1:03:43 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped-fragment.md
+2023-11-08T17:03:43.227Z - info: Synchronizing opened pages list before reload
+2023-11-08T17:03:43.227Z - info: Current opened pages, from most-to-least recent:
+2023-11-08T17:03:43.228Z - info: 1. admin/tp-pe
+2023-11-08T17:03:44.242Z - info: Rebuilding 1 pages
+2023-11-08T17:03:45.461Z - info: Site data built
+2023-11-08T17:03:45.461Z - info: Pages rebuilt
+2023-11-08T17:03:45.461Z - info: Website regeneration complete! Total build time: 1.22s
+2023-11-08T17:07:30.244Z - info: [1:07:30 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-fragment.md
+2023-11-08T17:07:30.245Z - info: Synchronizing opened pages list before reload
+2023-11-08T17:07:30.246Z - info: Current opened pages, from most-to-least recent:
+2023-11-08T17:07:30.246Z - info: 1. admin/tp-pe
+2023-11-08T17:07:31.264Z - info: Rebuilding 1 pages
+2023-11-08T17:07:32.377Z - info: Site data built
+2023-11-08T17:07:32.377Z - info: Pages rebuilt
+2023-11-08T17:07:32.378Z - info: Website regeneration complete! Total build time: 1.115s
+2023-11-08T17:28:56.102Z - info: [1:28:56 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-fragment.md
+2023-11-08T17:28:56.102Z - info: Synchronizing opened pages list before reload
+2023-11-08T17:28:56.103Z - info: Current opened pages, from most-to-least recent:
+2023-11-08T17:28:56.104Z - info: 1. admin/tp-pe
+2023-11-08T17:28:57.113Z - info: Rebuilding 1 pages
+2023-11-08T17:28:58.397Z - info: Site data built
+2023-11-08T17:28:58.398Z - info: Pages rebuilt
+2023-11-08T17:28:58.398Z - info: Website regeneration complete! Total build time: 1.286s
+2023-11-08T17:29:14.147Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\exams as some of its dependencies were changed since the last visit
+2023-11-08T17:29:14.370Z - info: Site data built
+2023-11-08T17:29:14.370Z - info: Lazy website regeneration complete! Total build time: 0.223s
+2023-11-08T17:37:48.905Z - info: [1:37:48 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
+2023-11-08T17:37:48.905Z - info: Synchronizing opened pages list before reload
+2023-11-08T17:37:48.906Z - info: Current opened pages, from most-to-least recent:
+2023-11-08T17:37:48.906Z - info: 1. admin/exams
+2023-11-08T17:37:49.913Z - info: No pages needed to be rebuilt
+2023-11-08T17:38:09.538Z - info: [1:38:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams.md
+2023-11-08T17:38:09.538Z - info: Synchronizing opened pages list before reload
+2023-11-08T17:38:09.540Z - info: Current opened pages, from most-to-least recent:
+2023-11-08T17:38:09.540Z - info: 1. admin/exams
+2023-11-08T17:38:10.553Z - info: Rebuilding 1 pages
+2023-11-08T17:38:10.854Z - info: Site data built
+2023-11-08T17:38:10.854Z - info: Pages rebuilt
+2023-11-08T17:38:10.855Z - info: Website regeneration complete! Total build time: 0.302s
+2023-11-08T17:38:37.075Z - info: [1:38:37 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams.md
+2023-11-08T17:38:37.075Z - info: Synchronizing opened pages list before reload
+2023-11-08T17:38:37.075Z - info: Current opened pages, from most-to-least recent:
+2023-11-08T17:38:37.075Z - info: 1. admin/exams
+2023-11-08T17:38:38.082Z - info: Rebuilding 1 pages
+2023-11-08T17:38:38.322Z - info: Site data built
+2023-11-08T17:38:38.323Z - info: Pages rebuilt
+2023-11-08T17:38:38.323Z - info: Website regeneration complete! Total build time: 0.243s
+2023-11-08T17:41:25.684Z - info: [1:41:25 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams.md
+2023-11-08T17:41:25.684Z - info: Synchronizing opened pages list before reload
+2023-11-08T17:41:25.684Z - info: Current opened pages, from most-to-least recent:
+2023-11-08T17:41:25.685Z - info: 1. admin/exams
+2023-11-08T17:41:26.686Z - info: Rebuilding 1 pages
+2023-11-08T17:41:26.926Z - info: Site data built
+2023-11-08T17:41:26.926Z - info: Pages rebuilt
+2023-11-08T17:41:26.926Z - info: Website regeneration complete! Total build time: 0.241s
+2023-11-08T17:46:41.501Z - info: Website generation (lazy) started at 1:46:41 am
+2023-11-08T17:46:54.834Z - info: Building assets...
+2023-11-08T17:47:04.524Z - info: Assets built
+2023-11-08T17:47:04.525Z - info: Generating landing page...
+2023-11-08T17:47:05.852Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-11-08T17:47:06.939Z - info: Site data built
+2023-11-08T17:47:06.940Z - info: Website generation (lazy) complete! Total build time: 25.46s
+2023-11-08T17:47:07.867Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-11-08T17:47:07.867Z - info: Press CTRL+C to stop ...
+2023-11-08T17:47:09.185Z - info: [1:47:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\weeklyTpTasks-fragment.md
+2023-11-08T17:47:09.186Z - info: Synchronizing opened pages list before reload
+2023-11-08T17:47:09.186Z - info: No pages are currently opened
+2023-11-08T17:47:10.536Z - info: No pages needed to be rebuilt
+2023-11-08T17:47:25.904Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week13\index as some of its dependencies were changed since the last visit
+2023-11-08T17:47:30.354Z - info: Site data built
+2023-11-08T17:47:30.354Z - info: Lazy website regeneration complete! Total build time: 4.45s
+2023-11-08T17:49:18.836Z - info: [1:49:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\weeklyTpTasks-fragment.md
+2023-11-08T17:49:18.838Z - info: Synchronizing opened pages list before reload
+2023-11-08T17:49:18.839Z - info: Current opened pages, from most-to-least recent:
+2023-11-08T17:49:18.840Z - info: 1. schedule/week13/index
+2023-11-08T17:49:19.845Z - info: Rebuilding 1 pages
+2023-11-08T17:49:21.153Z - info: Site data built
+2023-11-08T17:49:21.153Z - info: Pages rebuilt
+2023-11-08T17:49:21.153Z - info: Website regeneration complete! Total build time: 1.31s
+2023-11-08T17:49:44.034Z - info: [1:49:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\weeklyTpTasks-fragment.md
+2023-11-08T17:49:44.035Z - info: Synchronizing opened pages list before reload
+2023-11-08T17:49:44.035Z - info: Current opened pages, from most-to-least recent:
+2023-11-08T17:49:44.035Z - info: 1. schedule/week13/index
+2023-11-08T17:49:45.050Z - info: Rebuilding 1 pages
+2023-11-08T17:49:45.660Z - info: Site data built
+2023-11-08T17:49:45.660Z - info: Pages rebuilt
+2023-11-08T17:49:45.660Z - info: Website regeneration complete! Total build time: 0.611s
+2023-11-08T17:51:43.241Z - info: [1:51:43 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2113\weeklyTpTasks-fragment.md
+2023-11-08T17:51:43.242Z - info: Synchronizing opened pages list before reload
+2023-11-08T17:51:43.244Z - info: Current opened pages, from most-to-least recent:
+2023-11-08T17:51:43.244Z - info: 1. schedule/week13/index
+2023-11-08T17:51:44.264Z - info: Assets built
+2023-11-08T17:52:40.609Z - info: Website generation started at 1:52:37 am
+2023-11-08T17:52:53.469Z - info: Building assets...

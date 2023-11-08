@@ -26,6 +26,6 @@ with(this){return _c('tbody',[_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"clas
 with(this){return _c('ol',[_c('li',[_v("When you use classes that come from another source, such as the classes in the Java platform, access levels determine which members of those classes your own classes can use.")]),_v(" "),_c('li',[_v("When you write a class, you need to decide what access level every member variable and every method in your class should have.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Wed, 8 Nov 2023, 22:05:47 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Thu, 9 Nov 2023, 1:53:01 GMT+8]")])])])}
 }];
   
