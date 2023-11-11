@@ -146,6 +146,6 @@ with(this){return _c('p',[_v("Congratulations! The application now shows the lis
 with(this){return _c('p',[_v("You may notice that selecting a person in the "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("TableView")]),_v(" does nothing to the labels at the right side. That is because the user interaction portion has not been programmed yet, which we will cover in the next part of the tutorial.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 11 Nov 2023, 0:57:54 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 11 Nov 2023, 14:52:48 GMT+8]")])])])}
 }];
   

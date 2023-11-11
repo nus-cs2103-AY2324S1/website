@@ -14,7 +14,7 @@ with(this){return _c('h1',{attrs:{"id":"tp-supervision"}},[_c('span',{staticClas
 with(this){return _c('div',{attrs:{"tags":"m--cs2113 m--cs2103"}},[_c('p',[_v("Your tutor will serve as your "),_c('em',[_v("project supervisor")]),_v(" too.")])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{attrs:{"tags":"m--cs2113 m--cs2103"}},[_c('p',[_c('strong',[_v("The supervisor's main job (in the context of this course) is to observe, facilitate self/peer learning, evaluate, and give feedback.")])]),_v(" "),_c('p',[_v("Tutorial time is the main avenue for meeting your supervisor. In addition, you can meet the supervisor at other times, as many times you need, subject to availability in his/her schedule.")])])}
+with(this){return _c('div',{attrs:{"tags":"m--cs2113 m--cs2103"}},[_c('p',[_c('strong',[_v("The tutor's main job (in the context of this course project) is to observe, facilitate self/peer learning, evaluate, and give feedback.")])]),_v(" "),_c('p',[_v("Tutorial time is the main avenue for meeting your tutor. In addition, you can meet the tutor at other times, as many times you need, subject to availability in his/her schedule.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_c('mark',[_v("Tutors are not allowed to contribute to graded components of your project work.")])]),_v(" For example, if you are faced with a design decision in your project, a tutor will not make that decision for you."),_c('br'),_v(" "),_c('span',{staticClass:"dimmed"},[_v("Reason: to ensure fairness across teams, and to ensure the work you submit for grading is entirely your own")])])}
@@ -26,6 +26,6 @@ with(this){return _c('p',[_v("Following from the above, "),_c('strong',[_v("don'
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tp-grading.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" tP: Grading")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/peerEvaluations.html"}},[_c('span',[_v("Peer Evaluations "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 11 Nov 2023, 0:57:54 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 11 Nov 2023, 14:52:48 GMT+8]")])])])}
 }];
   

@@ -212,7 +212,7 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("Strictly 18 minutes for a 5
 with(this){return _c('h4',{attrs:{"id":"demo-target-audience"}},[_c('span',{staticClass:"badge bg-info"},[_v("Demo")]),_v(" "),_c('span',{staticClass:"text-info"},[_v("Target audience")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#demo-target-audience","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('strong',[_v("Assume you are giving a demo to a higher-level manager of your company")]),_v(", to brief them on the current capabilities of the product. This is the first time they are seeing the new product you developed. The actual audience are the evaluators (the team supervisor and another tutor).")])])}
+with(this){return _c('ul',[_c('li',[_c('strong',[_v("Assume you are giving a demo to a higher-level manager of your company")]),_v(", to brief them on the current capabilities of the product. This is the first time they are seeing the new product you developed. The actual audience are the evaluators (two tutors).")])])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"demo-scope"}},[_c('span',{staticClass:"badge bg-info"},[_v("Demo")]),_v(" "),_c('span',{staticClass:"text-info"},[_v("Scope")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#demo-scope","onclick":"event.stopPropagation()"}})])}
@@ -245,6 +245,6 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("Plan the demo to be in sync
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tp-w13.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" tP week 13: v1.4")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tp-ped.html"}},[_c('span',[_v("tP: Practical Exam Dry Run "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 11 Nov 2023, 0:57:54 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 11 Nov 2023, 14:52:48 GMT+8]")])])])}
 }];
   

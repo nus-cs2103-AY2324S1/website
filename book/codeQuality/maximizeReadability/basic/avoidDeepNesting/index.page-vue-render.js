@@ -23,6 +23,6 @@ with(this){return _c('p',[_c('strong',[_v("Avoid deep nesting")]),_v(" -- the de
 with(this){return _c('p',[_c('strong',[_v("In particular, avoid "),_c('a',{attrs:{"href":"https://blog.codinghorror.com/flattening-arrow-code/"}},[_c('em',[_v("arrowhead")]),_v(" style code")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 11 Nov 2023, 0:57:54 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 11 Nov 2023, 14:52:48 GMT+8]")])])])}
 }];
   
