@@ -158,3 +158,98 @@
 2023-11-11T08:02:02.818Z - info: Lazy website regeneration complete! Total build time: 4.545s
 2023-11-11T08:02:53.044Z - info: Website generation started at 4:02:51 pm
 2023-11-11T08:03:03.230Z - info: Building assets...
+2023-11-11T08:03:10.125Z - info: Assets built
+2023-11-11T08:03:10.126Z - info: Generating pages...
+2023-11-11T08:03:28.027Z - debug:  
+2023-11-11T08:03:28.040Z - debug:  
+2023-11-11T08:03:28.040Z - debug:  
+2023-11-11T08:03:28.331Z - debug:  
+2023-11-11T08:03:31.529Z - debug:  
+2023-11-11T08:03:31.530Z - debug:  
+2023-11-11T08:03:31.530Z - debug:  
+2023-11-11T08:03:31.530Z - debug:  
+2023-11-11T08:03:31.530Z - debug:  
+2023-11-11T08:03:31.531Z - debug:  
+2023-11-11T08:03:31.531Z - debug:  
+2023-11-11T08:03:31.531Z - debug:  
+2023-11-11T08:03:31.532Z - debug:  
+2023-11-11T08:03:31.532Z - debug:  
+2023-11-11T08:03:31.532Z - debug:  
+2023-11-11T08:03:31.532Z - debug:  
+2023-11-11T08:05:35.066Z - debug:  
+2023-11-11T08:05:50.828Z - debug:  
+2023-11-11T08:05:50.902Z - debug:  
+2023-11-11T08:06:03.176Z - info: Pages built
+2023-11-11T08:06:04.134Z - info: Site data built
+2023-11-11T08:06:04.134Z - info: Website generation complete! Total build time: 192.976s
+2023-11-11T08:06:04.134Z - info: Build success!
+2023-11-11T08:08:22.664Z - info: The website has been deployed at: https://nus-cs2103-ay2324s1.github.io/website
+2023-11-11T08:58:30.347Z - info: Website generation (lazy) started at 4:58:24 pm
+2023-11-11T08:58:44.717Z - info: Building assets...
+2023-11-11T08:58:53.072Z - info: Assets built
+2023-11-11T08:58:53.072Z - info: Generating landing page...
+2023-11-11T08:58:54.252Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-11-11T08:58:55.202Z - info: Site data built
+2023-11-11T08:58:55.202Z - info: Website generation (lazy) complete! Total build time: 31.094s
+2023-11-11T08:58:56.102Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-11-11T08:58:56.102Z - info: Press CTRL+C to stop ...
+2023-11-11T08:58:58.091Z - info: [4:58:58 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-deliverables-dg-fragment.md
+2023-11-11T08:58:58.091Z - info: Synchronizing opened pages list before reload
+2023-11-11T08:58:58.092Z - info: No pages are currently opened
+2023-11-11T08:58:59.256Z - info: Assets built
+2023-11-11T08:59:05.858Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week13\project as some of its dependencies were changed since the last visit
+2023-11-11T08:59:15.915Z - info: Site data built
+2023-11-11T08:59:15.915Z - info: Lazy website regeneration complete! Total build time: 10.057s
+2023-11-11T08:59:16.848Z - info: [4:59:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-deliverables-dg-fragment.md
+2023-11-11T08:59:16.849Z - info: Synchronizing opened pages list before reload
+2023-11-11T08:59:16.850Z - info: Current opened pages, from most-to-least recent:
+2023-11-11T08:59:16.850Z - info: 1. schedule/week13/project
+2023-11-11T08:59:17.868Z - info: Rebuilding 1 pages
+2023-11-11T08:59:19.761Z - info: Site data built
+2023-11-11T08:59:19.761Z - info: Pages rebuilt
+2023-11-11T08:59:19.761Z - info: Website regeneration complete! Total build time: 1.894s
+2023-11-11T09:02:22.704Z - info: [5:02:22 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-deliverables-dg-fragment.md
+2023-11-11T09:02:22.705Z - info: Synchronizing opened pages list before reload
+2023-11-11T09:02:22.705Z - info: Current opened pages, from most-to-least recent:
+2023-11-11T09:02:22.706Z - info: 1. schedule/week13/project
+2023-11-11T09:02:23.727Z - info: Rebuilding 1 pages
+2023-11-11T09:02:26.317Z - info: Site data built
+2023-11-11T09:02:26.318Z - info: Pages rebuilt
+2023-11-11T09:02:26.318Z - info: Website regeneration complete! Total build time: 2.592s
+2023-11-11T09:02:42.954Z - info: [5:02:42 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-deliverables-dg-fragment.md
+2023-11-11T09:02:42.955Z - info: Synchronizing opened pages list before reload
+2023-11-11T09:02:42.955Z - info: Current opened pages, from most-to-least recent:
+2023-11-11T09:02:42.955Z - info: 1. schedule/week13/project
+2023-11-11T09:02:43.972Z - info: Rebuilding 1 pages
+2023-11-11T09:02:46.358Z - info: Site data built
+2023-11-11T09:02:46.358Z - info: Pages rebuilt
+2023-11-11T09:02:46.358Z - info: Website regeneration complete! Total build time: 2.386s
+2023-11-11T09:03:35.238Z - info: Website generation started at 5:03:32 pm
+2023-11-11T09:03:48.448Z - info: Building assets...
+2023-11-11T09:03:56.780Z - info: Assets built
+2023-11-11T09:03:56.780Z - info: Generating pages...
+2023-11-11T09:04:15.077Z - debug:  
+2023-11-11T09:04:15.077Z - debug:  
+2023-11-11T09:04:15.116Z - debug:  
+2023-11-11T09:04:15.243Z - debug:  
+2023-11-11T09:04:15.271Z - debug:  
+2023-11-11T09:04:17.780Z - debug:  
+2023-11-11T09:04:17.780Z - debug:  
+2023-11-11T09:04:17.781Z - debug:  
+2023-11-11T09:04:17.781Z - debug:  
+2023-11-11T09:04:17.781Z - debug:  
+2023-11-11T09:04:17.781Z - debug:  
+2023-11-11T09:04:17.781Z - debug:  
+2023-11-11T09:04:17.782Z - debug:  
+2023-11-11T09:04:17.782Z - debug:  
+2023-11-11T09:04:17.782Z - debug:  
+2023-11-11T09:04:17.782Z - debug:  
+2023-11-11T09:06:37.689Z - debug:  
+2023-11-11T09:06:54.884Z - debug:  
+2023-11-11T09:06:54.902Z - debug:  
+2023-11-11T09:07:07.532Z - info: Pages built
+2023-11-11T09:07:08.485Z - info: Site data built
+2023-11-11T09:07:08.485Z - info: Website generation complete! Total build time: 216.356s
+2023-11-11T09:07:08.485Z - info: Build success!
+2023-11-11T09:09:07.084Z - info: Website generation started at 5:09:01 pm
+2023-11-11T09:09:20.031Z - info: Building assets...

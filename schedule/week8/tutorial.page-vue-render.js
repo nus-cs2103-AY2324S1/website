@@ -38,6 +38,6 @@ with(this){return _c('ol',{attrs:{"start":"2"}},[_c('li',[_c('span',{staticClass
 with(this){return _c('div',{staticClass:"indented"},[_c('ul',[_c('li',[_v("As before, paste the diagram in the "),_c('em',[_v("tutorial workspace")]),_v(" document, and take part in the follow up discussion, as guided by the tutor.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 11 Nov 2023, 16:03:10 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 11 Nov 2023, 17:09:27 GMT+8]")])])])}
 }];
   
