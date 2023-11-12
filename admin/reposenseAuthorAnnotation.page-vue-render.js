@@ -11,31 +11,31 @@ with(this){return _c('h4',{attrs:{"id":"adding-author-tags-indicate-authorship"}
 with(this){return _c('p',[_v("Mark your code with a "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("//@@author {yourGithubUsername}")]),_v(". Note the double "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("@")]),_v("."),_c('br'),_v("\nThe "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("//@@author")]),_v(" tag should indicates the beginning of the code you wrote. The code up to the next "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("//@@author")]),_v(" tag or the end of the file (whichever comes first) will be considered as was written by that author.\nHere is a sample code file:")])}
 },function anonymous(
 ) {
-with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs"}},[_c('span',[_v("//@@author johndoe\n")]),_c('span',[_v("method 1 ...\n")]),_c('span',[_v("method 2 ...\n")]),_c('span',[_v("//@@author sarahkhoo\n")]),_c('span',[_v("method 3 ...\n")]),_c('span',[_v("//@@author johndoe\n")]),_c('span',[_v("method 4 ...\n")])])}
+with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs"}},[_c('span',[_c('span',{pre:true,attrs:{"class":"highlighted"}},[_v("//@@author johndoe")]),_v("\n")]),_c('span',[_v("method 1 ...\n")]),_c('span',[_v("method 2 ...\n")]),_c('span',[_c('span',{pre:true,attrs:{"class":"highlighted"}},[_v("//@@author sarahkhoo")]),_v("\n")]),_c('span',[_v("method 3 ...\n")]),_c('span',[_c('span',{pre:true,attrs:{"class":"highlighted"}},[_v("//@@author johndoe")]),_v("\n")]),_c('span',[_v("method 4 ...\n")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("If you don't know who wrote the code segment below yours")]),_v(", you may put an empty "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("//@@author")]),_v(" (i.e. no GitHub username) to indicate the end of the code segment you wrote. The author of code below yours can add the GitHub username to the empty tag later.\nHere is a sample code with an empty "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("author")]),_v(" tag:")])}
 },function anonymous(
 ) {
-with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs"}},[_c('span',[_v("method 0 ...\n")]),_c('span',[_v("//@@author johndoe\n")]),_c('span',[_v("method 1 ...\n")]),_c('span',[_v("method 2 ...\n")]),_c('span',[_v("//@@author\n")]),_c('span',[_v("method 3 ...\n")]),_c('span',[_v("method 4 ...\n")])])}
+with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs"}},[_c('span',[_v("method 0 ...\n")]),_c('span',[_c('span',{pre:true,attrs:{"class":"highlighted"}},[_v("//@@author johndoe")]),_v("\n")]),_c('span',[_v("method 1 ...\n")]),_c('span',[_v("method 2 ...\n")]),_c('span',[_c('span',{pre:true,attrs:{"class":"highlighted"}},[_v("//@@author")]),_v("\n")]),_c('span',[_v("method 3 ...\n")]),_c('span',[_v("method 4 ...\n")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("The author tag syntax varies based on file type")]),_v(" e.g. for java, css, fxml. Use the corresponding comment syntax for non-Java files."),_c('br'),_v("\nHere is an example code from an xml/fxml file.")])}
+with(this){return _c('p',[_c('strong',[_v("The author tag syntax varies based on file type")]),_v(" e.g. for java, css, fxml. Use the corresponding comment syntax for non-Java files."),_c('br'),_v("\nHere is an example code from an xml/fxml file. This format works for Markdown/MarkBind files as well.")])}
 },function anonymous(
 ) {
-with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs"}},[_c('span',[_v("<!-- @@author sereneWong -->\n")]),_c('span',[_v("<textbox>\n")]),_c('span',[_v("  <label>...</label>\n")]),_c('span',[_v("  <input>...</input>\n")]),_c('span',[_v("</textbox>\n")]),_c('span',[_v("...\n")])])}
+with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs"}},[_c('span',[_c('span',{pre:true,attrs:{"class":"highlighted"}},[_v("<!-- @@author sereneWong -->")]),_v("\n")]),_c('span',[_v("<textbox>\n")]),_c('span',[_v("  <label>...</label>\n")]),_c('span',[_v("  <input>...</input>\n")]),_c('span',[_v("</textbox>\n")]),_c('span',[_v("...\n")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Do not put the "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("//@@author")]),_v(" inside java header comments")]),_v("."),_c('br'),_v("\n👎"),_c('span',[_c('span',{staticClass:"fas fa-arrow-down",attrs:{"aria-hidden":"true"}})])])}
+with(this){return _c('p',[_c('strong',[_v("Do not put the "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("//@@author")]),_v(" inside java header comments")]),_v("."),_c('br'),_v(" "),_c('span',{staticStyle:{"color":"red"}},[_c('span',[_c('strong',[_c('span',{staticClass:"fas fa-thumbs-down",attrs:{"aria-hidden":"true"}}),_v(" Bad")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs"}},[_c('span',[_v("/**\n")]),_c('span',[_v("  * Returns true if ...\n")]),_c('span',[_v("  * @@author johndoe\n")]),_c('span',[_v("  */\n")])])}
+with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs"}},[_c('span',[_v("/**\n")]),_c('span',[_v("  * Returns true if ...\n")]),_c('span',[_v("  "),_c('span',{pre:true,attrs:{"class":"highlighted"}},[_v("* @@author johndoe")]),_v("\n")]),_c('span',[_v("  */\n")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("👍"),_c('span',[_c('span',{staticClass:"fas fa-arrow-down",attrs:{"aria-hidden":"true"}})])])}
+with(this){return _c('p',[_c('span',{staticStyle:{"color":"green"}},[_c('span',[_c('strong',[_c('span',{staticClass:"fas fa-thumbs-up",attrs:{"aria-hidden":"true"}}),_v(" Good")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs"}},[_c('span',[_v("//@@author johndoe\n")]),_c('span',[_v("/**\n")]),_c('span',[_v("  * Returns true if ...\n")]),_c('span',[_v("  */\n")])])}
+with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs"}},[_c('span',[_c('span',{pre:true,attrs:{"class":"highlighted"}},[_v("//@@author johndoe")]),_v("\n")]),_c('span',[_v("/**\n")]),_c('span',[_v("  * Returns true if ...\n")]),_c('span',[_v("  */\n")])])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"what-to-and-what-not-to-annotate"}},[_v("What to and what not to annotate"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#what-to-and-what-not-to-annotate","onclick":"event.stopPropagation()"}})])}
@@ -56,18 +56,18 @@ with(this){return _c('p',[_c('strong',[_v("If you wrote a significant amount of 
 with(this){return _c('ul',[_c('li',[_v("Create a folder called "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("{project root}/unused")])]),_v(" "),_c('li',[_v("Move unused files (or copies of files containing unused code) to that folder")]),_v(" "),_c('li',[_v("use "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("//@@author {yourGitHubUsername}-unused")]),_v(" to mark unused code in those files (note the suffix "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("unused")]),_v(")\ne.g.")])])}
 },function anonymous(
 ) {
-with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs"}},[_c('span',[_v("//@@author johndoe-unused\n")]),_c('span',[_v("method 1 ...\n")]),_c('span',[_v("method 2 ...\n")])])}
+with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs"}},[_c('span',[_c('span',{pre:true,attrs:{"class":"highlighted"}},[_v("//@@author johndoe-unused")]),_v("\n")]),_c('span',[_v("method 1 ...\n")]),_c('span',[_v("method 2 ...\n")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("If you reused code from elsewhere,")]),_v(" mark such code as "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("//@@author {yourGitHubUsername}-reused")]),_v(" (note the suffix "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("reused")]),_v(")\ne.g.")])}
 },function anonymous(
 ) {
-with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs"}},[_c('span',[_v("//@@author johndoe-reused\n")]),_c('span',[_v("method 1 ...\n")]),_c('span',[_v("method 2 ...\n")])])}
+with(this){return _c('code',{pre:true,attrs:{"class":"line-numbers hljs"}},[_c('span',[_c('span',{pre:true,attrs:{"class":"highlighted"}},[_v("//@@author johndoe-reused")]),_v("\n")]),_c('span',[_v("method 1 ...\n")]),_c('span',[_v("method 2 ...\n")])])}
 },function anonymous(
 ) {
 with(this){return _c('li',[_c('p',[_c('strong',[_v("You can use empty "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("@@author")]),_v(" tags to mark code as not yours when RepoSense attribute the code to you incorrectly.")])]),_v(" "),_c('ul',[_c('li',[_c('p',[_c('strong',[_v("Code generated by the IDE/framework,")]),_v(" should not be annotated as your own.")])]),_v(" "),_c('li',[_c('p',[_c('strong',[_v("Code you modified in minor ways")]),_v(" e.g. adding a parameter. These should not be claimed as yours but you can mention these additional contributions in the Project Portfolio page if you want to claim credit for them.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sun, 12 Nov 2023, 18:03:27 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 13 Nov 2023, 1:42:03 GMT+8]")])])])}
 }];
   

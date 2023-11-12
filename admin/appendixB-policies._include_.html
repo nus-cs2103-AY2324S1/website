@@ -459,12 +459,12 @@ Format:<pre><code class="line-numbers hljs java" v-pre><span><span class="hljs-c
 <p>Mark your code with a <code class="line-numbers hljs inline no-lang" v-pre>//@@author {yourGithubUsername}</code>. Note the double <code class="line-numbers hljs inline no-lang" v-pre>@</code>.<br>
 The <code class="line-numbers hljs inline no-lang" v-pre>//@@author</code> tag should indicates the beginning of the code you wrote. The code up to the next <code class="line-numbers hljs inline no-lang" v-pre>//@@author</code> tag or the end of the file (whichever comes first) will be considered as was written by that author.
 Here is a sample code file:</p>
-<pre><code class="line-numbers hljs" v-pre><span>//@@author johndoe
+<pre><code class="line-numbers hljs" v-pre><span><span class="highlighted">//@@author johndoe</span>
 </span><span>method 1 ...
 </span><span>method 2 ...
-</span><span>//@@author sarahkhoo
+</span><span><span class="highlighted">//@@author sarahkhoo</span>
 </span><span>method 3 ...
-</span><span>//@@author johndoe
+</span><span><span class="highlighted">//@@author johndoe</span>
 </span><span>method 4 ...
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
     <div class="function-btn-body">
@@ -487,10 +487,10 @@ Here is a sample code file:</p>
 <p><strong>If you don't know who wrote the code segment below yours</strong>, you may put an empty <code class="line-numbers hljs inline no-lang" v-pre>//@@author</code> (i.e. no GitHub username) to indicate the end of the code segment you wrote. The author of code below yours can add the GitHub username to the empty tag later.
 Here is a sample code with an empty <code class="line-numbers hljs inline no-lang" v-pre>author</code> tag:</p>
 <pre><code class="line-numbers hljs" v-pre><span>method 0 ...
-</span><span>//@@author johndoe
+</span><span><span class="highlighted">//@@author johndoe</span>
 </span><span>method 1 ...
 </span><span>method 2 ...
-</span><span>//@@author
+</span><span><span class="highlighted">//@@author</span>
 </span><span>method 3 ...
 </span><span>method 4 ...
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
@@ -512,8 +512,8 @@ Here is a sample code with an empty <code class="line-numbers hljs inline no-lan
     </button></div></pre></li>
 <li>
 <p><strong>The author tag syntax varies based on file type</strong> e.g. for java, css, fxml. Use the corresponding comment syntax for non-Java files.<br>
-Here is an example code from an xml/fxml file.</p>
-<pre><code class="line-numbers hljs" v-pre><span>&lt;!-- @@author sereneWong --&gt;
+Here is an example code from an xml/fxml file. This format works for Markdown/MarkBind files as well.</p>
+<pre><code class="line-numbers hljs" v-pre><span><span class="highlighted">&lt;!-- @@author sereneWong --&gt;</span>
 </span><span>&lt;textbox&gt;
 </span><span>  &lt;label&gt;...&lt;/label&gt;
 </span><span>  &lt;input&gt;...&lt;/input&gt;
@@ -538,10 +538,10 @@ Here is an example code from an xml/fxml file.</p>
     </button></div></pre></li>
 <li>
 <p><strong>Do not put the <code class="line-numbers hljs inline no-lang" v-pre>//@@author</code> inside java header comments</strong>.<br>
-👎<span><span aria-hidden="true" class="fas fa-arrow-down"></span></span></p>
+<span style="color: red"><span><strong><span aria-hidden="true" class="fas fa-thumbs-down"></span> Bad</strong></span></span></p>
 <pre><code class="line-numbers hljs" v-pre><span>/**
 </span><span>  * Returns true if ...
-</span><span>  * @@author johndoe
+</span><span>  <span class="highlighted">* @@author johndoe</span>
 </span><span>  */
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
     <div class="function-btn-body">
@@ -559,8 +559,8 @@ Here is an example code from an xml/fxml file.</p>
 </svg>
 
     </div>
-    </button></div></pre><p>👍<span><span aria-hidden="true" class="fas fa-arrow-down"></span></span></p>
-<pre><code class="line-numbers hljs" v-pre><span>//@@author johndoe
+    </button></div></pre><p><span style="color: green"><span><strong><span aria-hidden="true" class="fas fa-thumbs-up"></span> Good</strong></span></span></p>
+<pre><code class="line-numbers hljs" v-pre><span><span class="highlighted">//@@author johndoe</span>
 </span><span>/**
 </span><span>  * Returns true if ...
 </span><span>  */
@@ -603,7 +603,7 @@ If you notice a team member claiming credit for code that he/she did not write o
 <li>Move unused files (or copies of files containing unused code) to that folder</li>
 <li>use <code class="line-numbers hljs inline no-lang" v-pre>//@@author {yourGitHubUsername}-unused</code> to mark unused code in those files (note the suffix <code class="line-numbers hljs inline no-lang" v-pre>unused</code>)
 e.g.</li></ul>
-<pre><code class="line-numbers hljs" v-pre><span>//@@author johndoe-unused
+<pre><code class="line-numbers hljs" v-pre><span><span class="highlighted">//@@author johndoe-unused</span>
 </span><span>method 1 ...
 </span><span>method 2 ...
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
@@ -626,7 +626,7 @@ e.g.</li></ul>
 <li>
 <p><strong>If you reused code from elsewhere,</strong> mark such code as <code class="line-numbers hljs inline no-lang" v-pre>//@@author {yourGitHubUsername}-reused</code> (note the suffix <code class="line-numbers hljs inline no-lang" v-pre>reused</code>)
 e.g.</p>
-<pre><code class="line-numbers hljs" v-pre><span>//@@author johndoe-reused
+<pre><code class="line-numbers hljs" v-pre><span><span class="highlighted">//@@author johndoe-reused</span>
 </span><span>method 1 ...
 </span><span>method 2 ...
 </span></code><div class="function-btn-container"><button onclick="copyCodeBlock(this)" class="function-btn">
