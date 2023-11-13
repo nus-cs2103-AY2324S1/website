@@ -26,6 +26,6 @@ with(this){return _c('p',[_c('span',{staticStyle:{"color":"green"}},[_c('span',[
 with(this){return _c('p',[_c('span',{staticStyle:{"color":"red"}},[_c('span',[_c('span',{staticClass:"fas fa-times",attrs:{"aria-hidden":"true"}})])]),_v(" "),_c('strong',[_v("HOW: The explanation for how the code works.")]),_v(" This should already be apparent from the code, if the code is self-explanatory. Adding comments to explain the same thing is redundant.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 13 Nov 2023, 1:42:03 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 13 Nov 2023, 18:29:57 GMT+8]")])])])}
 }];
   
