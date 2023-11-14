@@ -1,0 +1,19 @@
+2023-11-14T04:53:44.396Z - info: Website generation (lazy) started at 12:53:37 pm
+2023-11-14T04:54:01.225Z - info: Building assets...
+2023-11-14T04:54:11.822Z - info: Assets built
+2023-11-14T04:54:11.824Z - info: Generating landing page...
+2023-11-14T04:54:14.235Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-11-14T04:54:16.130Z - info: Site data built
+2023-11-14T04:54:16.131Z - info: Website generation (lazy) complete! Total build time: 39.072s
+2023-11-14T04:54:17.729Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-11-14T04:54:17.729Z - info: Press CTRL+C to stop ...
+2023-11-14T04:54:44.798Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe as some of its dependencies were changed since the last visit
+2023-11-14T04:55:12.270Z - info: Site data built
+2023-11-14T04:55:12.271Z - info: Lazy website regeneration complete! Total build time: 27.475s
+2023-11-14T05:03:15.473Z - info: [1:03:15 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\files\cs2113\JohnDoe.zip
+2023-11-14T05:03:15.476Z - info: Synchronizing opened pages list before reload
+2023-11-14T05:03:15.478Z - info: Current opened pages, from most-to-least recent:
+2023-11-14T05:03:15.480Z - info: 1. admin/tp-pe
+2023-11-14T05:03:16.684Z - info: Assets built
+2023-11-14T05:17:31.238Z - info: Website generation started at 1:17:29 pm
+2023-11-14T05:17:42.553Z - info: Building assets...
