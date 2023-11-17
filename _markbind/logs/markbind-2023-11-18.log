@@ -1,0 +1,54 @@
+2023-11-17T17:25:02.275Z - info: Website generation (lazy) started at 1:24:56 am
+2023-11-17T17:25:13.254Z - info: Building assets...
+2023-11-17T17:25:21.290Z - info: Assets built
+2023-11-17T17:25:21.292Z - info: Generating landing page...
+2023-11-17T17:25:22.526Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-11-17T17:25:23.520Z - info: Site data built
+2023-11-17T17:25:23.520Z - info: Website generation (lazy) complete! Total build time: 26.822s
+2023-11-17T17:25:24.370Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-11-17T17:25:24.370Z - info: Press CTRL+C to stop ...
+2023-11-17T17:26:01.394Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe as some of its dependencies were changed since the last visit
+2023-11-17T17:26:03.086Z - info: Site data built
+2023-11-17T17:26:03.087Z - info: Lazy website regeneration complete! Total build time: 1.693s
+2023-11-17T17:31:20.085Z - info: [1:31:20 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-bug-triaging-guidelines-fragment.md
+2023-11-17T17:31:20.086Z - info: Synchronizing opened pages list before reload
+2023-11-17T17:31:20.087Z - info: Current opened pages, from most-to-least recent:
+2023-11-17T17:31:20.088Z - info: 1. admin/tp-pe
+2023-11-17T17:31:21.103Z - info: Rebuilding 1 pages
+2023-11-17T17:31:22.202Z - info: Site data built
+2023-11-17T17:31:22.203Z - info: Pages rebuilt
+2023-11-17T17:31:22.203Z - info: Website regeneration complete! Total build time: 1.101s
+2023-11-17T17:36:56.861Z - info: [1:36:56 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-bug-triaging-guidelines-fragment.md
+2023-11-17T17:36:56.861Z - info: Synchronizing opened pages list before reload
+2023-11-17T17:36:56.862Z - info: Current opened pages, from most-to-least recent:
+2023-11-17T17:36:56.862Z - info: 1. admin/tp-pe
+2023-11-17T17:36:57.874Z - info: Rebuilding 1 pages
+2023-11-17T17:36:59.048Z - info: Site data built
+2023-11-17T17:36:59.049Z - info: Pages rebuilt
+2023-11-17T17:36:59.049Z - info: Website regeneration complete! Total build time: 1.176s
+2023-11-17T17:37:18.388Z - info: [1:37:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-bug-triaging-guidelines-fragment.md
+2023-11-17T17:37:18.389Z - info: Synchronizing opened pages list before reload
+2023-11-17T17:37:18.389Z - info: Current opened pages, from most-to-least recent:
+2023-11-17T17:37:18.389Z - info: 1. admin/tp-pe
+2023-11-17T17:37:19.399Z - info: Rebuilding 1 pages
+2023-11-17T17:37:20.364Z - info: Site data built
+2023-11-17T17:37:20.364Z - info: Pages rebuilt
+2023-11-17T17:37:20.364Z - info: Website regeneration complete! Total build time: 0.966s
+2023-11-17T17:38:41.137Z - info: [1:38:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-bug-triaging-guidelines-fragment.md
+2023-11-17T17:38:41.137Z - info: Synchronizing opened pages list before reload
+2023-11-17T17:38:41.137Z - info: Current opened pages, from most-to-least recent:
+2023-11-17T17:38:41.137Z - info: 1. admin/tp-pe
+2023-11-17T17:38:42.144Z - info: Rebuilding 1 pages
+2023-11-17T17:38:43.197Z - info: Site data built
+2023-11-17T17:38:43.197Z - info: Pages rebuilt
+2023-11-17T17:38:43.197Z - info: Website regeneration complete! Total build time: 1.055s
+2023-11-17T17:39:16.450Z - info: [1:39:16 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe-bug-triaging-guidelines-fragment.md
+2023-11-17T17:39:16.451Z - info: Synchronizing opened pages list before reload
+2023-11-17T17:39:16.451Z - info: Current opened pages, from most-to-least recent:
+2023-11-17T17:39:16.451Z - info: 1. admin/tp-pe
+2023-11-17T17:39:17.460Z - info: Rebuilding 1 pages
+2023-11-17T17:39:18.292Z - info: Site data built
+2023-11-17T17:39:18.292Z - info: Pages rebuilt
+2023-11-17T17:39:18.292Z - info: Website regeneration complete! Total build time: 0.832s
+2023-11-17T17:43:19.252Z - info: Website generation started at 1:43:17 am
+2023-11-17T17:43:30.492Z - info: Building assets...

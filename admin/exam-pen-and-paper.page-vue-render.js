@@ -56,6 +56,6 @@ with(this){return _c('h2',{attrs:{"id":"final-exam-part-2-essay"}},[_v("Final Ex
 with(this){return _c('ul',[_c('li',[_v("Some examples of the nature of questions you can expect:\n"),_c('ul',[_c('li',[_v("Draw UML diagrams to match the given code/description")]),_v(" "),_c('li',[_v("Specify requirements for a given project using various formats covered in the course")]),_v(" "),_c('li',[_v("Review a given piece of Java code to identify areas to improve (e.g., detect coding standard violations)")])])]),_v(" "),_c('li',[_c('strong',[_v("Yes, you may use pencils")]),_v(" when answering part 2.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 14 Nov 2023, 13:17:48 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Sat, 18 Nov 2023, 1:43:39 GMT+8]")])])])}
 }];
   
