@@ -1,0 +1,41 @@
+2023-11-25T17:58:33.417Z - info: Website generation (lazy) started at 1:58:27 am
+2023-11-25T17:58:46.332Z - info: Building assets...
+2023-11-25T17:58:54.039Z - info: Assets built
+2023-11-25T17:58:54.040Z - info: Generating landing page...
+2023-11-25T17:58:55.156Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-11-25T17:58:56.076Z - info: Site data built
+2023-11-25T17:58:56.076Z - info: Website generation (lazy) complete! Total build time: 28.168s
+2023-11-25T17:58:56.878Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-11-25T17:58:56.879Z - info: Press CTRL+C to stop ...
+2023-11-25T17:59:09.086Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2023-11-25T17:59:13.310Z - info: Site data built
+2023-11-25T17:59:13.310Z - info: Lazy website regeneration complete! Total build time: 4.224s
+2023-11-25T17:59:18.511Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\peerEvaluations as some of its dependencies were changed since the last visit
+2023-11-25T17:59:19.231Z - info: Site data built
+2023-11-25T17:59:19.231Z - info: Lazy website regeneration complete! Total build time: 0.721s
+2023-11-25T18:01:57.320Z - info: [2:01:57 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\peerEvaluations.md
+2023-11-25T18:01:57.320Z - info: Synchronizing opened pages list before reload
+2023-11-25T18:01:57.320Z - info: Current opened pages, from most-to-least recent:
+2023-11-25T18:01:57.321Z - info: 1. admin/peerEvaluations
+2023-11-25T18:01:58.329Z - info: Rebuilding 1 pages
+2023-11-25T18:01:58.799Z - info: Site data built
+2023-11-25T18:01:58.800Z - info: Pages rebuilt
+2023-11-25T18:01:58.800Z - info: Website regeneration complete! Total build time: 0.472s
+2023-11-25T18:02:15.381Z - info: [2:02:15 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\peerEvaluations.md
+2023-11-25T18:02:15.382Z - info: Synchronizing opened pages list before reload
+2023-11-25T18:02:15.382Z - info: Current opened pages, from most-to-least recent:
+2023-11-25T18:02:15.382Z - info: 1. admin/peerEvaluations
+2023-11-25T18:02:16.386Z - info: Rebuilding 1 pages
+2023-11-25T18:02:16.745Z - info: Site data built
+2023-11-25T18:02:16.745Z - info: Pages rebuilt
+2023-11-25T18:02:16.746Z - info: Website regeneration complete! Total build time: 0.36s
+2023-11-25T18:04:31.093Z - info: [2:04:31 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\peerEvaluations.md
+2023-11-25T18:04:31.093Z - info: Synchronizing opened pages list before reload
+2023-11-25T18:04:31.094Z - info: Current opened pages, from most-to-least recent:
+2023-11-25T18:04:31.094Z - info: 1. admin/peerEvaluations
+2023-11-25T18:04:32.113Z - info: Rebuilding 1 pages
+2023-11-25T18:04:32.620Z - info: Site data built
+2023-11-25T18:04:32.621Z - info: Pages rebuilt
+2023-11-25T18:04:32.621Z - info: Website regeneration complete! Total build time: 0.509s
+2023-11-25T18:07:08.091Z - info: Website generation started at 2:06:53 am
+2023-11-25T18:08:32.810Z - info: Building assets...
