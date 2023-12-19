@@ -1,0 +1,168 @@
+2023-12-19T07:53:27.778Z - info: Website generation (lazy) started at 3:53:23 pm
+2023-12-19T07:53:37.243Z - info: Building assets...
+2023-12-19T07:53:42.610Z - info: Assets built
+2023-12-19T07:53:42.611Z - info: Generating landing page...
+2023-12-19T07:53:43.374Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-12-19T07:53:44.276Z - info: Site data built
+2023-12-19T07:53:44.276Z - info: Website generation (lazy) complete! Total build time: 20.401s
+2023-12-19T07:53:45.093Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-12-19T07:53:45.093Z - info: Press CTRL+C to stop ...
+2023-12-19T07:57:55.204Z - info: [3:57:55 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2023-12-19T07:57:55.204Z - info: Synchronizing opened pages list before reload
+2023-12-19T07:57:55.205Z - info: Current opened pages, from most-to-least recent:
+2023-12-19T07:57:55.205Z - info: 1. index
+2023-12-19T07:57:56.278Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2023-12-19T07:57:56.282Z - info: Rebuilding 1 pages
+2023-12-19T07:57:56.671Z - info: Site data built
+2023-12-19T07:57:56.672Z - info: Pages rebuilt
+2023-12-19T07:57:56.672Z - info: Website regeneration complete! Total build time: 0.462s
+2023-12-19T07:58:51.855Z - info: [3:58:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\site.json
+2023-12-19T07:58:51.855Z - info: Synchronizing opened pages list before reload
+2023-12-19T07:58:51.855Z - info: Current opened pages, from most-to-least recent:
+2023-12-19T07:58:51.855Z - info: 1. index
+2023-12-19T07:58:56.400Z - info: Pages or site config modified, updating pages...
+2023-12-19T07:59:00.570Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\index as some of its dependencies were changed since the last visit
+2023-12-19T07:59:00.839Z - info: Site data built
+2023-12-19T07:59:00.839Z - info: Lazy website regeneration complete! Total build time: 0.269s
+2023-12-19T07:59:00.846Z - info: Site data built
+2023-12-19T07:59:30.279Z - info: Website generation started at 3:59:28 pm
+2023-12-19T07:59:38.841Z - info: Building assets...
+2023-12-19T07:59:44.629Z - info: Assets built
+2023-12-19T07:59:44.630Z - info: Generating pages...
+2023-12-19T07:59:56.215Z - debug:  
+2023-12-19T07:59:56.217Z - debug:  
+2023-12-19T07:59:56.217Z - debug:  
+2023-12-19T07:59:56.218Z - debug:  
+2023-12-19T07:59:56.219Z - debug:  
+2023-12-19T07:59:56.224Z - debug:  
+2023-12-19T07:59:57.539Z - debug:  
+2023-12-19T07:59:57.539Z - debug:  
+2023-12-19T07:59:57.539Z - debug:  
+2023-12-19T07:59:57.540Z - debug:  
+2023-12-19T07:59:57.540Z - debug:  
+2023-12-19T07:59:57.540Z - debug:  
+2023-12-19T07:59:57.540Z - debug:  
+2023-12-19T07:59:57.540Z - debug:  
+2023-12-19T07:59:57.798Z - debug:  
+2023-12-19T07:59:57.977Z - debug:  
+2023-12-19T08:01:27.693Z - debug:  
+2023-12-19T08:01:39.512Z - debug:  
+2023-12-19T08:01:39.522Z - debug:  
+2023-12-19T08:01:47.918Z - info: Pages built
+2023-12-19T08:01:48.658Z - info: Site data built
+2023-12-19T08:01:48.658Z - info: Website generation complete! Total build time: 139.799s
+2023-12-19T08:01:49.486Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-12-19T08:01:49.486Z - info: Press CTRL+C to stop ...
+2023-12-19T08:08:53.427Z - info: Website generation started at 4:08:49 pm
+2023-12-19T08:09:00.903Z - info: Building assets...
+2023-12-19T08:09:05.732Z - info: Assets built
+2023-12-19T08:09:05.733Z - info: Generating pages...
+2023-12-19T08:09:16.082Z - debug:  
+2023-12-19T08:09:16.083Z - debug:  
+2023-12-19T08:09:16.084Z - debug:  
+2023-12-19T08:09:16.086Z - debug:  
+2023-12-19T08:09:16.086Z - debug:  
+2023-12-19T08:09:16.087Z - debug:  
+2023-12-19T08:09:16.247Z - debug:  
+2023-12-19T08:09:16.248Z - debug:  
+2023-12-19T08:09:16.248Z - debug:  
+2023-12-19T08:09:16.249Z - debug:  
+2023-12-19T08:09:17.299Z - debug:  
+2023-12-19T08:09:17.300Z - debug:  
+2023-12-19T08:09:17.300Z - debug:  
+2023-12-19T08:09:17.300Z - debug:  
+2023-12-19T08:09:17.547Z - debug:  
+2023-12-19T08:09:17.631Z - debug:  
+2023-12-19T08:10:41.919Z - debug:  
+2023-12-19T08:10:53.319Z - debug:  
+2023-12-19T08:10:53.389Z - debug:  
+2023-12-19T08:11:01.523Z - info: Pages built
+2023-12-19T08:11:02.201Z - info: Site data built
+2023-12-19T08:11:02.202Z - info: Website generation complete! Total build time: 132.53s
+2023-12-19T08:11:02.202Z - info: Build success!
+2023-12-19T08:13:30.636Z - error: uncaughtException: remote: Permission to nus-cs2103-AY2324S1/website.git denied to damithc.
+fatal: unable to access 'https://github.com/nus-cs2103-AY2324S1/website.git/': The requested URL returned error: 403
+ date=Tue Dec 19 2023 16:13:30 GMT+0800 (Singapore Standard Time), pid=25680, uid=null, gid=null, cwd=C:\repos\nus-cs2103\cs2103-website-base, execPath=C:\Program Files\nodejs\node.exe, version=v20.10.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\index.js, deploy], rss=460828672, heapTotal=489496576, heapUsed=306494520, external=6756271, arrayBuffers=4397954, loadavg=[0, 0, 0], uptime=6709.421
+ProcessError: remote: Permission to nus-cs2103-AY2324S1/website.git denied to damithc.
+fatal: unable to access 'https://github.com/nus-cs2103-AY2324S1/website.git/': The requested URL returned error: 403
+
+    at ChildProcess.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\gh-pages\lib\git.js:42:16)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1105:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5)
+2023-12-19T08:18:06.150Z - info: Website generation started at 4:18:02 pm
+2023-12-19T08:18:13.639Z - info: Building assets...
+2023-12-19T08:18:18.511Z - info: Assets built
+2023-12-19T08:18:18.512Z - info: Generating pages...
+2023-12-19T08:18:30.518Z - debug:  
+2023-12-19T08:18:30.518Z - debug:  
+2023-12-19T08:18:30.519Z - debug:  
+2023-12-19T08:18:30.519Z - debug:  
+2023-12-19T08:18:31.882Z - debug:  
+2023-12-19T08:18:31.882Z - debug:  
+2023-12-19T08:18:31.882Z - debug:  
+2023-12-19T08:18:31.889Z - debug:  
+2023-12-19T08:18:31.890Z - debug:  
+2023-12-19T08:18:31.890Z - debug:  
+2023-12-19T08:18:31.890Z - debug:  
+2023-12-19T08:18:31.890Z - debug:  
+2023-12-19T08:18:31.890Z - debug:  
+2023-12-19T08:18:31.890Z - debug:  
+2023-12-19T08:18:32.282Z - debug:  
+2023-12-19T08:18:33.038Z - debug:  
+2023-12-19T08:20:13.206Z - debug:  
+2023-12-19T08:20:27.261Z - debug:  
+2023-12-19T08:20:27.272Z - debug:  
+2023-12-19T08:20:36.779Z - info: Pages built
+2023-12-19T08:20:37.561Z - info: Site data built
+2023-12-19T08:20:37.561Z - info: Website generation complete! Total build time: 154.996s
+2023-12-19T08:20:37.561Z - info: Build success!
+2023-12-19T08:23:09.074Z - error: uncaughtException: remote: Permission to nus-cs2103-AY2324S1/website.git denied to damithc.
+fatal: unable to access 'https://github.com/nus-cs2103-AY2324S1/website.git/': The requested URL returned error: 403
+ date=Tue Dec 19 2023 16:23:09 GMT+0800 (Singapore Standard Time), pid=29668, uid=null, gid=null, cwd=C:\repos\nus-cs2103\cs2103-website-base, execPath=C:\Program Files\nodejs\node.exe, version=v20.10.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\index.js, deploy], rss=489615360, heapTotal=507846656, heapUsed=307394608, external=35676861, arrayBuffers=33318544, loadavg=[0, 0, 0], uptime=7287.859
+ProcessError: remote: Permission to nus-cs2103-AY2324S1/website.git denied to damithc.
+fatal: unable to access 'https://github.com/nus-cs2103-AY2324S1/website.git/': The requested URL returned error: 403
+
+    at ChildProcess.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\gh-pages\lib\git.js:42:16)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1105:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5)
+2023-12-19T08:30:21.927Z - info: Website generation started at 4:30:17 pm
+2023-12-19T08:30:31.206Z - info: Building assets...
+2023-12-19T08:30:37.092Z - info: Assets built
+2023-12-19T08:30:37.093Z - info: Generating pages...
+2023-12-19T08:30:48.587Z - debug:  
+2023-12-19T08:30:48.588Z - debug:  
+2023-12-19T08:30:48.588Z - debug:  
+2023-12-19T08:30:48.589Z - debug:  
+2023-12-19T08:30:48.589Z - debug:  
+2023-12-19T08:30:50.064Z - debug:  
+2023-12-19T08:30:50.064Z - debug:  
+2023-12-19T08:30:50.064Z - debug:  
+2023-12-19T08:30:50.065Z - debug:  
+2023-12-19T08:30:50.065Z - debug:  
+2023-12-19T08:30:50.065Z - debug:  
+2023-12-19T08:30:50.065Z - debug:  
+2023-12-19T08:30:50.065Z - debug:  
+2023-12-19T08:30:50.065Z - debug:  
+2023-12-19T08:30:50.284Z - debug:  
+2023-12-19T08:30:50.448Z - debug:  
+2023-12-19T08:32:27.023Z - debug:  
+2023-12-19T08:32:44.925Z - debug:  
+2023-12-19T08:32:44.932Z - debug:  
+2023-12-19T08:32:54.640Z - info: Pages built
+2023-12-19T08:32:55.407Z - info: Site data built
+2023-12-19T08:32:55.407Z - info: Website generation complete! Total build time: 157.752s
+2023-12-19T08:32:55.407Z - info: Build success!
+2023-12-19T08:37:17.103Z - error: uncaughtException: remote: Permission to nus-cs2103-AY2324S1/website.git denied to damithc.
+fatal: unable to access 'https://github.com/nus-cs2103-AY2324S1/website.git/': The requested URL returned error: 403
+ date=Tue Dec 19 2023 16:37:17 GMT+0800 (Singapore Standard Time), pid=4276, uid=null, gid=null, cwd=C:\repos\nus-cs2103\cs2103-website-base, execPath=C:\Program Files\nodejs\node.exe, version=v20.10.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\index.js, deploy], rss=481153024, heapTotal=485302272, heapUsed=306897544, external=30173268, arrayBuffers=27814951, loadavg=[0, 0, 0], uptime=8135.89
+ProcessError: remote: Permission to nus-cs2103-AY2324S1/website.git denied to damithc.
+fatal: unable to access 'https://github.com/nus-cs2103-AY2324S1/website.git/': The requested URL returned error: 403
+
+    at ChildProcess.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\gh-pages\lib\git.js:42:16)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1105:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5)
+2023-12-19T08:55:11.585Z - info: Website generation started at 4:55:06 pm
+2023-12-19T08:55:22.500Z - info: Building assets...
